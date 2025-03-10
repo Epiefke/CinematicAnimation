@@ -72,3 +72,17 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+CinematicAnimation/Saved/Telemetry/Telemetry.json
+CinematicAnimation/Saved/ShaderDebugInfo/PCD3D_SM6/WorldGridMaterial_c12efe0f993d09f0/Default/DDCKey-Editor.txt
+CinematicAnimation/Saved/Logs/CinematicAnimation.log
+CinematicAnimation/Saved/Logs/CinematicAnimation-backup-2025.02.24-00.38.21.log
+CinematicAnimation/Saved/Logs/CinematicAnimation-backup-2025.02.21-08.09.59.log
+CinematicAnimation/Saved/Config/WindowsEditor/EditorPerProjectUserSettings.ini
+CinematicAnimation/Saved/Config/CrashReportClient/UECC-Windows-FFB1DCD4459E74BA8F48E68583FE580B/CrashReportClient.ini
+CinematicAnimation/Saved/Config/CrashReportClient/UECC-Windows-B1FB6E7C463C838FB3DF59B5A19BBC8E/CrashReportClient.ini
+CinematicAnimation/Saved/Config/CrashReportClient/UECC-Windows-8899EACE4177F803821D4C881E062B7D/CrashReportClient.ini
+CinematicAnimation/Saved/Config/CrashReportClient/UECC-Windows-6933BD9D4B5259D37125EE891B1F6138/CrashReportClient.ini
+CinematicAnimation/Saved/Config/CrashReportClient/UECC-Windows-4DD5C14344EC4E700670CDAF2D7DED88/CrashReportClient.ini
+CinematicAnimation/Intermediate/ShaderAutogen/PCD3D_SM6/AutogenShaderHeaders.ush
+CinematicAnimation/Intermediate/ShaderAutogen/PCD3D_SM5/AutogenShaderHeaders.ush
+CinematicAnimation/Intermediate/CachedAssetRegistry_0.bin
