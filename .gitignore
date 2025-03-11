@@ -86,3 +86,7 @@ CinematicAnimation/Saved/Config/CrashReportClient/UECC-Windows-4DD5C14344EC4E700
 CinematicAnimation/Intermediate/ShaderAutogen/PCD3D_SM6/AutogenShaderHeaders.ush
 CinematicAnimation/Intermediate/ShaderAutogen/PCD3D_SM5/AutogenShaderHeaders.ush
 CinematicAnimation/Intermediate/CachedAssetRegistry_0.bin
+
+# My Stuff
+StarterContent/*
+CinematicAnimation/Content/StarterContent/*
