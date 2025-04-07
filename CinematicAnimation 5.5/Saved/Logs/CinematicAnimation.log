@@ -2148,3 +2148,138 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.04.07-00.01.04:045][543]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2025.04.07-00.01.04:045][543]AssetCheck: /Game/Cin_Anim/Levels/Jordan Validating asset
 [2025.04.07-00.01.04:045][543]AssetCheck: /Game/Cin_Anim/Shots/Shot_001-004 Validating asset
+[2025.04.07-00.06.45:547][672]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1762.772583
+[2025.04.07-00.06.46:880][676]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.04.07-00.06.46:880][676]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1763.772461, Update Interval: 325.565979
+[2025.04.07-00.13.03:588][806]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2140.811035
+[2025.04.07-00.13.04:588][809]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.04.07-00.13.04:588][809]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2141.478271, Update Interval: 316.357300
+[2025.04.07-00.18.58:955][872]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2496.175537
+[2025.04.07-00.18.59:955][875]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.04.07-00.18.59:955][875]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2496.841797, Update Interval: 319.063690
+[2025.04.07-00.21.50:312][222]LogAssetEditorSubsystem: Opening Asset editor for LevelSequence /Game/Cin_Anim/Shots/Shot_005.Shot_005
+[2025.04.07-00.23.23:552][240]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2025.04.07-00.23.23:567][240]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Cin_Anim/Levels/Jordan_Auto1
+[2025.04.07-00.23.23:567][240]LogSavePackage: Moving 'C:/Users/Jordan/Documents/CinematicAnimation/CinematicAnimation 5.5/Saved/Jordan_Auto11D69FBB44FFD80AAE866E9A2B6D268C8.tmp' to 'C:/Users/Jordan/Documents/CinematicAnimation/CinematicAnimation 5.5/Saved/Autosaves/Game/Cin_Anim/Levels/Jordan_Auto1.umap'
+[2025.04.07-00.23.23:568][240]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Cin_Anim/Levels/Cinematic_Map' took 0.064
+[2025.04.07-00.23.23:568][240]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.064
+[2025.04.07-00.23.36:063][487]Cmd: DUPLICATE
+[2025.04.07-00.23.36:063][487]Cmd: ACTOR DUPLICATE
+[2025.04.07-00.24.59:152][334]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2856.373291
+[2025.04.07-00.24.59:504][342]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.04.07-00.24.59:504][342]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2856.681152, Update Interval: 332.959991
+[2025.04.07-00.25.31:709][404]Cmd: TRANSACTION UNDO
+[2025.04.07-00.25.31:709][404]LogEditorTransaction: Undo Change Lens Preset
+[2025.04.07-00.25.36:443][674]LogRenderer: Display: Invalidated clipmap due to WPO threshold change. This can occur due to resolution or FOV changes.
+[2025.04.07-00.25.40:031][851]LogRenderer: Display: Invalidated clipmap due to WPO threshold change. This can occur due to resolution or FOV changes.
+[2025.04.07-00.26.45:949][325]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_1
+[2025.04.07-00.26.53:596][652]Cmd: TRANSACTION UNDO
+[2025.04.07-00.26.53:596][652]LogEditorTransaction: Undo Move World Outliner Items
+[2025.04.07-00.27.23:094][  3]Cmd: TRANSACTION UNDO
+[2025.04.07-00.27.23:094][  3]LogEditorTransaction: Undo Set Location
+[2025.04.07-00.27.24:844][ 68]Cmd: TRANSACTION UNDO
+[2025.04.07-00.27.24:844][ 68]LogEditorTransaction: Undo Set Location
+[2025.04.07-00.28.11:225][363]Cmd: TRANSACTION UNDO
+[2025.04.07-00.28.11:225][363]LogEditorTransaction: Undo Move Elements
+[2025.04.07-00.28.16:420][551]Cmd: TRANSACTION UNDO
+[2025.04.07-00.28.16:420][551]LogEditorTransaction: Undo Move Elements
+[2025.04.07-00.31.05:810][427]Cmd: TRANSACTION UNDO
+[2025.04.07-00.31.05:811][427]LogEditorTransaction: Undo Change Lens Preset
+[2025.04.07-00.31.08:436][538]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3225.660156
+[2025.04.07-00.31.08:781][549]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.04.07-00.31.08:781][549]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3225.974121, Update Interval: 357.498718
+[2025.04.07-00.31.10:163][593]Cmd: TRANSACTION UNDO
+[2025.04.07-00.31.10:163][593]LogEditorTransaction: Undo Animatable Property Changed
+[2025.04.07-00.34.01:125][928]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_2
+[2025.04.07-00.34.54:775][507]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.RectLight
+[2025.04.07-00.34.54:775][507]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.RectLight
+[2025.04.07-00.35.46:142][ 48]LogShaderCompilers: Display: ================================================
+[2025.04.07-00.35.46:142][ 48]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.04.07-00.35.46:142][ 48]LogShaderCompilers: Display: Total job queries 581, among them cache hits 63 (10.84%), DDC hits 455 (78.31%), Duplicates 57 (9.81%)
+[2025.04.07-00.35.46:142][ 48]LogShaderCompilers: Display: Tracking 461 distinct input hashes that result in 397 distinct outputs (86.12%)
+[2025.04.07-00.35.46:142][ 48]LogShaderCompilers: Display: RAM used: 223.80 KiB of 1.60 GiB budget. Usage: 0.01%
+[2025.04.07-00.35.46:142][ 48]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.04.07-00.35.46:142][ 48]LogShaderCompilers: Display: Shaders Compiled: 6
+[2025.04.07-00.35.46:142][ 48]LogShaderCompilers: Display: Jobs assigned 6, completed 6 (100%)
+[2025.04.07-00.35.46:142][ 48]LogShaderCompilers: Display: Average time worker was idle: 31.74 s
+[2025.04.07-00.35.46:142][ 48]LogShaderCompilers: Display: Time job spent in pending queue: average 0.08 s, longest 0.08 s
+[2025.04.07-00.35.46:142][ 48]LogShaderCompilers: Display: Job execution time: average 1.59 s, max 3.90 s
+[2025.04.07-00.35.46:142][ 48]LogShaderCompilers: Display: Job life time (pending + execution): average 1.68 s, max 3.99
+[2025.04.07-00.35.46:142][ 48]LogShaderCompilers: Display: Shader code size: average 8.529 KiB, min 5.668 KiB, max 11.094 KiB
+[2025.04.07-00.35.46:142][ 48]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 4.58 s
+[2025.04.07-00.35.46:142][ 48]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.00%
+[2025.04.07-00.35.46:142][ 48]LogShaderCompilers: Display: Jobs were issued in 6 batches (only local compilation was used), average 1.00 jobs/batch
+[2025.04.07-00.35.46:142][ 48]LogShaderCompilers: Display: Average processing rate: 1.31 jobs/sec
+[2025.04.07-00.35.46:142][ 48]LogShaderCompilers: Display: Total thread time: 1.801 s
+[2025.04.07-00.35.46:142][ 48]LogShaderCompilers: Display: Total thread preprocess time: 6.22 s
+[2025.04.07-00.35.46:142][ 48]LogShaderCompilers: Display: Percentage time preprocessing: 345.43%
+[2025.04.07-00.35.46:142][ 48]LogShaderCompilers: Display: Effective parallelization: 0.39 (times faster than compiling all shaders on one thread). Compare with number of workers: 12
+[2025.04.07-00.35.46:142][ 48]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.04.07-00.35.46:142][ 48]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy (compiled    2 times, average 0.50 sec, max 0.50 sec, min 0.50 sec)
+[2025.04.07-00.35.46:142][ 48]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    1 times, average 0.27 sec, max 0.27 sec, min 0.27 sec)
+[2025.04.07-00.35.46:142][ 48]LogShaderCompilers: Display:                                                 FLumenCardPS (compiled    1 times, average 0.19 sec, max 0.19 sec, min 0.19 sec)
+[2025.04.07-00.35.46:142][ 48]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    1 times, average 0.18 sec, max 0.18 sec, min 0.18 sec)
+[2025.04.07-00.35.46:142][ 48]LogShaderCompilers: Display:                                                 FLumenCardVS (compiled    1 times, average 0.16 sec, max 0.16 sec, min 0.16 sec)
+[2025.04.07-00.35.46:142][ 48]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.04.07-00.35.46:142][ 48]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 55.71% of total time (compiled    2 times, average 0.50 sec, max 0.50 sec, min 0.50 sec)
+[2025.04.07-00.35.46:143][ 48]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 14.90% of total time (compiled    1 times, average 0.27 sec, max 0.27 sec, min 0.27 sec)
+[2025.04.07-00.35.46:143][ 48]LogShaderCompilers: Display:                                                 FLumenCardPS - 10.44% of total time (compiled    1 times, average 0.19 sec, max 0.19 sec, min 0.19 sec)
+[2025.04.07-00.35.46:143][ 48]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 10.03% of total time (compiled    1 times, average 0.18 sec, max 0.18 sec, min 0.18 sec)
+[2025.04.07-00.35.46:143][ 48]LogShaderCompilers: Display:                                                 FLumenCardVS - 8.92% of total time (compiled    1 times, average 0.16 sec, max 0.16 sec, min 0.16 sec)
+[2025.04.07-00.35.46:143][ 48]LogShaderCompilers: Display: === Material stats ===
+[2025.04.07-00.35.46:143][ 48]LogShaderCompilers: Display: Materials Cooked:        0
+[2025.04.07-00.35.46:143][ 48]LogShaderCompilers: Display: Materials Translated:    172
+[2025.04.07-00.35.46:143][ 48]LogShaderCompilers: Display: Material Total Translate Time: 1.86 s
+[2025.04.07-00.35.46:143][ 48]LogShaderCompilers: Display: Material Translation Only: 0.44 s (24%)
+[2025.04.07-00.35.46:143][ 48]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (0%)
+[2025.04.07-00.35.46:143][ 48]LogShaderCompilers: Display: Material Cache Hits: 19 (11%)
+[2025.04.07-00.35.46:143][ 48]LogShaderCompilers: Display: ================================================
+[2025.04.07-00.35.57:558][823]LogSlate: Window 'Color Picker' being destroyed
+[2025.04.07-00.36.44:646][ 18]Cmd: TRANSACTION UNDO
+[2025.04.07-00.36.44:646][ 18]LogEditorTransaction: Undo Move Elements
+[2025.04.07-00.37.17:841][160]LogSlate: Window 'Color Picker' being destroyed
+[2025.04.07-00.37.30:956][458]LogDerivedDataCache: C:/Users/Jordan/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.04.07-00.38.03:417][425]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3640.638672
+[2025.04.07-00.38.03:762][435]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.04.07-00.38.03:763][435]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3640.940918, Update Interval: 336.594757
+[2025.04.07-00.38.04:524][453]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2025.04.07-00.38.04:541][453]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Cin_Anim/Levels/Jordan_Auto2
+[2025.04.07-00.38.04:541][453]LogSavePackage: Moving 'C:/Users/Jordan/Documents/CinematicAnimation/CinematicAnimation 5.5/Saved/Jordan_Auto20EF42A034CE03784C68CD49BED641BD3.tmp' to 'C:/Users/Jordan/Documents/CinematicAnimation/CinematicAnimation 5.5/Saved/Autosaves/Game/Cin_Anim/Levels/Jordan_Auto2.umap'
+[2025.04.07-00.38.04:543][453]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Cin_Anim/Levels/Cinematic_Map' took 0.038
+[2025.04.07-00.38.04:543][453]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.038
+[2025.04.07-00.38.04:543][453]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Cin_Anim/Shots/Shot_005] ([1] browsable assets)...
+[2025.04.07-00.38.04:543][453]OBJ SavePackage: Finished generating thumbnails for package [/Game/Cin_Anim/Shots/Shot_005]
+[2025.04.07-00.38.04:546][453]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Cin_Anim/Shots/Shot_005_Auto2
+[2025.04.07-00.38.04:546][453]LogSavePackage: Moving 'C:/Users/Jordan/Documents/CinematicAnimation/CinematicAnimation 5.5/Saved/Shot_005_Auto24F8196804DB5C485A982698BD1FE0283.tmp' to 'C:/Users/Jordan/Documents/CinematicAnimation/CinematicAnimation 5.5/Saved/Autosaves/Game/Cin_Anim/Shots/Shot_005_Auto2.uasset'
+[2025.04.07-00.38.04:609][453]LogFileHelpers: Auto-saving content packages took 0.066
+[2025.04.07-00.38.11:215][646]Cmd: DUPLICATE
+[2025.04.07-00.38.11:215][646]Cmd: ACTOR DUPLICATE
+[2025.04.07-00.38.19:009][800]Cmd: TRANSACTION UNDO
+[2025.04.07-00.38.19:009][800]LogEditorTransaction: Undo Rotate Elements
+[2025.04.07-00.38.45:979][582]LogSlate: Window 'Color Picker' being destroyed
+[2025.04.07-00.39.25:938][608]LogSlate: Window 'Color Picker' being destroyed
+[2025.04.07-00.40.11:675][ 35]LogSlate: Window 'Color Picker' being destroyed
+[2025.04.07-00.40.24:644][374]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_3
+[2025.04.07-00.42.35:057][513]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2025.04.07-00.42.36:635][513]LogSlate: Window 'Save Content' being destroyed
+[2025.04.07-00.42.36:640][513]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.04.07-00.42.36:705][513]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2025.04.07-00.42.36:718][513]LogSavePackage: Moving output files for package: /Game/Cin_Anim/Levels/Jordan
+[2025.04.07-00.42.36:719][513]LogSavePackage: Moving 'C:/Users/Jordan/Documents/CinematicAnimation/CinematicAnimation 5.5/Saved/Jordan168C8C7B4453EFFD1EB29F9026924F21.tmp' to 'C:/Users/Jordan/Documents/CinematicAnimation/CinematicAnimation 5.5/Content/Cin_Anim/Levels/Jordan.umap'
+[2025.04.07-00.42.36:726][513]LogFileHelpers: Saving map 'Jordan' took 0.033
+[2025.04.07-00.42.36:726][513]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Cin_Anim/Shots/Shot_005] ([1] browsable assets)...
+[2025.04.07-00.42.36:726][513]OBJ SavePackage: Finished generating thumbnails for package [/Game/Cin_Anim/Shots/Shot_005]
+[2025.04.07-00.42.36:726][513]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Cin_Anim/Shots/Shot_005" FILE="C:/Users/Jordan/Documents/CinematicAnimation/CinematicAnimation 5.5/Content/Cin_Anim/Shots/Shot_005.uasset" SILENT=true
+[2025.04.07-00.42.36:729][513]LogSavePackage: Moving output files for package: /Game/Cin_Anim/Shots/Shot_005
+[2025.04.07-00.42.36:729][513]LogSavePackage: Moving 'C:/Users/Jordan/Documents/CinematicAnimation/CinematicAnimation 5.5/Saved/Shot_005445165834E5B9BBBFDDBBCB69981D08B.tmp' to 'C:/Users/Jordan/Documents/CinematicAnimation/CinematicAnimation 5.5/Content/Cin_Anim/Shots/Shot_005.uasset'
+[2025.04.07-00.42.36:734][513]LogFileHelpers: InternalPromptForCheckoutAndSave took 93.804 ms (total: 932.094 ms)
+[2025.04.07-00.42.36:810][513]LogContentValidation: Display: Starting to validate 2 assets
+[2025.04.07-00.42.36:810][513]LogContentValidation: Enabled validators:
+[2025.04.07-00.42.36:810][513]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.04.07-00.42.36:810][513]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.04.07-00.42.36:810][513]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.04.07-00.42.36:810][513]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.04.07-00.42.36:810][513]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.04.07-00.42.36:810][513]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.04.07-00.42.36:810][513]AssetCheck: /Game/Cin_Anim/Levels/Jordan Validating asset
+[2025.04.07-00.42.36:810][513]AssetCheck: /Game/Cin_Anim/Shots/Shot_005 Validating asset
