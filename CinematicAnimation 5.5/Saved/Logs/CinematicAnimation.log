@@ -1686,3 +1686,243 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.04.07-06.08.19:623][683]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3493.039307
 [2025.04.07-06.08.20:623][686]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2025.04.07-06.08.20:623][686]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3493.706055, Update Interval: 328.257690
+[2025.04.07-06.12.02:137][351]LogDerivedDataCache: C:/Users/Jordan/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.04.07-06.14.42:325][831]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3875.736572
+[2025.04.07-06.14.43:325][834]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.04.07-06.14.43:325][834]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3876.402832, Update Interval: 340.202026
+[2025.04.07-06.19.22:016][231]Cmd: EDIT COPY
+[2025.04.07-06.20.21:471][172]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2025.04.07-06.20.21:485][172]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Cin_Anim/Levels/Jordan_Auto4
+[2025.04.07-06.20.21:486][172]LogSavePackage: Moving 'C:/Users/Jordan/Documents/CinematicAnimation/CinematicAnimation 5.5/Saved/Jordan_Auto4264E5C0344BA48EB62C52FB43012BBA7.tmp' to 'C:/Users/Jordan/Documents/CinematicAnimation/CinematicAnimation 5.5/Saved/Autosaves/Game/Cin_Anim/Levels/Jordan_Auto4.umap'
+[2025.04.07-06.20.21:487][172]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Cin_Anim/Levels/Cinematic_Map' took 0.039
+[2025.04.07-06.20.21:487][172]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.039
+[2025.04.07-06.21.20:924][139]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4274.325684
+[2025.04.07-06.21.21:358][146]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.04.07-06.21.21:359][146]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4274.689941, Update Interval: 351.871704
+[2025.04.07-06.22.54:567][659]Cmd: EDIT PASTE
+[2025.04.07-06.26.43:662][936]LogRenderer: Warning: [VSM] Non-Nanite Marking Job Queue overflow. Performance may be affected. This occurs when many non-nanite meshes cover a large area of the shadow map.
+[2025.04.07-06.26.54:582][114]Cmd: TRANSACTION UNDO
+[2025.04.07-06.26.54:583][114]LogEditorTransaction: Undo Move Elements
+[2025.04.07-06.26.57:055][203]Cmd: EDIT COPY
+[2025.04.07-06.27.06:276][363]Cmd: EDIT PASTE
+[2025.04.07-06.27.35:845][ 58]Cmd: DELETE
+[2025.04.07-06.27.35:845][ 58]Cmd: ACTOR DELETE
+[2025.04.07-06.27.38:743][ 58]LogSlate: Window 'Delete Referenced Actor' being destroyed
+[2025.04.07-06.27.38:789][ 58]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2025.04.07-06.27.38:793][ 58]LogEditorActor: Deleted 0 Actors (0.021 secs)
+[2025.04.07-06.28.03:044][824]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4676.441406
+[2025.04.07-06.28.03:442][831]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.04.07-06.28.03:442][831]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4676.773926, Update Interval: 327.873169
+[2025.04.07-06.32.36:335][790]LogAssetEditorSubsystem: Opening Asset editor for LevelSequence /Game/Cin_Anim/Shots/Shot_010.Shot_010
+[2025.04.07-06.32.56:720][429]LogCore: Display: Tracing Screenshot "HighresScreenshot00003" taken with size: 1045 x 588
+[2025.04.07-06.32.56:787][430]LogClient: High resolution screenshot saved as C:/Users/Jordan/Documents/CinematicAnimation/CinematicAnimation 5.5/Saved/Screenshots/WindowsEditor/HighresScreenshot00003.png
+[2025.04.07-06.33.21:985][618]Cmd: r.ResetRenderTargetsExtent
+[2025.04.07-06.33.21:985][618]Scene texture extent history reset. Next scene render will reallocate textures at the requested size.
+[2025.04.07-06.33.21:985][618]LogSlate: Window 'High Resolution Screenshot' being destroyed
+[2025.04.07-06.33.25:559][707]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2025.04.07-06.33.25:925][707]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Cin_Anim/Levels/Cinematic_Map_Auto5
+[2025.04.07-06.33.25:926][707]LogSavePackage: Moving 'C:/Users/Jordan/Documents/CinematicAnimation/CinematicAnimation 5.5/Saved/Cinematic_Map_Auto5F91840E045207C4766EB77AB907C4F09.tmp' to 'C:/Users/Jordan/Documents/CinematicAnimation/CinematicAnimation 5.5/Saved/Autosaves/Game/Cin_Anim/Levels/Cinematic_Map_Auto5.umap'
+[2025.04.07-06.33.25:942][707]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Cin_Anim/Levels/Jordan_Auto5
+[2025.04.07-06.33.25:942][707]LogSavePackage: Moving 'C:/Users/Jordan/Documents/CinematicAnimation/CinematicAnimation 5.5/Saved/Jordan_Auto5BF9373524DA2AF2F2BB297B410D41B4E.tmp' to 'C:/Users/Jordan/Documents/CinematicAnimation/CinematicAnimation 5.5/Saved/Autosaves/Game/Cin_Anim/Levels/Jordan_Auto5.umap'
+[2025.04.07-06.33.25:943][707]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Cin_Anim/Levels/Cinematic_Map' took 0.408
+[2025.04.07-06.33.25:943][707]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.408
+[2025.04.07-06.33.25:944][707]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Cin_Anim/Shots/Shot_010] ([1] browsable assets)...
+[2025.04.07-06.33.25:944][707]OBJ SavePackage: Finished generating thumbnails for package [/Game/Cin_Anim/Shots/Shot_010]
+[2025.04.07-06.33.25:946][707]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Cin_Anim/Shots/Shot_010_Auto5
+[2025.04.07-06.33.25:946][707]LogSavePackage: Moving 'C:/Users/Jordan/Documents/CinematicAnimation/CinematicAnimation 5.5/Saved/Shot_010_Auto500978C3E414F97B43CF7749A3BE8E00F.tmp' to 'C:/Users/Jordan/Documents/CinematicAnimation/CinematicAnimation 5.5/Saved/Autosaves/Game/Cin_Anim/Shots/Shot_010_Auto5.uasset'
+[2025.04.07-06.33.25:947][707]LogFileHelpers: Auto-saving content packages took 0.003
+[2025.04.07-06.33.45:845][280]Cmd: TRANSACTION UNDO
+[2025.04.07-06.33.45:845][280]LogEditorTransaction: Undo Set Rotation
+[2025.04.07-06.34.18:716][805]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5052.092285
+[2025.04.07-06.34.19:375][811]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.04.07-06.34.19:375][811]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5052.713379, Update Interval: 330.993378
+[2025.04.07-06.34.24:016][934]Cmd: TRANSACTION UNDO
+[2025.04.07-06.34.24:016][934]LogEditorTransaction: Undo Set Location
+[2025.04.07-06.34.25:886][  3]Cmd: TRANSACTION UNDO
+[2025.04.07-06.34.25:886][  3]LogEditorTransaction: Undo Set Location
+[2025.04.07-06.35.58:042][671]Cmd: TRANSACTION UNDO
+[2025.04.07-06.35.58:042][671]LogEditorTransaction: Undo Set Location
+[2025.04.07-06.40.31:708][282]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5425.117188
+[2025.04.07-06.40.32:708][285]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.04.07-06.40.32:708][285]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5425.784180, Update Interval: 353.030792
+[2025.04.07-06.41.09:087][674]Cmd: TRANSACTION UNDO
+[2025.04.07-06.41.09:087][674]LogEditorTransaction: Undo Set Rotation
+[2025.04.07-06.43.26:419][463]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2025.04.07-06.43.26:499][463]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Cin_Anim/Levels/Cinematic_Map_Auto6
+[2025.04.07-06.43.26:500][463]LogSavePackage: Moving 'C:/Users/Jordan/Documents/CinematicAnimation/CinematicAnimation 5.5/Saved/Cinematic_Map_Auto6A9B52F0F45FCF0C70E010FB4DA2BBB20.tmp' to 'C:/Users/Jordan/Documents/CinematicAnimation/CinematicAnimation 5.5/Saved/Autosaves/Game/Cin_Anim/Levels/Cinematic_Map_Auto6.umap'
+[2025.04.07-06.43.26:515][463]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Cin_Anim/Levels/Jordan_Auto6
+[2025.04.07-06.43.26:515][463]LogSavePackage: Moving 'C:/Users/Jordan/Documents/CinematicAnimation/CinematicAnimation 5.5/Saved/Jordan_Auto6309F58F24B5ACCED666CD0995B3B8CC9.tmp' to 'C:/Users/Jordan/Documents/CinematicAnimation/CinematicAnimation 5.5/Saved/Autosaves/Game/Cin_Anim/Levels/Jordan_Auto6.umap'
+[2025.04.07-06.43.26:517][463]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Cin_Anim/Levels/Cinematic_Map' took 0.113
+[2025.04.07-06.43.26:517][463]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.113
+[2025.04.07-06.43.26:517][463]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Cin_Anim/Shots/Shot_010] ([1] browsable assets)...
+[2025.04.07-06.43.26:517][463]OBJ SavePackage: Finished generating thumbnails for package [/Game/Cin_Anim/Shots/Shot_010]
+[2025.04.07-06.43.26:520][463]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Cin_Anim/Shots/Shot_010_Auto6
+[2025.04.07-06.43.26:520][463]LogSavePackage: Moving 'C:/Users/Jordan/Documents/CinematicAnimation/CinematicAnimation 5.5/Saved/Shot_010_Auto6539B4DD34D4AE387804052A0C736E030.tmp' to 'C:/Users/Jordan/Documents/CinematicAnimation/CinematicAnimation 5.5/Saved/Autosaves/Game/Cin_Anim/Shots/Shot_010_Auto6.uasset'
+[2025.04.07-06.43.26:521][463]LogFileHelpers: Auto-saving content packages took 0.004
+[2025.04.07-06.45.45:997][165]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Plane.Plane
+[2025.04.07-06.45.45:997][165]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Plane.Plane
+[2025.04.07-06.45.45:998][165]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Plane.Plane as actor: StaticMeshActor /Game/Cin_Anim/Levels/Jordan.Jordan:PersistentLevel.StaticMeshActor_0
+[2025.04.07-06.45.45:998][165]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Plane.Plane as actor: StaticMeshActor /Game/Cin_Anim/Levels/Jordan.Jordan:PersistentLevel.StaticMeshActor_0
+[2025.04.07-06.46.06:001][595]LogNavigation: Warning: FNavigationOctree::AddNode: Empty bounds, ignoring StaticMeshComponent /Game/Cin_Anim/Levels/Jordan.Jordan:PersistentLevel.StaticMeshActor_0.StaticMeshComponent0.
+[2025.04.07-06.46.23:386][ 16]LogShaderCompilers: Display: ================================================
+[2025.04.07-06.46.23:387][ 16]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.04.07-06.46.23:387][ 16]LogShaderCompilers: Display: Total job queries 811, among them cache hits 195 (24.04%), DDC hits 591 (72.87%), Duplicates 16 (1.97%)
+[2025.04.07-06.46.23:387][ 16]LogShaderCompilers: Display: Tracking 600 distinct input hashes that result in 441 distinct outputs (73.50%)
+[2025.04.07-06.46.23:387][ 16]LogShaderCompilers: Display: RAM used: 291.82 KiB of 1.60 GiB budget. Usage: 0.02%
+[2025.04.07-06.46.23:387][ 16]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.04.07-06.46.23:387][ 16]LogShaderCompilers: Display: Shaders Compiled: 9
+[2025.04.07-06.46.23:387][ 16]LogShaderCompilers: Display: Jobs assigned 9, completed 9 (100%)
+[2025.04.07-06.46.23:387][ 16]LogShaderCompilers: Display: Average time worker was idle: 3729.90 s
+[2025.04.07-06.46.23:387][ 16]LogShaderCompilers: Display: Time job spent in pending queue: average 0.09 s, longest 0.10 s
+[2025.04.07-06.46.23:387][ 16]LogShaderCompilers: Display: Job execution time: average 2.33 s, max 3.43 s
+[2025.04.07-06.46.23:387][ 16]LogShaderCompilers: Display: Job life time (pending + execution): average 2.43 s, max 3.51
+[2025.04.07-06.46.23:387][ 16]LogShaderCompilers: Display: Shader code size: average 7.128 KiB, min 4.219 KiB, max 11.066 KiB
+[2025.04.07-06.46.23:387][ 16]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 5.71 s
+[2025.04.07-06.46.23:387][ 16]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.00%
+[2025.04.07-06.46.23:387][ 16]LogShaderCompilers: Display: Jobs were issued in 9 batches (only local compilation was used), average 1.00 jobs/batch
+[2025.04.07-06.46.23:387][ 16]LogShaderCompilers: Display: Average processing rate: 1.58 jobs/sec
+[2025.04.07-06.46.23:387][ 16]LogShaderCompilers: Display: Total thread time: 2.496 s
+[2025.04.07-06.46.23:387][ 16]LogShaderCompilers: Display: Total thread preprocess time: 7.865 s
+[2025.04.07-06.46.23:387][ 16]LogShaderCompilers: Display: Percentage time preprocessing: 315.13%
+[2025.04.07-06.46.23:387][ 16]LogShaderCompilers: Display: Effective parallelization: 0.44 (times faster than compiling all shaders on one thread). Compare with number of workers: 12
+[2025.04.07-06.46.23:387][ 16]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.04.07-06.46.23:387][ 16]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy (compiled    1 times, average 0.60 sec, max 0.60 sec, min 0.60 sec)
+[2025.04.07-06.46.23:387][ 16]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    2 times, average 0.30 sec, max 0.33 sec, min 0.26 sec)
+[2025.04.07-06.46.23:387][ 16]LogShaderCompilers: Display:                                                 FLumenCardPS (compiled    2 times, average 0.23 sec, max 0.27 sec, min 0.18 sec)
+[2025.04.07-06.46.23:387][ 16]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    2 times, average 0.21 sec, max 0.27 sec, min 0.16 sec)
+[2025.04.07-06.46.23:387][ 16]LogShaderCompilers: Display:                                                 FLumenCardVS (compiled    2 times, average 0.21 sec, max 0.27 sec, min 0.16 sec)
+[2025.04.07-06.46.23:387][ 16]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.04.07-06.46.23:387][ 16]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 24.03% of total time (compiled    1 times, average 0.60 sec, max 0.60 sec, min 0.60 sec)
+[2025.04.07-06.46.23:387][ 16]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 23.76% of total time (compiled    2 times, average 0.30 sec, max 0.33 sec, min 0.26 sec)
+[2025.04.07-06.46.23:387][ 16]LogShaderCompilers: Display:                                                 FLumenCardPS - 18.10% of total time (compiled    2 times, average 0.23 sec, max 0.27 sec, min 0.18 sec)
+[2025.04.07-06.46.23:387][ 16]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 17.16% of total time (compiled    2 times, average 0.21 sec, max 0.27 sec, min 0.16 sec)
+[2025.04.07-06.46.23:387][ 16]LogShaderCompilers: Display:                                                 FLumenCardVS - 16.95% of total time (compiled    2 times, average 0.21 sec, max 0.27 sec, min 0.16 sec)
+[2025.04.07-06.46.23:387][ 16]LogShaderCompilers: Display: === Material stats ===
+[2025.04.07-06.46.23:387][ 16]LogShaderCompilers: Display: Materials Cooked:        0
+[2025.04.07-06.46.23:387][ 16]LogShaderCompilers: Display: Materials Translated:    189
+[2025.04.07-06.46.23:387][ 16]LogShaderCompilers: Display: Material Total Translate Time: 0.21 s
+[2025.04.07-06.46.23:387][ 16]LogShaderCompilers: Display: Material Translation Only: 0.04 s (17%)
+[2025.04.07-06.46.23:387][ 16]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (1%)
+[2025.04.07-06.46.23:387][ 16]LogShaderCompilers: Display: Material Cache Hits: 84 (44%)
+[2025.04.07-06.46.23:387][ 16]LogShaderCompilers: Display: ================================================
+[2025.04.07-06.46.46:216][817]Cmd: TRANSACTION UNDO
+[2025.04.07-06.46.46:216][817]LogEditorTransaction: Undo Move Elements
+[2025.04.07-06.46.48:986][932]Cmd: TRANSACTION UNDO
+[2025.04.07-06.46.48:986][932]LogEditorTransaction: Undo Move Elements
+[2025.04.07-06.46.58:679][200]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5812.108887
+[2025.04.07-06.46.59:030][209]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.04.07-06.46.59:030][209]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5812.415039, Update Interval: 335.992310
+[2025.04.07-06.48.05:329][512]LogAssetEditorSubsystem: Opening Asset editor for LevelSequence /Game/Cin_Anim/Shots/Shot_001-004.Shot_001-004
+[2025.04.07-06.48.49:129][618]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_8
+[2025.04.07-06.48.49:290][620]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_9
+[2025.04.07-06.48.51:196][663]LogAssetEditorSubsystem: Opening Asset editor for SkeletalMesh /Game/SpiderMinion/Mesh/SK_Spider_minion.SK_Spider_minion
+[2025.04.07-06.48.51:398][663]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_10
+[2025.04.07-06.48.51:404][663]LogStreaming: Display: FlushAsyncLoading(369): 1 QueuedPackages, 0 AsyncPackages
+[2025.04.07-06.48.51:701][663]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_10:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.04.07-06.50.04:294][441]LogAssetEditorSubsystem: Opening Asset editor for LevelSequence /Game/Cin_Anim/Shots/Shot_010.Shot_010
+[2025.04.07-06.50.04:470][441]LogRenderer: Display: Invalidated clipmap due to WPO threshold change. This can occur due to resolution or FOV changes.
+[2025.04.07-06.50.22:371][949]LogActorFactory: Actor Factory attempting to spawn SkeletalMesh /Game/SpiderMinion/Mesh/SK_Spider_minion.SK_Spider_minion
+[2025.04.07-06.50.22:371][949]LogActorFactory: Actor Factory attempting to spawn SkeletalMesh /Game/SpiderMinion/Mesh/SK_Spider_minion.SK_Spider_minion
+[2025.04.07-06.50.22:372][949]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/SpiderMinion/Mesh/SK_Spider_minion.SK_Spider_minion as actor: SkeletalMeshActor /Game/Cin_Anim/Levels/Jordan.Jordan:PersistentLevel.SkeletalMeshActor_11
+[2025.04.07-06.50.22:372][949]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/SpiderMinion/Mesh/SK_Spider_minion.SK_Spider_minion as actor: SkeletalMeshActor /Game/Cin_Anim/Levels/Jordan.Jordan:PersistentLevel.SkeletalMeshActor_11
+[2025.04.07-06.50.24:147][ 19]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2025.04.07-06.50.24:150][ 19]LogEditorActor: Deleted 0 Actors (0.053 secs)
+[2025.04.07-06.50.24:156][ 19]LogActorFactory: Actor Factory attempting to spawn SkeletalMesh /Game/SpiderMinion/Mesh/SK_Spider_minion.SK_Spider_minion
+[2025.04.07-06.50.24:156][ 19]LogActorFactory: Actor Factory attempting to spawn SkeletalMesh /Game/SpiderMinion/Mesh/SK_Spider_minion.SK_Spider_minion
+[2025.04.07-06.50.24:157][ 19]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/SpiderMinion/Mesh/SK_Spider_minion.SK_Spider_minion as actor: SkeletalMeshActor /Game/Cin_Anim/Levels/Jordan.Jordan:PersistentLevel.SkeletalMeshActor_12
+[2025.04.07-06.50.24:158][ 19]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/SpiderMinion/Mesh/SK_Spider_minion.SK_Spider_minion as actor: SkeletalMeshActor /Game/Cin_Anim/Levels/Jordan.Jordan:PersistentLevel.SkeletalMeshActor_12
+[2025.04.07-06.51.52:986][918]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2025.04.07-06.51.54:247][918]LogSlate: Window 'Save Content' being destroyed
+[2025.04.07-06.51.54:252][918]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.04.07-06.51.54:339][918]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2025.04.07-06.51.54:417][918]LogSavePackage: Moving output files for package: /Game/Cin_Anim/Levels/Cinematic_Map
+[2025.04.07-06.51.54:418][918]LogSavePackage: Moving 'C:/Users/Jordan/Documents/CinematicAnimation/CinematicAnimation 5.5/Saved/Cinematic_MapF9A7BD994972738BD23B01AA5AA25546.tmp' to 'C:/Users/Jordan/Documents/CinematicAnimation/CinematicAnimation 5.5/Content/Cin_Anim/Levels/Cinematic_Map.umap'
+[2025.04.07-06.51.54:430][918]LogFileHelpers: Saving map 'Cinematic_Map' took 0.126
+[2025.04.07-06.51.54:444][918]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2025.04.07-06.51.54:458][918]LogSavePackage: Moving output files for package: /Game/Cin_Anim/Levels/Jordan
+[2025.04.07-06.51.54:458][918]LogSavePackage: Moving 'C:/Users/Jordan/Documents/CinematicAnimation/CinematicAnimation 5.5/Saved/Jordan772109D047443042DE5D24A02518B776.tmp' to 'C:/Users/Jordan/Documents/CinematicAnimation/CinematicAnimation 5.5/Content/Cin_Anim/Levels/Jordan.umap'
+[2025.04.07-06.51.54:465][918]LogFileHelpers: Saving map 'Jordan' took 0.034
+[2025.04.07-06.51.54:465][918]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Cin_Anim/Shots/Shot_010] ([1] browsable assets)...
+[2025.04.07-06.51.54:465][918]OBJ SavePackage: Finished generating thumbnails for package [/Game/Cin_Anim/Shots/Shot_010]
+[2025.04.07-06.51.54:465][918]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Cin_Anim/Shots/Shot_010" FILE="C:/Users/Jordan/Documents/CinematicAnimation/CinematicAnimation 5.5/Content/Cin_Anim/Shots/Shot_010.uasset" SILENT=true
+[2025.04.07-06.51.54:467][918]LogSavePackage: Moving output files for package: /Game/Cin_Anim/Shots/Shot_010
+[2025.04.07-06.51.54:468][918]LogSavePackage: Moving 'C:/Users/Jordan/Documents/CinematicAnimation/CinematicAnimation 5.5/Saved/Shot_010F84E60F742490C10CA4CB5BE26381393.tmp' to 'C:/Users/Jordan/Documents/CinematicAnimation/CinematicAnimation 5.5/Content/Cin_Anim/Shots/Shot_010.uasset'
+[2025.04.07-06.51.54:474][918]LogFileHelpers: InternalPromptForCheckoutAndSave took 221.927 ms (total: 895.638 ms)
+[2025.04.07-06.51.54:531][918]LogContentValidation: Display: Starting to validate 3 assets
+[2025.04.07-06.51.54:531][918]LogContentValidation: Enabled validators:
+[2025.04.07-06.51.54:531][918]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.04.07-06.51.54:531][918]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.04.07-06.51.54:531][918]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.04.07-06.51.54:531][918]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.04.07-06.51.54:531][918]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.04.07-06.51.54:531][918]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.04.07-06.51.54:531][918]AssetCheck: /Game/Cin_Anim/Levels/Cinematic_Map Validating asset
+[2025.04.07-06.51.54:531][918]AssetCheck: /Game/Cin_Anim/Levels/Jordan Validating asset
+[2025.04.07-06.51.54:531][918]AssetCheck: /Game/Cin_Anim/Shots/Shot_010 Validating asset
+[2025.04.07-06.53.20:064][457]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6193.502441
+[2025.04.07-06.53.21:064][460]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.04.07-06.53.21:064][460]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6194.168945, Update Interval: 335.120697
+[2025.04.07-06.53.28:786][504]LogSlate: Window 'SK_Spider_minion' being destroyed
+[2025.04.07-06.53.29:392][504]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2025.04.07-06.53.29:393][504]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.07-06.53.29:508][504]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2025.04.07-06.54.41:079][757]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2025.04.07-06.54.41:122][757]LogStall: Shutdown...
+[2025.04.07-06.54.41:122][757]LogStall: Shutdown complete.
+[2025.04.07-06.54.41:238][757]LogSlate: Window 'CinematicAnimation - Unreal Editor' being destroyed
+[2025.04.07-06.54.41:308][757]LogSlate: Window 'High Resolution Screenshot' being destroyed
+[2025.04.07-06.54.41:329][757]Cmd: QUIT_EDITOR
+[2025.04.07-06.54.41:329][758]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2025.04.07-06.54.41:332][758]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2025.04.07-06.54.41:333][758]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2025.04.07-06.54.41:333][758]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2025.04.07-06.54.41:335][758]LogWorld: UWorld::CleanupWorld for Cinematic_Map, bSessionEnded=true, bCleanupResources=true
+[2025.04.07-06.54.41:335][758]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.07-06.54.41:336][758]LogWorld: UWorld::CleanupWorld for Niamh, bSessionEnded=true, bCleanupResources=true
+[2025.04.07-06.54.41:336][758]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.07-06.54.41:336][758]LogWorld: UWorld::CleanupWorld for Emma, bSessionEnded=true, bCleanupResources=true
+[2025.04.07-06.54.41:336][758]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.07-06.54.41:336][758]LogWorld: UWorld::CleanupWorld for Jordan, bSessionEnded=true, bCleanupResources=true
+[2025.04.07-06.54.41:336][758]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.07-06.54.41:346][758]LogStylusInput: Shutting down StylusInput subsystem.
+[2025.04.07-06.54.41:346][758]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2025.04.07-06.54.41:351][758]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2025.04.07-06.54.41:351][758]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.07-06.54.41:352][758]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2025.04.07-06.54.41:352][758]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.07-06.54.41:352][758]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2025.04.07-06.54.41:352][758]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.07-06.54.41:352][758]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2025.04.07-06.54.41:352][758]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.07-06.54.41:352][758]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2025.04.07-06.54.41:352][758]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.07-06.54.41:352][758]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2025.04.07-06.54.41:352][758]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.07-06.54.41:352][758]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2025.04.07-06.54.41:352][758]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.07-06.54.41:352][758]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2025.04.07-06.54.41:352][758]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.07-06.54.41:352][758]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2025.04.07-06.54.41:352][758]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.07-06.54.41:352][758]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2025.04.07-06.54.41:352][758]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.07-06.54.41:353][758]LogStudioTelemetry: Ended StudioTelemetry Session
+[2025.04.07-06.54.41:680][758]LogAnalytics: Display: [UEEditor.Rocket.Release] Destroying ET Analytics provider
+[2025.04.07-06.54.41:680][758]LogAnalytics: Display: [UEEditor.Rocket.Release] Ended ET Analytics provider session
+[2025.04.07-06.54.41:680][758]LogAnalytics: Display: [UEEditor.Rocket.Release] Destroyed ET Analytics provider
+[2025.04.07-06.54.41:682][758]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2025.04.07-06.54.41:682][758]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2025.04.07-06.54.41:682][758]LogAudio: Display: Audio Device unregistered from world 'Cinematic_Map'.
+[2025.04.07-06.54.41:682][758]LogAudio: Display: Shutting down audio device while 1 references to it are still alive. For more information, compile with INSTRUMENT_AUDIODEVICE_HANDLES.
+[2025.04.07-06.54.41:682][758]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2025.04.07-06.54.41:684][758]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2025.04.07-06.54.41:693][758]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID -1
+[2025.04.07-06.54.41:693][758]LogAudio: Display: Audio Device Manager Shutdown
+[2025.04.07-06.54.41:693][758]LogWindowsTextInputMethodSystem: Activated input method: English (Australia) - (Keyboard).
+[2025.04.07-06.54.41:695][758]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2025.04.07-06.54.41:696][758]LogExit: Preparing to exit.
+[2025.04.07-06.54.41:718][758]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2025.04.07-06.54.42:200][758]LogEditorDataStorage: Deinitializing
+[2025.04.07-06.54.42:374][758]LogDemo: Cleaned up 0 splitscreen connections, owner deletion: enabled
+[2025.04.07-06.54.42:396][758]LogExit: Editor shut down
+[2025.04.07-06.54.42:402][758]LogExit: Transaction tracking system shut down
