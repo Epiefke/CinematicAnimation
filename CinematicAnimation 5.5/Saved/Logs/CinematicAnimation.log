@@ -1973,3 +1973,228 @@ Script Stack (0 frames) :
 [2025.04.08-07.35.39:054][483]LogSlate: Window 'Render Movie Settings' being destroyed
 [2025.04.08-07.35.39:765][497]LogSlate: Window 'Sequencer' being destroyed
 [2025.04.08-07.35.39:847][497]LogSlate: Window 'Sequencer' being destroyed
+[2025.04.08-07.40.39:634][426]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2116.789062
+[2025.04.08-07.40.40:634][429]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.04.08-07.40.40:634][429]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2117.456055, Update Interval: 319.239471
+[2025.04.08-07.46.56:739][953]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2493.882324
+[2025.04.08-07.46.57:188][959]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.04.08-07.46.57:188][959]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2494.258057, Update Interval: 355.885498
+[2025.04.08-07.49.39:373][259]LogAssetEditorSubsystem: Opening Asset editor for LevelSequence /Game/Cin_Anim/Shots/Shot_013.Shot_013
+[2025.04.08-07.49.39:461][259]LogSlate: Window 'Sequencer' being destroyed
+[2025.04.08-07.50.56:966][391]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2025.04.08-07.50.56:983][391]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Cin_Anim/Levels/Jordan_Auto2
+[2025.04.08-07.50.56:984][391]LogSavePackage: Moving 'C:/Users/Jordan/Documents/CinematicAnimation/CinematicAnimation 5.5/Saved/Jordan_Auto2758DB7764C0737BF26628AAE2224DFB5.tmp' to 'C:/Users/Jordan/Documents/CinematicAnimation/CinematicAnimation 5.5/Saved/Autosaves/Game/Cin_Anim/Levels/Jordan_Auto2.umap'
+[2025.04.08-07.50.56:985][391]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Cin_Anim/Levels/Cinematic_Map' took 0.052
+[2025.04.08-07.50.56:985][391]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.052
+[2025.04.08-07.50.56:985][391]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Cin_Anim/Shots/Shot_013] ([1] browsable assets)...
+[2025.04.08-07.50.56:985][391]OBJ SavePackage: Finished generating thumbnails for package [/Game/Cin_Anim/Shots/Shot_013]
+[2025.04.08-07.50.56:988][391]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Cin_Anim/Shots/Shot_013_Auto2
+[2025.04.08-07.50.56:988][391]LogSavePackage: Moving 'C:/Users/Jordan/Documents/CinematicAnimation/CinematicAnimation 5.5/Saved/Shot_013_Auto20990809E477870CEBD321B854D420295.tmp' to 'C:/Users/Jordan/Documents/CinematicAnimation/CinematicAnimation 5.5/Saved/Autosaves/Game/Cin_Anim/Shots/Shot_013_Auto2.uasset'
+[2025.04.08-07.50.56:988][391]LogFileHelpers: Auto-saving content packages took 0.003
+[2025.04.08-07.51.44:792][ 83]LogSlate: Window 'Sequencer' being destroyed
+[2025.04.08-07.51.45:002][ 83]LogSlate: Window 'Sequencer' being destroyed
+[2025.04.08-07.51.50:587][114]LogAssetEditorSubsystem: Opening Asset editor for LevelSequence /Game/Cin_Anim/Shots/Shot_016.Shot_016
+[2025.04.08-07.51.50:663][114]LogSlate: Window 'Sequencer' being destroyed
+[2025.04.08-07.52.04:769][589]Cmd: DUPLICATE
+[2025.04.08-07.52.04:769][589]Cmd: ACTOR DUPLICATE
+[2025.04.08-07.52.04:844][589]Warning: While importing text for property 'OnPlay' in 'LevelSequencePlayer':
+[2025.04.08-07.52.04:844][589]Warning: Unable to find function Jordan:PersistentLevel.LevelSequenceActor_23.ShowBurnin in object /Game/Cin_Anim/Levels/Jordan for delegate (found class: Package)
+[2025.04.08-07.52.04:844][589]Warning: While importing text for property 'OnPlayReverse' in 'LevelSequencePlayer':
+[2025.04.08-07.52.04:844][589]Warning: Unable to find function Jordan:PersistentLevel.LevelSequenceActor_23.ShowBurnin in object /Game/Cin_Anim/Levels/Jordan for delegate (found class: Package)
+[2025.04.08-07.52.04:844][589]Warning: While importing text for property 'OnStop' in 'LevelSequencePlayer':
+[2025.04.08-07.52.04:844][589]Warning: Unable to find function Jordan:PersistentLevel.LevelSequenceActor_23.HideBurnin in object /Game/Cin_Anim/Levels/Jordan for delegate (found class: Package)
+[2025.04.08-07.52.06:872][623]Cmd: DELETE
+[2025.04.08-07.52.06:872][623]Cmd: ACTOR DELETE
+[2025.04.08-07.52.06:875][623]LogStreaming: Display: FlushAsyncLoading(357): 1 QueuedPackages, 0 AsyncPackages
+[2025.04.08-07.52.06:908][623]LogEditorActor: Deleted Actor: LevelSequenceActor
+[2025.04.08-07.52.06:943][623]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2025.04.08-07.52.06:946][623]LogEditorActor: Deleted 1 Actors (0.074 secs)
+[2025.04.08-07.52.27:860][504]Cmd: DELETE
+[2025.04.08-07.52.27:860][504]Cmd: ACTOR DELETE
+[2025.04.08-07.52.27:863][504]LogEditorActor: Deleted Actor: LevelSequenceActor
+[2025.04.08-07.52.27:879][504]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2025.04.08-07.52.27:883][504]LogEditorActor: Deleted 1 Actors (0.023 secs)
+[2025.04.08-07.52.29:887][534]Cmd: DUPLICATE
+[2025.04.08-07.52.29:887][534]Cmd: ACTOR DUPLICATE
+[2025.04.08-07.52.29:972][534]Warning: While importing text for property 'OnPlay' in 'LevelSequencePlayer':
+[2025.04.08-07.52.29:972][534]Warning: Unable to find function Jordan:PersistentLevel.LevelSequenceActor_23.ShowBurnin in object /Game/Cin_Anim/Levels/Jordan for delegate (found class: Package)
+[2025.04.08-07.52.29:972][534]Warning: While importing text for property 'OnPlayReverse' in 'LevelSequencePlayer':
+[2025.04.08-07.52.29:972][534]Warning: Unable to find function Jordan:PersistentLevel.LevelSequenceActor_23.ShowBurnin in object /Game/Cin_Anim/Levels/Jordan for delegate (found class: Package)
+[2025.04.08-07.52.29:972][534]Warning: While importing text for property 'OnStop' in 'LevelSequencePlayer':
+[2025.04.08-07.52.29:972][534]Warning: Unable to find function Jordan:PersistentLevel.LevelSequenceActor_23.HideBurnin in object /Game/Cin_Anim/Levels/Jordan for delegate (found class: Package)
+[2025.04.08-07.52.43:569][104]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2025.04.08-07.52.44:766][104]LogSlate: Window 'Save Content' being destroyed
+[2025.04.08-07.52.44:788][104]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.04.08-07.52.44:838][104]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2025.04.08-07.52.44:853][104]LogSavePackage: Moving output files for package: /Game/Cin_Anim/Levels/Jordan
+[2025.04.08-07.52.44:854][104]LogSavePackage: Moving 'C:/Users/Jordan/Documents/CinematicAnimation/CinematicAnimation 5.5/Saved/JordanF9AEE58041CEC8AC1FC94380FEB69773.tmp' to 'C:/Users/Jordan/Documents/CinematicAnimation/CinematicAnimation 5.5/Content/Cin_Anim/Levels/Jordan.umap'
+[2025.04.08-07.52.44:861][104]LogFileHelpers: Saving map 'Jordan' took 0.037
+[2025.04.08-07.52.44:861][104]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Cin_Anim/Shots/Shot_013] ([1] browsable assets)...
+[2025.04.08-07.52.44:861][104]OBJ SavePackage: Finished generating thumbnails for package [/Game/Cin_Anim/Shots/Shot_013]
+[2025.04.08-07.52.44:861][104]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Cin_Anim/Shots/Shot_013" FILE="C:/Users/Jordan/Documents/CinematicAnimation/CinematicAnimation 5.5/Content/Cin_Anim/Shots/Shot_013.uasset" SILENT=true
+[2025.04.08-07.52.44:863][104]LogSavePackage: Moving output files for package: /Game/Cin_Anim/Shots/Shot_013
+[2025.04.08-07.52.44:864][104]LogSavePackage: Moving 'C:/Users/Jordan/Documents/CinematicAnimation/CinematicAnimation 5.5/Saved/Shot_013BCBB5DE14425542B6F836FB4CD47337A.tmp' to 'C:/Users/Jordan/Documents/CinematicAnimation/CinematicAnimation 5.5/Content/Cin_Anim/Shots/Shot_013.uasset'
+[2025.04.08-07.52.44:869][104]LogFileHelpers: InternalPromptForCheckoutAndSave took 82.274 ms (total: 543.533 ms)
+[2025.04.08-07.52.44:923][104]LogContentValidation: Display: Starting to validate 2 assets
+[2025.04.08-07.52.44:923][104]LogContentValidation: Enabled validators:
+[2025.04.08-07.52.44:923][104]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.04.08-07.52.44:923][104]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.04.08-07.52.44:923][104]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.04.08-07.52.44:923][104]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.04.08-07.52.44:923][104]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.04.08-07.52.44:923][104]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.04.08-07.52.44:923][104]AssetCheck: /Game/Cin_Anim/Levels/Jordan Validating asset
+[2025.04.08-07.52.44:923][104]AssetCheck: /Game/Cin_Anim/Shots/Shot_013 Validating asset
+[2025.04.08-07.52.48:667][166]LogAssetEditorSubsystem: Opening Asset editor for LevelSequence /Game/Cin_Anim/Shots/Shot_013.Shot_013
+[2025.04.08-07.52.48:718][166]LogSlate: Window 'Sequencer' being destroyed
+[2025.04.08-07.52.57:192][294]LogSlate: Window 'Sequencer' being destroyed
+[2025.04.08-07.52.57:303][294]LogSlate: Window 'Sequencer' being destroyed
+[2025.04.08-07.53.09:122][663]LogAssetEditorSubsystem: Opening Asset editor for LevelSequence /Game/Cin_Anim/Shots/Shot_013.Shot_013
+[2025.04.08-07.53.09:227][663]LogSlate: Window 'Sequencer' being destroyed
+[2025.04.08-07.53.23:563][876]LogSlate: Window 'Sequencer' being destroyed
+[2025.04.08-07.53.23:687][876]LogSlate: Window 'Sequencer' being destroyed
+[2025.04.08-07.53.25:848][905]LogAssetEditorSubsystem: Opening Asset editor for LevelSequence /Game/Cin_Anim/Shots/Shot_013.Shot_013
+[2025.04.08-07.53.25:945][905]LogSlate: Window 'Sequencer' being destroyed
+[2025.04.08-07.53.43:165][359]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2900.305420
+[2025.04.08-07.53.43:553][365]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.04.08-07.53.43:553][365]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2900.630615, Update Interval: 305.262604
+[2025.04.08-07.53.52:913][513]LogSlate: Took 0.000088 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2025.04.08-07.54.01:729][216]LogAssetEditorSubsystem: Opening Asset editor for LevelSequence /Game/Cin_Anim/Shots/Shot_016.Shot_016
+[2025.04.08-07.54.01:793][216]LogSlate: Window 'Sequencer' being destroyed
+[2025.04.08-07.54.09:278][330]LogSlate: Window 'Sequencer' being destroyed
+[2025.04.08-07.54.09:483][330]LogSlate: Window 'Sequencer' being destroyed
+[2025.04.08-07.54.57:583][950]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_2
+[2025.04.08-07.55.06:315][142]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2025.04.08-07.55.07:738][142]LogSlate: Window 'Save Content' being destroyed
+[2025.04.08-07.55.07:758][142]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.04.08-07.55.07:797][142]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2025.04.08-07.55.07:813][142]LogSavePackage: Moving output files for package: /Game/Cin_Anim/Levels/Jordan
+[2025.04.08-07.55.07:813][142]LogSavePackage: Moving 'C:/Users/Jordan/Documents/CinematicAnimation/CinematicAnimation 5.5/Saved/JordanC52CBC1C4E9ED8C6DD1D2B9806AD321D.tmp' to 'C:/Users/Jordan/Documents/CinematicAnimation/CinematicAnimation 5.5/Content/Cin_Anim/Levels/Jordan.umap'
+[2025.04.08-07.55.07:820][142]LogFileHelpers: Saving map 'Jordan' took 0.037
+[2025.04.08-07.55.07:825][142]LogFileHelpers: InternalPromptForCheckoutAndSave took 67.132 ms (total: 610.666 ms)
+[2025.04.08-07.55.07:885][142]LogContentValidation: Display: Starting to validate 1 assets
+[2025.04.08-07.55.07:885][142]LogContentValidation: Enabled validators:
+[2025.04.08-07.55.07:885][142]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.04.08-07.55.07:885][142]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.04.08-07.55.07:885][142]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.04.08-07.55.07:885][142]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.04.08-07.55.07:885][142]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.04.08-07.55.07:885][142]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.04.08-07.55.07:885][142]AssetCheck: /Game/Cin_Anim/Levels/Jordan Validating asset
+[2025.04.08-07.56.47:320][415]LogChaosDD: Creating Chaos Debug Draw Scene for world Untitled
+[2025.04.08-07.57.01:691][415]LogSlate: Window 'Save Level As' being destroyed
+[2025.04.08-07.57.01:906][415]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2025.04.08-07.57.01:920][415]LogSavePackage: Moving output files for package: /Game/Cin_Anim/Levels/Cinematic_Environment
+[2025.04.08-07.57.01:920][415]LogSavePackage: Moving 'C:/Users/Jordan/Documents/CinematicAnimation/CinematicAnimation 5.5/Saved/Cinematic_EnvironmentA4ABCC984FCD95FBB2027F9260DF08AF.tmp' to 'C:/Users/Jordan/Documents/CinematicAnimation/CinematicAnimation 5.5/Content/Cin_Anim/Levels/Cinematic_Environment.umap'
+[2025.04.08-07.57.01:932][415]LogFileHelpers: Saving map 'Cinematic_Environment' took 0.171
+[2025.04.08-07.57.01:932][415]LogStreaming: Display: FlushAsyncLoading(360): 1 QueuedPackages, 0 AsyncPackages
+[2025.04.08-07.57.01:932][415]LogWorld: UWorld::CleanupWorld for Cinematic_Environment, bSessionEnded=true, bCleanupResources=true
+[2025.04.08-07.57.01:932][415]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.08-07.57.02:513][415]LogEditorActor: Deleted Actor: Landscape
+[2025.04.08-07.57.02:680][415]LogEditorActor: Deleted Actor: WindDirectionalSource
+[2025.04.08-07.57.02:695][415]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2025.04.08-07.57.02:696][415]LogEditorActor: Deleted 2 Actors (0.185 secs)
+[2025.04.08-07.57.04:190][415]LogEditorActor: Deleted Actor: Landscape
+[2025.04.08-07.57.04:193][415]LogEditorActor: Deleted Actor: WindDirectionalSource
+[2025.04.08-07.57.04:206][415]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2025.04.08-07.57.04:208][415]LogEditorActor: Deleted 2 Actors (0.018 secs)
+[2025.04.08-07.57.04:226][415]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.04.08-07.57.04:227][415]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.04.08-07.57.04:227][415]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.04.08-07.57.04:228][415]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.04.08-07.57.04:228][415]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.04.08-07.57.04:228][415]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.04.08-07.57.04:229][415]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.04.08-07.57.04:229][415]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.04.08-07.57.04:230][415]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.04.08-07.57.04:230][415]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.04.08-07.57.04:230][415]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.04.08-07.57.04:231][415]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.04.08-07.57.04:231][415]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.04.08-07.57.04:231][415]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.04.08-07.57.04:232][415]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.04.08-07.57.04:232][415]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.04.08-07.57.04:232][415]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.04.08-07.57.04:233][415]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.04.08-07.57.04:233][415]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.04.08-07.57.04:233][415]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.04.08-07.57.04:234][415]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.04.08-07.57.04:234][415]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.04.08-07.57.04:234][415]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.04.08-07.57.04:235][415]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.04.08-07.57.04:235][415]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.04.08-07.57.04:236][415]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.04.08-07.57.04:236][415]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.04.08-07.57.04:236][415]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.04.08-07.57.04:237][415]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.04.08-07.57.04:237][415]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.04.08-07.57.04:250][415]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2025.04.08-07.57.04:251][415]LogEditorActor: Deleted 30 Actors (0.025 secs)
+[2025.04.08-07.57.04:371][415]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.04.08-07.57.04:371][415]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.04.08-07.57.04:371][415]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.04.08-07.57.04:371][415]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.04.08-07.57.04:371][415]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.04.08-07.57.04:371][415]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.04.08-07.57.04:371][415]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.04.08-07.57.04:371][415]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.04.08-07.57.04:371][415]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.04.08-07.57.04:371][415]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.04.08-07.57.04:371][415]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.04.08-07.57.04:371][415]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.04.08-07.57.04:372][415]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.04.08-07.57.04:372][415]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.04.08-07.57.04:372][415]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.04.08-07.57.04:372][415]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.04.08-07.57.04:372][415]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.04.08-07.57.04:372][415]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.04.08-07.57.04:372][415]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.04.08-07.57.04:372][415]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.04.08-07.57.04:372][415]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.04.08-07.57.04:372][415]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.04.08-07.57.04:372][415]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.04.08-07.57.04:372][415]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.04.08-07.57.04:372][415]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.04.08-07.57.04:372][415]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.04.08-07.57.04:372][415]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.04.08-07.57.04:372][415]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.04.08-07.57.04:372][415]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.04.08-07.57.04:372][415]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.04.08-07.57.04:385][415]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2025.04.08-07.57.04:386][415]LogEditorActor: Deleted 30 Actors (0.015 secs)
+[2025.04.08-07.57.05:551][415]LogContentValidation: Display: Starting to validate 1 assets
+[2025.04.08-07.57.05:551][415]LogContentValidation: Enabled validators:
+[2025.04.08-07.57.05:551][415]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.04.08-07.57.05:551][415]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.04.08-07.57.05:551][415]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.04.08-07.57.05:551][415]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.04.08-07.57.05:551][415]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.04.08-07.57.05:551][415]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.04.08-07.57.05:551][415]AssetCheck: /Game/Cin_Anim/Levels/Cinematic_Environment Validating asset
+[2025.04.08-07.57.22:516][644]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2025.04.08-07.57.24:088][644]LogSlate: Window 'Save Content' being destroyed
+[2025.04.08-07.57.24:108][644]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.04.08-07.57.24:167][644]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2025.04.08-07.57.24:240][644]LogSavePackage: Moving output files for package: /Game/Cin_Anim/Levels/Cinematic_Environment
+[2025.04.08-07.57.24:240][644]LogSavePackage: Moving 'C:/Users/Jordan/Documents/CinematicAnimation/CinematicAnimation 5.5/Saved/Cinematic_Environment501D86B64BDA4D636BA268BB68CB9B4E.tmp' to 'C:/Users/Jordan/Documents/CinematicAnimation/CinematicAnimation 5.5/Content/Cin_Anim/Levels/Cinematic_Environment.umap'
+[2025.04.08-07.57.24:247][644]LogFileHelpers: Saving map 'Cinematic_Environment' took 0.094
+[2025.04.08-07.57.24:282][644]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2025.04.08-07.57.24:293][644]LogSavePackage: Moving output files for package: /Game/Cin_Anim/Levels/Cinematic_Map
+[2025.04.08-07.57.24:294][644]LogSavePackage: Moving 'C:/Users/Jordan/Documents/CinematicAnimation/CinematicAnimation 5.5/Saved/Cinematic_Map5A11AA3944F0484380FF899DFE975F79.tmp' to 'C:/Users/Jordan/Documents/CinematicAnimation/CinematicAnimation 5.5/Content/Cin_Anim/Levels/Cinematic_Map.umap'
+[2025.04.08-07.57.24:306][644]LogFileHelpers: Saving map 'Cinematic_Map' took 0.059
+[2025.04.08-07.57.24:320][644]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2025.04.08-07.57.24:361][644]LogSavePackage: Moving output files for package: /Game/Cin_Anim/Levels/Jordan
+[2025.04.08-07.57.24:362][644]LogSavePackage: Moving 'C:/Users/Jordan/Documents/CinematicAnimation/CinematicAnimation 5.5/Saved/Jordan32A68C5742393E04735A8CA78A5548AD.tmp' to 'C:/Users/Jordan/Documents/CinematicAnimation/CinematicAnimation 5.5/Content/Cin_Anim/Levels/Jordan.umap'
+[2025.04.08-07.57.24:367][644]LogFileHelpers: Saving map 'Jordan' took 0.061
+[2025.04.08-07.57.24:372][644]LogFileHelpers: InternalPromptForCheckoutAndSave took 263.354 ms (total: 874.021 ms)
+[2025.04.08-07.57.24:421][644]LogContentValidation: Display: Starting to validate 3 assets
+[2025.04.08-07.57.24:421][644]LogContentValidation: Enabled validators:
+[2025.04.08-07.57.24:421][644]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.04.08-07.57.24:421][644]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.04.08-07.57.24:421][644]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.04.08-07.57.24:421][644]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.04.08-07.57.24:421][644]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.04.08-07.57.24:421][644]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.04.08-07.57.24:421][644]AssetCheck: /Game/Cin_Anim/Levels/Cinematic_Environment Validating asset
+[2025.04.08-07.57.24:421][644]AssetCheck: /Game/Cin_Anim/Levels/Cinematic_Map Validating asset
+[2025.04.08-07.57.24:421][644]AssetCheck: /Game/Cin_Anim/Levels/Jordan Validating asset
