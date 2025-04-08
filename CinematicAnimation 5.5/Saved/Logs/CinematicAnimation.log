@@ -1503,3 +1503,419 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.04.08-09.31.18:769][861]LogSlate: Window 'Sequencer' being destroyed
 [2025.04.08-09.31.20:474][885]LogSlate: Window 'Sequencer' being destroyed
 [2025.04.08-09.31.20:630][885]LogSlate: Window 'Sequencer' being destroyed
+[2025.04.08-09.34.31:187][628]LogAssetEditorSubsystem: Opening Asset editor for LevelSequence /Game/Cin_Anim/Shots/Master_Sequence.Master_Sequence
+[2025.04.08-09.34.31:299][628]LogSlate: Window 'Sequencer' being destroyed
+[2025.04.08-09.34.37:680][741]LogRenderer: Display: Invalidated clipmap due to WPO threshold change. This can occur due to resolution or FOV changes.
+[2025.04.08-09.34.38:581][762]LogD3D12RHI: Display: Temp texture streaming buffer not large enough, needed 16777216 bytes
+[2025.04.08-09.34.44:557][883]LogRenderer: Display: Invalidated clipmap due to WPO threshold change. This can occur due to resolution or FOV changes.
+[2025.04.08-09.34.45:324][896]LogRenderer: Display: Invalidated clipmap due to WPO threshold change. This can occur due to resolution or FOV changes.
+[2025.04.08-09.34.52:279][ 63]LogStreaming: Display: FlushAsyncLoading(358): 1 QueuedPackages, 0 AsyncPackages
+[2025.04.08-09.34.56:025][157]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2025.04.08-09.34.57:799][157]LogSlate: Window 'Save Content' being destroyed
+[2025.04.08-09.34.57:804][157]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.04.08-09.34.57:868][157]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2025.04.08-09.34.57:877][157]LogSavePackage: Moving output files for package: /Game/Cin_Anim/Levels/Jordan
+[2025.04.08-09.34.57:878][157]LogSavePackage: Moving 'C:/Users/Jordan/Documents/CinematicAnimation/CinematicAnimation 5.5/Saved/Jordan290A005D47E903FDA1736AAED93E19AF.tmp' to 'C:/Users/Jordan/Documents/CinematicAnimation/CinematicAnimation 5.5/Content/Cin_Anim/Levels/Jordan.umap'
+[2025.04.08-09.34.57:883][157]LogFileHelpers: Saving map 'Jordan' took 0.029
+[2025.04.08-09.34.57:890][157]LogFileHelpers: InternalPromptForCheckoutAndSave took 86.290 ms (total: 191.431 ms)
+[2025.04.08-09.34.57:903][157]LogTemp: Starting movie scene capture...
+[2025.04.08-09.34.57:955][157]LogContentValidation: Display: Starting to validate 1 assets
+[2025.04.08-09.34.57:955][157]LogContentValidation: Enabled validators:
+[2025.04.08-09.34.57:955][157]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.04.08-09.34.57:955][157]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.04.08-09.34.57:955][157]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.04.08-09.34.57:955][157]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.04.08-09.34.57:955][157]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.04.08-09.34.57:955][157]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.04.08-09.34.57:956][157]AssetCheck: /Game/Cin_Anim/Levels/Jordan Validating asset
+[2025.04.08-09.34.57:965][157]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.04.08-09.34.57:968][157]LogOnline: OSS: Created online subsystem instance for: NULL
+[2025.04.08-09.34.57:968][157]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for type [NULL]
+[2025.04.08-09.34.57:968][157]LogPlayLevel: Creating play world package: /Game/Cin_Anim/Levels/UEDPIE_0_Cinematic_Map
+[2025.04.08-09.34.57:972][157]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003478s)
+[2025.04.08-09.34.57:972][157]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Cin_Anim/Levels/Cinematic_Map.Cinematic_Map to /Game/Cin_Anim/Levels/UEDPIE_0_Cinematic_Map.Cinematic_Map (0.003507s)
+[2025.04.08-09.34.57:984][157]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2025.04.08-09.34.57:985][157]LogChaosDD: Creating Chaos Debug Draw Scene for world Cinematic_Map
+[2025.04.08-09.34.57:986][157]LogPlayLevel: PIE: World Init took: (0.001117s)
+[2025.04.08-09.34.57:987][157]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2025.04.08-09.34.57:987][157]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.04.08-09.34.57:987][157]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.04.08-09.34.57:987][157]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.04.08-09.34.57:987][157]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.04.08-09.34.57:987][157]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.04.08-09.34.57:987][157]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.04.08-09.34.57:987][157]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.04.08-09.34.57:987][157]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.04.08-09.34.57:987][157]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.04.08-09.34.57:987][157]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.04.08-09.34.57:987][157]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.04.08-09.34.57:989][157]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.04.08-09.34.58:005][157]LogAudioMixer: Display: Using Audio Hardware Device L27m-30 (NVIDIA High Definition Audio)
+[2025.04.08-09.34.58:005][157]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.04.08-09.34.58:005][157]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.04.08-09.34.58:005][157]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.04.08-09.34.58:006][157]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=2
+[2025.04.08-09.34.58:006][157]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=2
+[2025.04.08-09.34.58:007][157]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=2
+[2025.04.08-09.34.58:007][157]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=2
+[2025.04.08-09.34.58:007][157]LogInit: FAudioDevice initialized with ID 2.
+[2025.04.08-09.34.58:007][157]LogAudio: Display: Audio Device (ID: 2) registered with world 'Cinematic_Map'.
+[2025.04.08-09.34.58:007][157]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 2
+[2025.04.08-09.34.58:007][157]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.04.08-09.34.58:029][157]LogSkeletalMesh: USkeletalMeshComponent: Recreating Clothing Actors for 'SkeletalMeshComponent0' with 'SM_Countess'
+[2025.04.08-09.34.58:053][157]LogLoad: Game class is 'GameModeBase'
+[2025.04.08-09.34.58:053][157]LogSkeletalMesh: USkeletalMeshComponent: Recreating Clothing Actors for 'SkeletalMeshComponent0' with 'SM_Countess'
+[2025.04.08-09.34.58:054][157]LogSkeletalMesh: USkeletalMeshComponent: Recreating Clothing Actors for 'SkeletalMeshComponent0' with 'SM_Countess'
+[2025.04.08-09.34.58:055][157]LogSkeletalMesh: USkeletalMeshComponent: Recreating Clothing Actors for 'SkeletalMeshComponent0' with 'SM_Countess'
+[2025.04.08-09.34.58:056][157]LogWorld: Bringing World /Game/Cin_Anim/Levels/UEDPIE_0_Cinematic_Map.Cinematic_Map up for play (max tick rate 0) at 2025.04.08-19.34.58
+[2025.04.08-09.34.58:059][157]LogWorld: Bringing up level for play took: 0.006063
+[2025.04.08-09.34.58:061][157]LogOnline: OSS: Created online subsystem instance for: :Context_1
+[2025.04.08-09.34.58:061][157]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2025.04.08-09.34.58:065][157]PIE: Server logged in
+[2025.04.08-09.34.58:069][157]PIE: Play in editor total start time 0.106 seconds.
+[2025.04.08-09.34.58:709][157]LogAutomationController: Ignoring very large delta of 2.78 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2025.04.08-09.34.59:748][167]LogSkeletalMesh: USkeletalMeshComponent: Recreating Clothing Actors for 'SkeletalMeshComponent0' with 'SM_Countess'
+[2025.04.08-09.34.59:751][167]LogMovieScene: Starting new camera cut: 'Shot1-4_0'
+[2025.04.08-09.35.08:232][256]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 347.718933
+[2025.04.08-09.35.08:660][261]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.04.08-09.35.08:660][261]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 348.056396, Update Interval: 350.827972
+[2025.04.08-09.35.38:128][580]LogSlate: Window 'Render Movie Settings' being destroyed
+[2025.04.08-09.35.38:986][588]LogSkeletalMesh: USkeletalMeshComponent: Recreating Clothing Actors for 'SkeletalMeshComponent0' with 'SM_Countess'
+[2025.04.08-09.35.38:989][588]LogMovieScene: Starting new camera cut: 'Camera_1'
+[2025.04.08-09.35.39:982][596]LogSlate: Window 'Sequencer' being destroyed
+[2025.04.08-09.35.40:210][596]LogSlate: Window 'Sequencer' being destroyed
+[2025.04.08-09.35.40:429][597]LogRenderer: Display: Invalidated clipmap due to WPO threshold change. This can occur due to resolution or FOV changes.
+[2025.04.08-09.36.00:106][768]LogSkeletalMesh: USkeletalMeshComponent: Recreating Clothing Actors for 'SkeletalMeshComponent0' with 'SM_Countess'
+[2025.04.08-09.36.00:108][768]LogMovieScene: Starting new camera cut: 'Camera_006_2'
+[2025.04.08-09.36.23:150][  8]LogSkeletalMesh: USkeletalMeshComponent: Recreating Clothing Actors for 'SkeletalMeshComponent0' with 'Aurora_SpringCeremony'
+[2025.04.08-09.36.23:153][  8]LogMovieScene: Starting new camera cut: 'CineCameraActor_3'
+[2025.04.08-09.36.36:195][151]LogSkeletalMesh: USkeletalMeshComponent: Recreating Clothing Actors for 'SkeletalMeshComponent0' with 'SM_Countess'
+[2025.04.08-09.36.36:198][151]LogMovieScene: Starting new camera cut: 'CineCameraActor1_4'
+[2025.04.08-09.36.54:665][301]LogMovieScene: Starting new camera cut: 'Celeste Closeup Camera_5'
+[2025.04.08-09.37.10:380][451]LogSkeletalMesh: USkeletalMeshComponent: Recreating Clothing Actors for 'SkeletalMeshComponent0' with 'SM_Countess'
+[2025.04.08-09.37.10:384][451]LogMovieScene: Starting new camera cut: 'Octavia Grab Celeste Camera_6'
+[2025.04.08-09.37.31:140][601]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.04.08-09.37.31:140][601]LogWorld: BeginTearingDown for /Game/Cin_Anim/Levels/UEDPIE_0_Cinematic_Map
+[2025.04.08-09.37.31:140][601]LogSlate: Window 'Movie Render - Preview' being destroyed
+[2025.04.08-09.37.31:238][601]LogWorld: UWorld::CleanupWorld for Cinematic_Map, bSessionEnded=true, bCleanupResources=true
+[2025.04.08-09.37.31:238][601]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.08-09.37.31:240][601]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.04.08-09.37.31:250][601]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.08-09.37.31:263][601]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 2
+[2025.04.08-09.37.31:263][601]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2025.04.08-09.37.31:265][601]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2025.04.08-09.37.31:282][601]LogOutputDevice: Warning: 
+
+Script Stack (0 frames) :
+
+[2025.04.08-09.37.31:302][601]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.019 s
+[2025.04.08-09.37.31:302][601]LogOutputDevice: Error: === Handled ensure: ===
+[2025.04.08-09.37.31:302][601]LogOutputDevice: Error: 
+[2025.04.08-09.37.31:302][601]LogOutputDevice: Error: Ensure condition failed: !bViewportModifiersRegistered  [File:D:\build\++UE5\Sync\Engine\Source\Runtime\MovieSceneTracks\Private\TrackInstances\MovieSceneCameraCutViewportPreviewer.cpp] [Line: 60] 
+[2025.04.08-09.37.31:302][601]LogOutputDevice: Error: 
+[2025.04.08-09.37.31:302][601]LogOutputDevice: Error: Stack: 
+[2025.04.08-09.37.31:302][601]LogOutputDevice: Error: [Callstack] 0x00007ffc39ded00f UnrealEditor-MovieSceneTracks.dll!UnknownFunction []
+[2025.04.08-09.37.31:302][601]LogOutputDevice: Error: [Callstack] 0x00007ffc39dedd03 UnrealEditor-MovieSceneTracks.dll!UnknownFunction []
+[2025.04.08-09.37.31:302][601]LogOutputDevice: Error: [Callstack] 0x00007ffc4cb6f172 UnrealEditor-CoreUObject.dll!UnknownFunction []
+[2025.04.08-09.37.31:302][601]LogOutputDevice: Error: [Callstack] 0x00007ffc4cbb8903 UnrealEditor-CoreUObject.dll!UnknownFunction []
+[2025.04.08-09.37.31:302][601]LogOutputDevice: Error: [Callstack] 0x00007ffc4cbb8d54 UnrealEditor-CoreUObject.dll!UnknownFunction []
+[2025.04.08-09.37.31:302][601]LogOutputDevice: Error: [Callstack] 0x00007ffc4cb38936 UnrealEditor-CoreUObject.dll!UnknownFunction []
+[2025.04.08-09.37.31:302][601]LogOutputDevice: Error: [Callstack] 0x00007ffc4cbc1220 UnrealEditor-CoreUObject.dll!UnknownFunction []
+[2025.04.08-09.37.31:302][601]LogOutputDevice: Error: [Callstack] 0x00007ffc4cb6b0b9 UnrealEditor-CoreUObject.dll!UnknownFunction []
+[2025.04.08-09.37.31:302][601]LogOutputDevice: Error: [Callstack] 0x00007ffc40f3a266 UnrealEditor-UnrealEd.dll!UnknownFunction []
+[2025.04.08-09.37.31:302][601]LogOutputDevice: Error: [Callstack] 0x00007ffc407f6512 UnrealEditor-UnrealEd.dll!UnknownFunction []
+[2025.04.08-09.37.31:302][601]LogOutputDevice: Error: [Callstack] 0x00007ffc414842c6 UnrealEditor-UnrealEd.dll!UnknownFunction []
+[2025.04.08-09.37.31:302][601]LogOutputDevice: Error: [Callstack] 0x00007ff771616b47 UnrealEditor.exe!UnknownFunction []
+[2025.04.08-09.37.31:302][601]LogOutputDevice: Error: [Callstack] 0x00007ff7716357ac UnrealEditor.exe!UnknownFunction []
+[2025.04.08-09.37.31:302][601]LogOutputDevice: Error: [Callstack] 0x00007ff77163589a UnrealEditor.exe!UnknownFunction []
+[2025.04.08-09.37.31:302][601]LogOutputDevice: Error: [Callstack] 0x00007ff771639114 UnrealEditor.exe!UnknownFunction []
+[2025.04.08-09.37.31:302][601]LogOutputDevice: Error: [Callstack] 0x00007ff77164bd04 UnrealEditor.exe!UnknownFunction []
+[2025.04.08-09.37.31:302][601]LogOutputDevice: Error: [Callstack] 0x00007ff77164f0ba UnrealEditor.exe!UnknownFunction []
+[2025.04.08-09.37.31:302][601]LogOutputDevice: Error: [Callstack] 0x00007ffcee487374 KERNEL32.DLL!UnknownFunction []
+[2025.04.08-09.37.31:302][601]LogOutputDevice: Error: [Callstack] 0x00007ffcefcbcc91 ntdll.dll!UnknownFunction []
+[2025.04.08-09.37.31:302][601]LogOutputDevice: Error: 
+[2025.04.08-09.37.31:499][601]LogStats:                SubmitErrorReport -  0.000 s
+[2025.04.08-09.37.33:962][601]LogStats:                    SendNewReport -  2.463 s
+[2025.04.08-09.37.33:962][601]LogStats:             FDebug::EnsureFailed -  2.680 s
+[2025.04.08-09.37.33:963][601]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2025.04.08-09.37.33:991][601]LogTemp: Movie Capture finished. Success: 1
+[2025.04.08-09.37.33:992][601]LogAutomationController: Ignoring very large delta of 3.64 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2025.04.08-09.37.34:020][602]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2025.04.08-09.37.34:317][603]LogPlayLevel: Display: Destroying online subsystem :Context_1
+[2025.04.08-09.41.03:345][308]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 702.831299
+[2025.04.08-09.41.04:345][311]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.04.08-09.41.04:345][311]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 703.497925, Update Interval: 348.478638
+[2025.04.08-09.41.13:087][371]LogAssetEditorSubsystem: Opening Asset editor for LevelSequence /Game/Cin_Anim/Shots/Master_Sequence.Master_Sequence
+[2025.04.08-09.41.13:263][371]LogSlate: Window 'Sequencer' being destroyed
+[2025.04.08-09.41.15:730][405]LogRenderer: Display: Invalidated clipmap due to WPO threshold change. This can occur due to resolution or FOV changes.
+[2025.04.08-09.41.23:830][889]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2025.04.08-09.41.23:927][889]LogTemp: Starting movie scene capture...
+[2025.04.08-09.41.23:936][889]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.04.08-09.41.23:936][889]LogPlayLevel: Creating play world package: /Game/Cin_Anim/Levels/UEDPIE_0_Cinematic_Map
+[2025.04.08-09.41.23:939][889]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002868s)
+[2025.04.08-09.41.23:939][889]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Cin_Anim/Levels/Cinematic_Map.Cinematic_Map to /Game/Cin_Anim/Levels/UEDPIE_0_Cinematic_Map.Cinematic_Map (0.002891s)
+[2025.04.08-09.41.23:954][889]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2025.04.08-09.41.23:955][889]LogChaosDD: Creating Chaos Debug Draw Scene for world Cinematic_Map
+[2025.04.08-09.41.23:956][889]LogPlayLevel: PIE: World Init took: (0.001267s)
+[2025.04.08-09.41.23:956][889]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2025.04.08-09.41.23:956][889]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.04.08-09.41.23:956][889]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.04.08-09.41.23:956][889]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.04.08-09.41.23:956][889]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.04.08-09.41.23:956][889]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.04.08-09.41.23:957][889]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.04.08-09.41.23:957][889]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.04.08-09.41.23:957][889]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.04.08-09.41.23:957][889]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.04.08-09.41.23:957][889]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.04.08-09.41.23:957][889]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.04.08-09.41.23:958][889]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.04.08-09.41.23:975][889]LogAudioMixer: Display: Using Audio Hardware Device L27m-30 (NVIDIA High Definition Audio)
+[2025.04.08-09.41.23:975][889]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.04.08-09.41.23:975][889]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.04.08-09.41.23:975][889]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.04.08-09.41.23:976][889]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=3
+[2025.04.08-09.41.23:976][889]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=3
+[2025.04.08-09.41.23:978][889]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=3
+[2025.04.08-09.41.23:978][889]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=3
+[2025.04.08-09.41.23:978][889]LogInit: FAudioDevice initialized with ID 3.
+[2025.04.08-09.41.23:978][889]LogAudio: Display: Audio Device (ID: 3) registered with world 'Cinematic_Map'.
+[2025.04.08-09.41.23:978][889]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 3
+[2025.04.08-09.41.23:978][889]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.04.08-09.41.23:997][889]LogSkeletalMesh: USkeletalMeshComponent: Recreating Clothing Actors for 'SkeletalMeshComponent0' with 'SM_Countess'
+[2025.04.08-09.41.24:023][889]LogLoad: Game class is 'GameModeBase'
+[2025.04.08-09.41.24:024][889]LogSkeletalMesh: USkeletalMeshComponent: Recreating Clothing Actors for 'SkeletalMeshComponent0' with 'SM_Countess'
+[2025.04.08-09.41.24:025][889]LogSkeletalMesh: USkeletalMeshComponent: Recreating Clothing Actors for 'SkeletalMeshComponent0' with 'SM_Countess'
+[2025.04.08-09.41.24:026][889]LogSkeletalMesh: USkeletalMeshComponent: Recreating Clothing Actors for 'SkeletalMeshComponent0' with 'SM_Countess'
+[2025.04.08-09.41.24:027][889]LogWorld: Bringing World /Game/Cin_Anim/Levels/UEDPIE_0_Cinematic_Map.Cinematic_Map up for play (max tick rate 0) at 2025.04.08-19.41.24
+[2025.04.08-09.41.24:028][889]LogWorld: Bringing up level for play took: 0.004465
+[2025.04.08-09.41.24:030][889]LogOnline: OSS: Created online subsystem instance for: :Context_2
+[2025.04.08-09.41.24:030][889]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2025.04.08-09.41.24:036][889]PIE: Server logged in
+[2025.04.08-09.41.24:038][889]PIE: Play in editor total start time 0.102 seconds.
+[2025.04.08-09.41.25:684][998]LogSkeletalMesh: USkeletalMeshComponent: Recreating Clothing Actors for 'SkeletalMeshComponent0' with 'SM_Countess'
+[2025.04.08-09.41.25:686][998]LogMovieScene: Starting new camera cut: 'Shot1-4_0'
+[2025.04.08-09.42.54:411][230]LogSkeletalMesh: USkeletalMeshComponent: Recreating Clothing Actors for 'SkeletalMeshComponent0' with 'SM_Countess'
+[2025.04.08-09.42.54:413][230]LogMovieScene: Starting new camera cut: 'Camera_1'
+[2025.04.08-09.43.22:897][410]LogSkeletalMesh: USkeletalMeshComponent: Recreating Clothing Actors for 'SkeletalMeshComponent0' with 'SM_Countess'
+[2025.04.08-09.43.22:898][410]LogMovieScene: Starting new camera cut: 'Camera_006_2'
+[2025.04.08-09.44.06:108][650]LogSkeletalMesh: USkeletalMeshComponent: Recreating Clothing Actors for 'SkeletalMeshComponent0' with 'Aurora_SpringCeremony'
+[2025.04.08-09.44.06:111][650]LogMovieScene: Starting new camera cut: 'CineCameraActor_3'
+[2025.04.08-09.44.47:474][793]LogSkeletalMesh: USkeletalMeshComponent: Recreating Clothing Actors for 'SkeletalMeshComponent0' with 'SM_Countess'
+[2025.04.08-09.44.47:478][793]LogMovieScene: Starting new camera cut: 'CineCameraActor1_4'
+[2025.04.08-09.45.11:163][943]LogMovieScene: Starting new camera cut: 'Celeste Closeup Camera_5'
+[2025.04.08-09.45.36:500][ 93]LogSkeletalMesh: USkeletalMeshComponent: Recreating Clothing Actors for 'SkeletalMeshComponent0' with 'SM_Countess'
+[2025.04.08-09.45.36:503][ 93]LogMovieScene: Starting new camera cut: 'Octavia Grab Celeste Camera_6'
+[2025.04.08-09.46.07:418][243]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.04.08-09.46.07:418][243]LogWorld: BeginTearingDown for /Game/Cin_Anim/Levels/UEDPIE_0_Cinematic_Map
+[2025.04.08-09.46.07:418][243]LogSlate: Window 'Movie Render - Preview' being destroyed
+[2025.04.08-09.46.07:488][243]LogWorld: UWorld::CleanupWorld for Cinematic_Map, bSessionEnded=true, bCleanupResources=true
+[2025.04.08-09.46.07:489][243]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.08-09.46.07:491][243]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.04.08-09.46.07:503][243]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.08-09.46.07:517][243]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 3
+[2025.04.08-09.46.07:517][243]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2025.04.08-09.46.07:519][243]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2025.04.08-09.46.07:526][243]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2025.04.08-09.46.07:595][243]LogTemp: Movie Capture finished. Success: 1
+[2025.04.08-09.46.07:918][244]LogPlayLevel: Display: Destroying online subsystem :Context_2
+[2025.04.08-09.46.07:931][244]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2025.04.08-09.46.21:098][296]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2025.04.08-09.46.21:114][296]LogTemp: Starting movie scene capture...
+[2025.04.08-09.46.21:153][296]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.04.08-09.46.21:153][296]LogPlayLevel: Creating play world package: /Game/Cin_Anim/Levels/UEDPIE_0_Cinematic_Map
+[2025.04.08-09.46.21:155][296]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002793s)
+[2025.04.08-09.46.21:155][296]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Cin_Anim/Levels/Cinematic_Map.Cinematic_Map to /Game/Cin_Anim/Levels/UEDPIE_0_Cinematic_Map.Cinematic_Map (0.002815s)
+[2025.04.08-09.46.21:168][296]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2025.04.08-09.46.21:169][296]LogChaosDD: Creating Chaos Debug Draw Scene for world Cinematic_Map
+[2025.04.08-09.46.21:170][296]LogPlayLevel: PIE: World Init took: (0.001125s)
+[2025.04.08-09.46.21:171][296]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2025.04.08-09.46.21:171][296]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.04.08-09.46.21:171][296]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.04.08-09.46.21:171][296]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.04.08-09.46.21:171][296]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.04.08-09.46.21:171][296]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.04.08-09.46.21:171][296]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.04.08-09.46.21:171][296]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.04.08-09.46.21:171][296]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.04.08-09.46.21:171][296]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.04.08-09.46.21:171][296]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.04.08-09.46.21:171][296]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.04.08-09.46.21:173][296]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.04.08-09.46.21:189][296]LogAudioMixer: Display: Using Audio Hardware Device L27m-30 (NVIDIA High Definition Audio)
+[2025.04.08-09.46.21:189][296]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.04.08-09.46.21:189][296]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.04.08-09.46.21:189][296]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.04.08-09.46.21:190][296]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=4
+[2025.04.08-09.46.21:190][296]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=4
+[2025.04.08-09.46.21:192][296]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=4
+[2025.04.08-09.46.21:192][296]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=4
+[2025.04.08-09.46.21:192][296]LogInit: FAudioDevice initialized with ID 4.
+[2025.04.08-09.46.21:192][296]LogAudio: Display: Audio Device (ID: 4) registered with world 'Cinematic_Map'.
+[2025.04.08-09.46.21:192][296]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 4
+[2025.04.08-09.46.21:192][296]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.04.08-09.46.21:202][296]LogSkeletalMesh: USkeletalMeshComponent: Recreating Clothing Actors for 'SkeletalMeshComponent0' with 'SM_Countess'
+[2025.04.08-09.46.21:220][296]LogLoad: Game class is 'GameModeBase'
+[2025.04.08-09.46.21:221][296]LogSkeletalMesh: USkeletalMeshComponent: Recreating Clothing Actors for 'SkeletalMeshComponent0' with 'SM_Countess'
+[2025.04.08-09.46.21:222][296]LogSkeletalMesh: USkeletalMeshComponent: Recreating Clothing Actors for 'SkeletalMeshComponent0' with 'SM_Countess'
+[2025.04.08-09.46.21:223][296]LogSkeletalMesh: USkeletalMeshComponent: Recreating Clothing Actors for 'SkeletalMeshComponent0' with 'SM_Countess'
+[2025.04.08-09.46.21:224][296]LogWorld: Bringing World /Game/Cin_Anim/Levels/UEDPIE_0_Cinematic_Map.Cinematic_Map up for play (max tick rate 0) at 2025.04.08-19.46.21
+[2025.04.08-09.46.21:225][296]LogWorld: Bringing up level for play took: 0.004456
+[2025.04.08-09.46.21:227][296]LogOnline: OSS: Created online subsystem instance for: :Context_3
+[2025.04.08-09.46.21:227][296]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2025.04.08-09.46.21:233][296]PIE: Server logged in
+[2025.04.08-09.46.21:236][296]PIE: Play in editor total start time 0.084 seconds.
+[2025.04.08-09.46.23:029][412]LogSkeletalMesh: USkeletalMeshComponent: Recreating Clothing Actors for 'SkeletalMeshComponent0' with 'SM_Countess'
+[2025.04.08-09.46.23:031][412]LogMovieScene: Starting new camera cut: 'Shot1-4_0'
+[2025.04.08-09.46.43:605][833]LogSkeletalMesh: USkeletalMeshComponent: Recreating Clothing Actors for 'SkeletalMeshComponent0' with 'SM_Countess'
+[2025.04.08-09.46.43:608][833]LogMovieScene: Starting new camera cut: 'Camera_1'
+[2025.04.08-09.46.53:862][ 13]LogSkeletalMesh: USkeletalMeshComponent: Recreating Clothing Actors for 'SkeletalMeshComponent0' with 'SM_Countess'
+[2025.04.08-09.46.53:864][ 13]LogMovieScene: Starting new camera cut: 'Camera_006_2'
+[2025.04.08-09.47.00:450][165]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1059.935303
+[2025.04.08-09.47.00:828][174]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.04.08-09.47.00:828][174]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1060.271484, Update Interval: 307.844482
+[2025.04.08-09.47.04:360][253]LogSkeletalMesh: USkeletalMeshComponent: Recreating Clothing Actors for 'SkeletalMeshComponent0' with 'Aurora_SpringCeremony'
+[2025.04.08-09.47.04:363][253]LogMovieScene: Starting new camera cut: 'CineCameraActor_3'
+[2025.04.08-09.47.10:932][396]LogSkeletalMesh: USkeletalMeshComponent: Recreating Clothing Actors for 'SkeletalMeshComponent0' with 'SM_Countess'
+[2025.04.08-09.47.10:935][396]LogMovieScene: Starting new camera cut: 'CineCameraActor1_4'
+[2025.04.08-09.47.18:344][546]LogMovieScene: Starting new camera cut: 'Celeste Closeup Camera_5'
+[2025.04.08-09.47.25:441][696]LogSkeletalMesh: USkeletalMeshComponent: Recreating Clothing Actors for 'SkeletalMeshComponent0' with 'SM_Countess'
+[2025.04.08-09.47.25:444][696]LogMovieScene: Starting new camera cut: 'Octavia Grab Celeste Camera_6'
+[2025.04.08-09.48.04:881][ 85]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.04.08-09.48.04:881][ 85]LogWorld: BeginTearingDown for /Game/Cin_Anim/Levels/UEDPIE_0_Cinematic_Map
+[2025.04.08-09.48.04:881][ 85]LogSlate: Window 'Movie Render - Preview' being destroyed
+[2025.04.08-09.48.04:884][ 85]LogWorld: UWorld::CleanupWorld for Cinematic_Map, bSessionEnded=true, bCleanupResources=true
+[2025.04.08-09.48.04:884][ 85]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.08-09.48.04:886][ 85]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.04.08-09.48.04:898][ 85]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.08-09.48.04:911][ 85]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.04.08-09.48.04:911][ 85]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 4
+[2025.04.08-09.48.04:911][ 85]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2025.04.08-09.48.04:913][ 85]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2025.04.08-09.48.04:919][ 85]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2025.04.08-09.48.04:987][ 85]LogTemp: Movie Capture finished. Success: 1
+[2025.04.08-09.48.05:023][ 86]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2025.04.08-09.48.05:117][ 87]LogPlayLevel: Display: Destroying online subsystem :Context_3
+[2025.04.08-09.48.14:693][244]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2025.04.08-09.48.15:711][244]LogSlate: Window 'Save Content' being destroyed
+[2025.04.08-09.48.15:716][244]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.04.08-09.48.15:771][244]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Cin_Anim/Shots/Master_Sequence] ([1] browsable assets)...
+[2025.04.08-09.48.15:771][244]OBJ SavePackage: Finished generating thumbnails for package [/Game/Cin_Anim/Shots/Master_Sequence]
+[2025.04.08-09.48.15:772][244]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Cin_Anim/Shots/Master_Sequence" FILE="C:/Users/Jordan/Documents/CinematicAnimation/CinematicAnimation 5.5/Content/Cin_Anim/Shots/Master_Sequence.uasset" SILENT=true
+[2025.04.08-09.48.15:774][244]LogSavePackage: Moving output files for package: /Game/Cin_Anim/Shots/Master_Sequence
+[2025.04.08-09.48.15:774][244]LogSavePackage: Moving 'C:/Users/Jordan/Documents/CinematicAnimation/CinematicAnimation 5.5/Saved/Master_Sequence13813E1147F340B2E8CFF8BD644660BF.tmp' to 'C:/Users/Jordan/Documents/CinematicAnimation/CinematicAnimation 5.5/Content/Cin_Anim/Shots/Master_Sequence.uasset'
+[2025.04.08-09.48.15:780][244]LogFileHelpers: InternalPromptForCheckoutAndSave took 63.413 ms (total: 254.845 ms)
+[2025.04.08-09.48.15:838][244]LogContentValidation: Display: Starting to validate 1 assets
+[2025.04.08-09.48.15:838][244]LogContentValidation: Enabled validators:
+[2025.04.08-09.48.15:838][244]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.04.08-09.48.15:838][244]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.04.08-09.48.15:838][244]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.04.08-09.48.15:838][244]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.04.08-09.48.15:838][244]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.04.08-09.48.15:838][244]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.04.08-09.48.15:839][244]AssetCheck: /Game/Cin_Anim/Shots/Master_Sequence Validating asset
+[2025.04.08-09.48.34:826][410]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2025.04.08-09.48.34:842][410]LogTemp: Starting movie scene capture...
+[2025.04.08-09.48.34:900][410]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.04.08-09.48.34:900][410]LogPlayLevel: Creating play world package: /Game/Cin_Anim/Levels/UEDPIE_0_Cinematic_Map
+[2025.04.08-09.48.34:903][410]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002983s)
+[2025.04.08-09.48.34:903][410]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Cin_Anim/Levels/Cinematic_Map.Cinematic_Map to /Game/Cin_Anim/Levels/UEDPIE_0_Cinematic_Map.Cinematic_Map (0.003004s)
+[2025.04.08-09.48.34:916][410]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2025.04.08-09.48.34:917][410]LogChaosDD: Creating Chaos Debug Draw Scene for world Cinematic_Map
+[2025.04.08-09.48.34:918][410]LogPlayLevel: PIE: World Init took: (0.001158s)
+[2025.04.08-09.48.34:919][410]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2025.04.08-09.48.34:919][410]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.04.08-09.48.34:919][410]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.04.08-09.48.34:919][410]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.04.08-09.48.34:919][410]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.04.08-09.48.34:919][410]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.04.08-09.48.34:919][410]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.04.08-09.48.34:919][410]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.04.08-09.48.34:919][410]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.04.08-09.48.34:919][410]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.04.08-09.48.34:919][410]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.04.08-09.48.34:919][410]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.04.08-09.48.34:921][410]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.04.08-09.48.34:937][410]LogAudioMixer: Display: Using Audio Hardware Device L27m-30 (NVIDIA High Definition Audio)
+[2025.04.08-09.48.34:937][410]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.04.08-09.48.34:937][410]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.04.08-09.48.34:937][410]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.04.08-09.48.34:937][410]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=5
+[2025.04.08-09.48.34:937][410]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=5
+[2025.04.08-09.48.34:939][410]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=5
+[2025.04.08-09.48.34:939][410]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=5
+[2025.04.08-09.48.34:939][410]LogInit: FAudioDevice initialized with ID 5.
+[2025.04.08-09.48.34:939][410]LogAudio: Display: Audio Device (ID: 5) registered with world 'Cinematic_Map'.
+[2025.04.08-09.48.34:939][410]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 5
+[2025.04.08-09.48.34:940][410]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.04.08-09.48.34:958][410]LogSkeletalMesh: USkeletalMeshComponent: Recreating Clothing Actors for 'SkeletalMeshComponent0' with 'SM_Countess'
+[2025.04.08-09.48.34:971][410]LogLoad: Game class is 'GameModeBase'
+[2025.04.08-09.48.34:972][410]LogSkeletalMesh: USkeletalMeshComponent: Recreating Clothing Actors for 'SkeletalMeshComponent0' with 'SM_Countess'
+[2025.04.08-09.48.34:973][410]LogSkeletalMesh: USkeletalMeshComponent: Recreating Clothing Actors for 'SkeletalMeshComponent0' with 'SM_Countess'
+[2025.04.08-09.48.34:974][410]LogSkeletalMesh: USkeletalMeshComponent: Recreating Clothing Actors for 'SkeletalMeshComponent0' with 'SM_Countess'
+[2025.04.08-09.48.34:975][410]LogWorld: Bringing World /Game/Cin_Anim/Levels/UEDPIE_0_Cinematic_Map.Cinematic_Map up for play (max tick rate 0) at 2025.04.08-19.48.34
+[2025.04.08-09.48.34:976][410]LogWorld: Bringing up level for play took: 0.004379
+[2025.04.08-09.48.34:978][410]LogOnline: OSS: Created online subsystem instance for: :Context_4
+[2025.04.08-09.48.34:978][410]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2025.04.08-09.48.34:984][410]PIE: Server logged in
+[2025.04.08-09.48.34:987][410]PIE: Play in editor total start time 0.087 seconds.
+[2025.04.08-09.48.36:690][530]LogSkeletalMesh: USkeletalMeshComponent: Recreating Clothing Actors for 'SkeletalMeshComponent0' with 'SM_Countess'
+[2025.04.08-09.48.36:691][530]LogMovieScene: Starting new camera cut: 'Shot1-4_0'
+[2025.04.08-09.49.11:963][951]LogSkeletalMesh: USkeletalMeshComponent: Recreating Clothing Actors for 'SkeletalMeshComponent0' with 'SM_Countess'
+[2025.04.08-09.49.11:966][951]LogMovieScene: Starting new camera cut: 'Camera_1'
+[2025.04.08-09.49.25:607][131]LogSkeletalMesh: USkeletalMeshComponent: Recreating Clothing Actors for 'SkeletalMeshComponent0' with 'SM_Countess'
+[2025.04.08-09.49.25:609][131]LogMovieScene: Starting new camera cut: 'Camera_006_2'
+[2025.04.08-09.49.45:541][371]LogSkeletalMesh: USkeletalMeshComponent: Recreating Clothing Actors for 'SkeletalMeshComponent0' with 'Aurora_SpringCeremony'
+[2025.04.08-09.49.45:544][371]LogMovieScene: Starting new camera cut: 'CineCameraActor_3'
+[2025.04.08-09.49.57:007][514]LogSkeletalMesh: USkeletalMeshComponent: Recreating Clothing Actors for 'SkeletalMeshComponent0' with 'SM_Countess'
+[2025.04.08-09.49.57:010][514]LogMovieScene: Starting new camera cut: 'CineCameraActor1_4'
+[2025.04.08-09.50.09:514][664]LogMovieScene: Starting new camera cut: 'Celeste Closeup Camera_5'
+[2025.04.08-09.50.20:583][814]LogSkeletalMesh: USkeletalMeshComponent: Recreating Clothing Actors for 'SkeletalMeshComponent0' with 'SM_Countess'
+[2025.04.08-09.50.20:586][814]LogMovieScene: Starting new camera cut: 'Octavia Grab Celeste Camera_6'
+[2025.04.08-09.50.26:535][860]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.04.08-09.50.26:536][860]LogWorld: BeginTearingDown for /Game/Cin_Anim/Levels/UEDPIE_0_Cinematic_Map
+[2025.04.08-09.50.26:536][860]LogSlate: Window 'Movie Render - Preview' being destroyed
+[2025.04.08-09.50.26:543][860]LogWorld: UWorld::CleanupWorld for Cinematic_Map, bSessionEnded=true, bCleanupResources=true
+[2025.04.08-09.50.26:543][860]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.08-09.50.26:545][860]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.04.08-09.50.26:557][860]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.08-09.50.26:571][860]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 5
+[2025.04.08-09.50.26:572][860]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2025.04.08-09.50.26:573][860]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2025.04.08-09.50.26:579][860]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2025.04.08-09.50.26:646][860]LogTemp: Movie Capture finished. Success: 1
+[2025.04.08-09.50.26:682][861]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2025.04.08-09.50.26:740][863]LogPlayLevel: Display: Destroying online subsystem :Context_4
+[2025.04.08-09.52.22:922][268]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1382.409302
+[2025.04.08-09.52.24:257][272]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.04.08-09.52.24:257][272]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1383.410278, Update Interval: 324.275024
+[2025.04.08-09.55.23:761][811]LogSlate: Window 'Render Movie Settings' being destroyed
+[2025.04.08-09.55.24:833][814]LogSlate: Window 'Sequencer' being destroyed
+[2025.04.08-09.55.24:885][814]LogSlate: Window 'Sequencer' being destroyed
+[2025.04.08-09.56.04:560][482]Cmd: DELETE
+[2025.04.08-09.56.04:560][482]Cmd: ACTOR DELETE
+[2025.04.08-09.56.04:564][482]LogEditorActor: Deleted Actor: WindDirectionalSource
+[2025.04.08-09.56.04:683][482]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2025.04.08-09.56.04:688][482]LogEditorActor: Deleted 1 Actors (0.129 secs)
+[2025.04.08-09.56.07:921][538]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2025.04.08-09.56.09:172][538]LogSlate: Window 'Save Content' being destroyed
+[2025.04.08-09.56.09:193][538]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.04.08-09.56.09:291][538]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2025.04.08-09.56.09:369][538]LogSavePackage: Moving output files for package: /Game/Cin_Anim/Levels/Cinematic_Environment
+[2025.04.08-09.56.09:369][538]LogSavePackage: Moving 'C:/Users/Jordan/Documents/CinematicAnimation/CinematicAnimation 5.5/Saved/Cinematic_Environment4DD6236045378B81742DF2B4E6547C14.tmp' to 'C:/Users/Jordan/Documents/CinematicAnimation/CinematicAnimation 5.5/Content/Cin_Anim/Levels/Cinematic_Environment.umap'
+[2025.04.08-09.56.09:375][538]LogFileHelpers: Saving map 'Cinematic_Environment' took 0.096
+[2025.04.08-09.56.09:409][538]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2025.04.08-09.56.09:420][538]LogSavePackage: Moving output files for package: /Game/Cin_Anim/Levels/Cinematic_Map
+[2025.04.08-09.56.09:420][538]LogSavePackage: Moving 'C:/Users/Jordan/Documents/CinematicAnimation/CinematicAnimation 5.5/Saved/Cinematic_Map4E4285F1498282D0113F089CD3D62B45.tmp' to 'C:/Users/Jordan/Documents/CinematicAnimation/CinematicAnimation 5.5/Content/Cin_Anim/Levels/Cinematic_Map.umap'
+[2025.04.08-09.56.09:431][538]LogFileHelpers: Saving map 'Cinematic_Map' took 0.056
+[2025.04.08-09.56.09:436][538]LogFileHelpers: InternalPromptForCheckoutAndSave took 243.403 ms (total: 498.248 ms)
+[2025.04.08-09.56.09:480][538]LogContentValidation: Display: Starting to validate 2 assets
+[2025.04.08-09.56.09:480][538]LogContentValidation: Enabled validators:
+[2025.04.08-09.56.09:480][538]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.04.08-09.56.09:480][538]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.04.08-09.56.09:480][538]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.04.08-09.56.09:480][538]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.04.08-09.56.09:480][538]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.04.08-09.56.09:480][538]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.04.08-09.56.09:480][538]AssetCheck: /Game/Cin_Anim/Levels/Cinematic_Environment Validating asset
+[2025.04.08-09.56.09:480][538]AssetCheck: /Game/Cin_Anim/Levels/Cinematic_Map Validating asset
