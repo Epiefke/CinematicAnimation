@@ -1701,3 +1701,6 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.04.16-14.10.44:645][378]LogExit: Preparing to exit.
 [2025.04.16-14.10.47:175][378]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
 [2025.04.16-14.10.49:480][378]LogEditorDataStorage: Deinitializing
+[2025.04.16-14.11.10:789][378]LogDemo: Cleaned up 0 splitscreen connections, owner deletion: enabled
+[2025.04.16-14.11.15:526][378]LogExit: Editor shut down
+[2025.04.16-14.11.16:384][378]LogExit: Transaction tracking system shut down
