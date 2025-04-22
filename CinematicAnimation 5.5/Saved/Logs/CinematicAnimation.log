@@ -1524,3 +1524,33 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.04.22-08.39.30:620][705]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (1%)
 [2025.04.22-08.39.30:620][705]LogShaderCompilers: Display: Material Cache Hits: 37 (19%)
 [2025.04.22-08.39.30:620][705]LogShaderCompilers: Display: ================================================
+[2025.04.22-08.40.13:005][848]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2025.04.22-08.40.15:826][848]LogSlate: Window 'Save Content' being destroyed
+[2025.04.22-08.40.16:311][848]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.04.22-08.40.16:400][848]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Cin_Anim/Anims/Octavia/O_Shot14/Octavia_Shot_14_Facial] ([1] browsable assets)...
+[2025.04.22-08.40.16:652][848]OBJ SavePackage:     Rendered thumbnail for [SkeletalMesh /Game/Cin_Anim/Anims/Octavia/O_Shot14/Octavia_Shot_14_Facial.Octavia_Shot_14_Facial]
+[2025.04.22-08.40.16:652][848]OBJ SavePackage: Finished generating thumbnails for package [/Game/Cin_Anim/Anims/Octavia/O_Shot14/Octavia_Shot_14_Facial]
+[2025.04.22-08.40.16:935][848]LogSavePackage: Moving output files for package: /Game/Cin_Anim/Anims/Octavia/O_Shot14/Octavia_Shot_14_Facial
+[2025.04.22-08.40.16:935][848]LogSavePackage: Moving 'C:/Users/Jordan/Documents/CinematicAnimation/CinematicAnimation 5.5/Saved/Octavia_Shot_14_FacialB0350BF649465AEA6F51CD8DDA62585D.tmp' to 'C:/Users/Jordan/Documents/CinematicAnimation/CinematicAnimation 5.5/Content/Cin_Anim/Anims/Octavia/O_Shot14/Octavia_Shot_14_Facial.uasset'
+[2025.04.22-08.40.17:253][848]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Cin_Anim/Anims/Octavia/O_Shot14/Octavia_Shot_14_Facial_Anim] ([1] browsable assets)...
+[2025.04.22-08.40.17:271][848]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/Cin_Anim/Anims/Octavia/O_Shot14/Octavia_Shot_14_Facial_Anim.Octavia_Shot_14_Facial_Anim]
+[2025.04.22-08.40.17:271][848]OBJ SavePackage: Finished generating thumbnails for package [/Game/Cin_Anim/Anims/Octavia/O_Shot14/Octavia_Shot_14_Facial_Anim]
+[2025.04.22-08.40.17:294][848]LogSavePackage: Moving output files for package: /Game/Cin_Anim/Anims/Octavia/O_Shot14/Octavia_Shot_14_Facial_Anim
+[2025.04.22-08.40.17:294][848]LogSavePackage: Moving 'C:/Users/Jordan/Documents/CinematicAnimation/CinematicAnimation 5.5/Saved/Octavia_Shot_14_Facial_Anim400700D64DD0769999F75A8A7D174757.tmp' to 'C:/Users/Jordan/Documents/CinematicAnimation/CinematicAnimation 5.5/Content/Cin_Anim/Anims/Octavia/O_Shot14/Octavia_Shot_14_Facial_Anim.uasset'
+[2025.04.22-08.40.17:295][848]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Cin_Anim/Anims/Octavia/O_Shot14/Octavia_Shot_14_Facial_PhysicsAsset] ([1] browsable assets)...
+[2025.04.22-08.40.17:311][848]OBJ SavePackage:     Rendered thumbnail for [PhysicsAsset /Game/Cin_Anim/Anims/Octavia/O_Shot14/Octavia_Shot_14_Facial_PhysicsAsset.Octavia_Shot_14_Facial_PhysicsAsset]
+[2025.04.22-08.40.17:311][848]OBJ SavePackage: Finished generating thumbnails for package [/Game/Cin_Anim/Anims/Octavia/O_Shot14/Octavia_Shot_14_Facial_PhysicsAsset]
+[2025.04.22-08.40.17:413][848]LogSavePackage: Moving output files for package: /Game/Cin_Anim/Anims/Octavia/O_Shot14/Octavia_Shot_14_Facial_PhysicsAsset
+[2025.04.22-08.40.17:413][848]LogSavePackage: Moving 'C:/Users/Jordan/Documents/CinematicAnimation/CinematicAnimation 5.5/Saved/Octavia_Shot_14_Facial_PhysicsAsBC7235E54F8326A3B822BDA66906F7FB.tmp' to 'C:/Users/Jordan/Documents/CinematicAnimation/CinematicAnimation 5.5/Content/Cin_Anim/Anims/Octavia/O_Shot14/Octavia_Shot_14_Facial_PhysicsAsset.uasset'
+[2025.04.22-08.40.17:618][848]LogFileHelpers: InternalPromptForCheckoutAndSave took 1.30 sec
+[2025.04.22-08.40.17:656][848]LogContentValidation: Display: Starting to validate 3 assets
+[2025.04.22-08.40.17:656][848]LogContentValidation: Enabled validators:
+[2025.04.22-08.40.17:656][848]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.04.22-08.40.17:656][848]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.04.22-08.40.17:656][848]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.04.22-08.40.17:656][848]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.04.22-08.40.17:656][848]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.04.22-08.40.17:656][848]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.04.22-08.40.17:667][848]AssetCheck: /Game/Cin_Anim/Anims/Octavia/O_Shot14/Octavia_Shot_14_Facial Validating asset
+[2025.04.22-08.40.17:667][848]AssetCheck: /Game/Cin_Anim/Anims/Octavia/O_Shot14/Octavia_Shot_14_Facial_Anim Validating asset
+[2025.04.22-08.40.17:676][848]AssetCheck: /Game/Cin_Anim/Anims/Octavia/O_Shot14/Octavia_Shot_14_Facial_PhysicsAsset Validating asset
