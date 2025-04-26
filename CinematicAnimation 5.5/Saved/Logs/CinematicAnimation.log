@@ -6990,3 +6990,21 @@ Sampler Limit: 32
 [2025.04.26-13.29.52:957][703]LogStall: Shutdown...
 [2025.04.26-13.29.52:968][703]LogStall: Shutdown complete.
 [2025.04.26-13.29.56:208][703]LogSlate: Window 'CinematicAnimation - Unreal Editor' being destroyed
+[2025.04.26-13.30.40:252][703]LogAutomationController: Ignoring very large delta of 48.35 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2025.04.26-13.30.40:279][703]Cmd: QUIT_EDITOR
+[2025.04.26-13.30.40:390][703]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2025.04.26-13.30.40:912][704]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2025.04.26-13.30.41:103][704]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2025.04.26-13.30.41:104][704]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2025.04.26-13.30.43:293][704]LogWorld: UWorld::CleanupWorld for Cinematic_Map, bSessionEnded=true, bCleanupResources=true
+[2025.04.26-13.30.43:611][704]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.26-13.30.43:611][704]LogWorld: UWorld::CleanupWorld for Niamh, bSessionEnded=true, bCleanupResources=true
+[2025.04.26-13.30.43:611][704]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.26-13.30.43:611][704]LogWorld: UWorld::CleanupWorld for Emma, bSessionEnded=true, bCleanupResources=true
+[2025.04.26-13.30.43:611][704]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.26-13.30.43:611][704]LogWorld: UWorld::CleanupWorld for Jordan, bSessionEnded=true, bCleanupResources=true
+[2025.04.26-13.30.43:611][704]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.26-13.30.43:611][704]LogWorld: UWorld::CleanupWorld for Cinematic_Environment, bSessionEnded=true, bCleanupResources=true
+[2025.04.26-13.30.43:611][704]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.26-13.30.50:362][704]LogStylusInput: Shutting down StylusInput subsystem.
+[2025.04.26-13.30.53:281][704]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
