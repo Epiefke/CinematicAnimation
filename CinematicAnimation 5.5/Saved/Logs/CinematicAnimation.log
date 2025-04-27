@@ -2125,3 +2125,67 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.04.27-04.05.52:764][197]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 336.006927, Update Interval: 303.616455
 [2025.04.27-04.08.29:704][782]LogSlate: Window 'Render Movie Settings' being destroyed
 [2025.04.27-04.08.35:102][289]LogSlate: Window 'Render Movie Settings' being destroyed
+[2025.04.27-04.10.58:602][977]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 642.171997
+[2025.04.27-04.10.59:601][980]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.04.27-04.10.59:601][980]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 642.838867, Update Interval: 321.907410
+[2025.04.27-04.13.34:811][ 16]LogRenderer: Display: Invalidated clipmap due to WPO threshold change. This can occur due to resolution or FOV changes.
+[2025.04.27-04.13.37:159][126]LogSlate: Took 0.000306 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2025.04.27-04.13.57:573][ 67]LogAssetEditorSubsystem: Opening Asset editor for LevelSequence /Game/Cin_Anim/Shots/Shot_001-004.Shot_001-004
+[2025.04.27-04.14.21:102][143]LogAssetEditorSubsystem: Opening Asset editor for LevelSequence /Game/Cin_Anim/Shots/Shot_008-009.Shot_008-009
+[2025.04.27-04.14.37:456][219]LogRenderer: Display: Invalidated clipmap due to WPO threshold change. This can occur due to resolution or FOV changes.
+[2025.04.27-04.14.53:084][ 59]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_0
+[2025.04.27-04.14.53:130][ 61]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_1
+[2025.04.27-04.14.57:422][501]LogSlate: Took 0.000193 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2025.04.27-04.14.57:428][501]LogSlate: Warning: Unable to rasterize '../../../Engine/Content/Editor/Slate/Starship/AssetIcons/SkeletalMesh_64.svg'. File could not be found
+[2025.04.27-04.14.57:454][503]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_2
+[2025.04.27-04.14.57:505][506]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_3
+[2025.04.27-04.14.57:521][507]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_4
+[2025.04.27-04.14.57:551][509]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_5
+[2025.04.27-04.15.35:164][102]LogOutputDevice: Warning: 
+
+Script Stack (0 frames) :
+
+[2025.04.27-04.15.35:196][102]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.032 s
+[2025.04.27-04.15.35:196][102]LogOutputDevice: Error: === Handled ensure: ===
+[2025.04.27-04.15.35:196][102]LogOutputDevice: Error: 
+[2025.04.27-04.15.35:196][102]LogOutputDevice: Error: Ensure condition failed: !bViewportModifiersRegistered  [File:D:\build\++UE5\Sync\Engine\Source\Runtime\MovieSceneTracks\Private\TrackInstances\MovieSceneCameraCutViewportPreviewer.cpp] [Line: 60] 
+[2025.04.27-04.15.35:196][102]LogOutputDevice: Error: 
+[2025.04.27-04.15.35:196][102]LogOutputDevice: Error: Stack: 
+[2025.04.27-04.15.35:196][102]LogOutputDevice: Error: [Callstack] 0x00007ffb796ad00f UnrealEditor-MovieSceneTracks.dll!UnknownFunction []
+[2025.04.27-04.15.35:196][102]LogOutputDevice: Error: [Callstack] 0x00007ffb796add03 UnrealEditor-MovieSceneTracks.dll!UnknownFunction []
+[2025.04.27-04.15.35:196][102]LogOutputDevice: Error: [Callstack] 0x00007ffb9021f172 UnrealEditor-CoreUObject.dll!UnknownFunction []
+[2025.04.27-04.15.35:196][102]LogOutputDevice: Error: [Callstack] 0x00007ffb90268903 UnrealEditor-CoreUObject.dll!UnknownFunction []
+[2025.04.27-04.15.35:196][102]LogOutputDevice: Error: [Callstack] 0x00007ffb90268d54 UnrealEditor-CoreUObject.dll!UnknownFunction []
+[2025.04.27-04.15.35:196][102]LogOutputDevice: Error: [Callstack] 0x00007ffb901e8936 UnrealEditor-CoreUObject.dll!UnknownFunction []
+[2025.04.27-04.15.35:196][102]LogOutputDevice: Error: [Callstack] 0x00007ffb90271220 UnrealEditor-CoreUObject.dll!UnknownFunction []
+[2025.04.27-04.15.35:196][102]LogOutputDevice: Error: [Callstack] 0x00007ffb9021b0b9 UnrealEditor-CoreUObject.dll!UnknownFunction []
+[2025.04.27-04.15.35:196][102]LogOutputDevice: Error: [Callstack] 0x00007ffb8e8e65ec UnrealEditor-UnrealEd.dll!UnknownFunction []
+[2025.04.27-04.15.35:196][102]LogOutputDevice: Error: [Callstack] 0x00007ffb8eb90fa5 UnrealEditor-UnrealEd.dll!UnknownFunction []
+[2025.04.27-04.15.35:196][102]LogOutputDevice: Error: [Callstack] 0x00007ffb8f0f434c UnrealEditor-UnrealEd.dll!UnknownFunction []
+[2025.04.27-04.15.35:196][102]LogOutputDevice: Error: [Callstack] 0x00007ff7cc476b47 UnrealEditor.exe!UnknownFunction []
+[2025.04.27-04.15.35:196][102]LogOutputDevice: Error: [Callstack] 0x00007ff7cc4957ac UnrealEditor.exe!UnknownFunction []
+[2025.04.27-04.15.35:196][102]LogOutputDevice: Error: [Callstack] 0x00007ff7cc49589a UnrealEditor.exe!UnknownFunction []
+[2025.04.27-04.15.35:196][102]LogOutputDevice: Error: [Callstack] 0x00007ff7cc499114 UnrealEditor.exe!UnknownFunction []
+[2025.04.27-04.15.35:196][102]LogOutputDevice: Error: [Callstack] 0x00007ff7cc4abd04 UnrealEditor.exe!UnknownFunction []
+[2025.04.27-04.15.35:196][102]LogOutputDevice: Error: [Callstack] 0x00007ff7cc4af0ba UnrealEditor.exe!UnknownFunction []
+[2025.04.27-04.15.35:197][102]LogOutputDevice: Error: [Callstack] 0x00007ffbff4de8d7 KERNEL32.DLL!UnknownFunction []
+[2025.04.27-04.15.35:197][102]LogOutputDevice: Error: [Callstack] 0x00007ffc002714fc ntdll.dll!UnknownFunction []
+[2025.04.27-04.15.35:197][102]LogOutputDevice: Error: 
+[2025.04.27-04.15.35:207][102]LogStats:                SubmitErrorReport -  0.000 s
+[2025.04.27-04.15.36:146][102]LogAudioMixer: Warning: FMixerNullCallback: Large time delta between simulated audio clock and realtime [-762ms], ThreadID=17944
+[2025.04.27-04.15.36:146][102]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.04.27-04.15.36:146][102]LogStats:                    SendNewReport -  0.940 s
+[2025.04.27-04.15.36:147][102]LogStats:             FDebug::EnsureFailed -  0.982 s
+[2025.04.27-04.15.36:158][102]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2025.04.27-04.15.36:171][102]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Cin_Anim/Levels/Emma_Auto1
+[2025.04.27-04.15.36:172][102]LogSavePackage: Moving '../../../../../../Users/emmap/Documents/GitHub/CinematicAnimation/CinematicAnimation 5.5/Saved/Emma_Auto1009EF39E4FC84C7815CE009406056655.tmp' to '../../../../../../Users/emmap/Documents/GitHub/CinematicAnimation/CinematicAnimation 5.5/Saved/Autosaves/Game/Cin_Anim/Levels/Emma_Auto1.umap'
+[2025.04.27-04.15.36:214][102]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Cin_Anim/Levels/Cinematic_Map' took 1.085
+[2025.04.27-04.15.36:214][102]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 1.085
+[2025.04.27-04.15.36:214][102]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Cin_Anim/Shots/Shot_008-009] ([1] browsable assets)...
+[2025.04.27-04.15.36:214][102]OBJ SavePackage: Finished generating thumbnails for package [/Game/Cin_Anim/Shots/Shot_008-009]
+[2025.04.27-04.15.36:225][102]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Cin_Anim/Shots/Shot_008-009_Auto1
+[2025.04.27-04.15.36:226][102]LogSavePackage: Moving '../../../../../../Users/emmap/Documents/GitHub/CinematicAnimation/CinematicAnimation 5.5/Saved/Shot_008-009_Auto1015681FD409EBAA7F4476A9C4EB93AA7.tmp' to '../../../../../../Users/emmap/Documents/GitHub/CinematicAnimation/CinematicAnimation 5.5/Saved/Autosaves/Game/Cin_Anim/Shots/Shot_008-009_Auto1.uasset'
+[2025.04.27-04.15.36:228][102]LogFileHelpers: Auto-saving content packages took 0.015
+[2025.04.27-04.16.28:308][259]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 971.880554
+[2025.04.27-04.16.29:309][262]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.04.27-04.16.29:309][262]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 972.548706, Update Interval: 341.388580
