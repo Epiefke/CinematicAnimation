@@ -2131,3 +2131,554 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.04.27-09.51.12:912][210]LogRenderer: Display: Recreating Shadow.Virtual.PhysicalPagePool due to size or flags change. This will also drop any cached pages.
 [2025.04.27-09.51.12:998][214]LogPlayLevel: Display: Destroying online subsystem :Context_2
 [2025.04.27-09.51.41:550][145]LogSlate: Window 'Render Movie Settings' being destroyed
+[2025.04.27-09.52.16:364][100]LogRenderer: Display: Invalidated clipmap due to WPO threshold change. This can occur due to resolution or FOV changes.
+[2025.04.27-09.52.21:125][470]LogAssetEditorSubsystem: Opening Asset editor for LevelSequence /Game/Cin_Anim/Shots/Shot_022.Shot_022
+[2025.04.27-09.52.26:456][928]LogRenderer: Display: Invalidated clipmap due to WPO threshold change. This can occur due to resolution or FOV changes.
+[2025.04.27-09.52.30:132][318]LogRenderer: Display: Invalidated clipmap due to WPO threshold change. This can occur due to resolution or FOV changes.
+[2025.04.27-09.52.30:656][364]LogRenderer: Display: Invalidated clipmap due to WPO threshold change. This can occur due to resolution or FOV changes.
+[2025.04.27-09.52.34:459][767]LogRenderer: Display: Invalidated clipmap due to WPO threshold change. This can occur due to resolution or FOV changes.
+[2025.04.27-09.52.34:861][802]LogRenderer: Display: Invalidated clipmap due to WPO threshold change. This can occur due to resolution or FOV changes.
+[2025.04.27-09.53.07:457][699]LogRenderer: Display: Invalidated clipmap due to WPO threshold change. This can occur due to resolution or FOV changes.
+[2025.04.27-09.53.23:528][908]LogAssetEditorSubsystem: Opening Asset editor for LevelSequence /Game/Cin_Anim/Shots/Shot_022.Shot_022
+[2025.04.27-09.54.08:829][ 85]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_0
+[2025.04.27-09.54.08:877][ 87]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_1
+[2025.04.27-09.54.10:379][214]LogSlate: Took 0.000169 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2025.04.27-09.54.10:385][214]LogSlate: Warning: Unable to rasterize '../../../Engine/Content/Editor/Slate/Starship/AssetIcons/SkeletalMesh_64.svg'. File could not be found
+[2025.04.27-09.54.10:389][215]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_2
+[2025.04.27-09.54.10:414][216]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_3
+[2025.04.27-09.54.10:463][219]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_4
+[2025.04.27-09.54.10:480][220]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_5
+[2025.04.27-09.54.45:504][495]LogSlate: Warning: Unable to rasterize '../../../Engine/Content/Editor/Slate/Starship/AssetIcons/SkeletalMesh_64.svg'. File could not be found
+[2025.04.27-09.54.45:507][496]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_6
+[2025.04.27-09.54.45:531][497]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_7
+[2025.04.27-09.54.45:613][500]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_8
+[2025.04.27-09.54.45:634][501]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_9
+[2025.04.27-09.54.50:118][914]LogStreaming: Display: FlushAsyncLoading(358): 1 QueuedPackages, 0 AsyncPackages
+[2025.04.27-09.55.05:530][914]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/emmap/Documents/GitHub/CinematicAnimation/Maya Files/Emma_Octavia/assets/Octavia_Shot_22-24_Fixed.fbx]
+[2025.04.27-09.55.09:680][914]LogSlate: Window 'Import Content' being destroyed
+[2025.04.27-09.55.09:708][914]LogInterchangeEngine: [Pending] Importing
+[2025.04.27-09.55.09:749][914]LogStreaming: Display: FlushAsyncLoading(367): 1 QueuedPackages, 0 AsyncPackages
+[2025.04.27-09.55.10:177][917]LogStreaming: Display: FlushAsyncLoading(379): 1 QueuedPackages, 0 AsyncPackages
+[2025.04.27-09.55.10:258][918]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Cin_Anim/Anims/Octavia/Octavia_Shot_22-24_Fixed.Octavia_Shot_22-24_Fixed (Required Memory Estimate: 5.29 MB)
+[2025.04.27-09.55.10:295][918]LogInterchangeEngine: Display: Interchange import completed [C:/Users/emmap/Docum.../Emma_Octavia/assets/Octavia_Shot_22-24_Fixed.fbx]
+[2025.04.27-09.55.10:297][918]LogInterchangeEngine: [Pending] Importing - Operation completed.
+[2025.04.27-09.55.10:297][918]LogInterchangeEngine: [Success] Import Done
+[2025.04.27-09.55.10:389][922]LogAnimationCompression: Display: Storing compressed animation data for /Game/Cin_Anim/Anims/Octavia/Octavia_Shot_22-24_Fixed.Octavia_Shot_22-24_Fixed, at AnimationSequence/3dd8ce61f8f338029639459751e21dda79e9b425
+[2025.04.27-09.55.11:836][  8]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 652.615356
+[2025.04.27-09.55.12:105][ 29]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.04.27-09.55.12:106][ 29]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 652.869690, Update Interval: 317.959534
+[2025.04.27-09.55.13:492][137]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/Cin_Anim/Anims/Octavia/Octavia_Shot_22-24_Fixed.Octavia_Shot_22-24_Fixed
+[2025.04.27-09.55.13:497][137]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_10
+[2025.04.27-09.55.13:504][137]LogStreaming: Display: FlushAsyncLoading(380): 1 QueuedPackages, 0 AsyncPackages
+[2025.04.27-09.55.13:526][137]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_10:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.04.27-09.55.13:780][137]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_11
+[2025.04.27-09.55.14:061][137]LogSlate: Took 0.000282 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2025.04.27-09.55.14:069][137]LogUObjectGlobals: Warning: Failed to find object 'Class /Script/ApexDestruction.DestructibleMesh'
+[2025.04.27-09.55.14:076][137]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_12
+[2025.04.27-09.55.18:574][397]LogSlate: Window 'Octavia_Shot_22-24_Fixed' being destroyed
+[2025.04.27-09.55.18:578][397]LogSlate: Window 'Octavia_Shot_22-24_Fixed' being destroyed
+[2025.04.27-09.55.18:596][397]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2025.04.27-09.55.18:596][397]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.27-09.55.18:601][397]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2025.04.27-09.55.18:601][397]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.27-09.55.18:642][397]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2025.04.27-09.55.18:642][397]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.27-09.55.18:693][397]LogOutputDevice: Warning: 
+
+Script Stack (0 frames) :
+
+[2025.04.27-09.55.18:725][397]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.032 s
+[2025.04.27-09.55.18:725][397]LogOutputDevice: Error: === Handled ensure: ===
+[2025.04.27-09.55.18:725][397]LogOutputDevice: Error: 
+[2025.04.27-09.55.18:725][397]LogOutputDevice: Error: Ensure condition failed: !bViewportModifiersRegistered  [File:D:\build\++UE5\Sync\Engine\Source\Runtime\MovieSceneTracks\Private\TrackInstances\MovieSceneCameraCutViewportPreviewer.cpp] [Line: 60] 
+[2025.04.27-09.55.18:725][397]LogOutputDevice: Error: 
+[2025.04.27-09.55.18:725][397]LogOutputDevice: Error: Stack: 
+[2025.04.27-09.55.18:725][397]LogOutputDevice: Error: [Callstack] 0x00007ffb72f5d00f UnrealEditor-MovieSceneTracks.dll!UnknownFunction []
+[2025.04.27-09.55.18:726][397]LogOutputDevice: Error: [Callstack] 0x00007ffb72f5dd03 UnrealEditor-MovieSceneTracks.dll!UnknownFunction []
+[2025.04.27-09.55.18:726][397]LogOutputDevice: Error: [Callstack] 0x00007ffb919ff172 UnrealEditor-CoreUObject.dll!UnknownFunction []
+[2025.04.27-09.55.18:726][397]LogOutputDevice: Error: [Callstack] 0x00007ffb91a48903 UnrealEditor-CoreUObject.dll!UnknownFunction []
+[2025.04.27-09.55.18:726][397]LogOutputDevice: Error: [Callstack] 0x00007ffb91a48d54 UnrealEditor-CoreUObject.dll!UnknownFunction []
+[2025.04.27-09.55.18:726][397]LogOutputDevice: Error: [Callstack] 0x00007ffb919c8936 UnrealEditor-CoreUObject.dll!UnknownFunction []
+[2025.04.27-09.55.18:726][397]LogOutputDevice: Error: [Callstack] 0x00007ffb91a51220 UnrealEditor-CoreUObject.dll!UnknownFunction []
+[2025.04.27-09.55.18:726][397]LogOutputDevice: Error: [Callstack] 0x00007ffb91abf714 UnrealEditor-CoreUObject.dll!UnknownFunction []
+[2025.04.27-09.55.18:726][397]LogOutputDevice: Error: [Callstack] 0x00007ffb7d2981ff UnrealEditor-Engine.dll!UnknownFunction []
+[2025.04.27-09.55.18:726][397]LogOutputDevice: Error: [Callstack] 0x00007ffb7c2f7132 UnrealEditor-Engine.dll!UnknownFunction []
+[2025.04.27-09.55.18:726][397]LogOutputDevice: Error: [Callstack] 0x00007ffb76ec3fc1 UnrealEditor-UnrealEd.dll!UnknownFunction []
+[2025.04.27-09.55.18:726][397]LogOutputDevice: Error: [Callstack] 0x00007ffb77b542c6 UnrealEditor-UnrealEd.dll!UnknownFunction []
+[2025.04.27-09.55.18:726][397]LogOutputDevice: Error: [Callstack] 0x00007ff7cc476b47 UnrealEditor.exe!UnknownFunction []
+[2025.04.27-09.55.18:726][397]LogOutputDevice: Error: [Callstack] 0x00007ff7cc4957ac UnrealEditor.exe!UnknownFunction []
+[2025.04.27-09.55.18:726][397]LogOutputDevice: Error: [Callstack] 0x00007ff7cc49589a UnrealEditor.exe!UnknownFunction []
+[2025.04.27-09.55.18:726][397]LogOutputDevice: Error: [Callstack] 0x00007ff7cc499114 UnrealEditor.exe!UnknownFunction []
+[2025.04.27-09.55.18:726][397]LogOutputDevice: Error: [Callstack] 0x00007ff7cc4abd04 UnrealEditor.exe!UnknownFunction []
+[2025.04.27-09.55.18:726][397]LogOutputDevice: Error: [Callstack] 0x00007ff7cc4af0ba UnrealEditor.exe!UnknownFunction []
+[2025.04.27-09.55.18:726][397]LogOutputDevice: Error: [Callstack] 0x00007ffbff4de8d7 KERNEL32.DLL!UnknownFunction []
+[2025.04.27-09.55.18:726][397]LogOutputDevice: Error: [Callstack] 0x00007ffc002714fc ntdll.dll!UnknownFunction []
+[2025.04.27-09.55.18:726][397]LogOutputDevice: Error: 
+[2025.04.27-09.55.18:737][397]LogStats:                SubmitErrorReport -  0.000 s
+[2025.04.27-09.55.19:734][397]LogAudioMixer: Warning: FMixerNullCallback: Large time delta between simulated audio clock and realtime [-781ms], ThreadID=16036
+[2025.04.27-09.55.19:734][397]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.04.27-09.55.19:735][397]LogStats:                    SendNewReport -  0.997 s
+[2025.04.27-09.55.19:735][397]LogStats:             FDebug::EnsureFailed -  1.041 s
+[2025.04.27-09.55.19:747][397]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2025.04.27-10.00.37:375][724]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 978.153748
+[2025.04.27-10.00.38:385][727]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.04.27-10.00.38:385][728]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 978.830261, Update Interval: 350.014954
+[2025.04.27-10.01.12:508][274]LogStreaming: Display: FlushAsyncLoading(385): 1 QueuedPackages, 0 AsyncPackages
+[2025.04.27-10.01.12:587][274]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/emmap/Documents/maya/projects/Octavia/assets/Octavia_22-24.fbx]
+[2025.04.27-10.01.18:001][274]LogSlate: Window 'Import Content' being destroyed
+[2025.04.27-10.01.18:020][274]LogInterchangeEngine: [Pending] Importing
+[2025.04.27-10.01.19:182][282]LogStreaming: Display: FlushAsyncLoading(386): 1 QueuedPackages, 0 AsyncPackages
+[2025.04.27-10.01.19:215][283]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Cin_Anim/Anims/Octavia/Octavia_22-24.Octavia_22-24 (Required Memory Estimate: 13.37 MB)
+[2025.04.27-10.01.19:343][283]LogInterchangeEngine: Display: Interchange import completed [C:/Users/emmap/Docum...jects/Octavia/assets/Octavia_22-24.fbx]
+[2025.04.27-10.01.19:343][283]Interchange: Warning: [C:/Users/emmap/Documents/maya/projects/Octavia/assets/Octavia_22-24.fbx : 'Octavia_22-24', SkeletalMesh] Imported skeletal mesh has some invalid bind poses. Skeletal mesh skinning has been rebind using the time zero pose.
+[2025.04.27-10.01.19:363][283]LogInterchangeEngine: [Pending] Importing - Operation completed.
+[2025.04.27-10.01.19:363][283]LogInterchangeEngine: [Success] Import Done
+[2025.04.27-10.01.20:102][331]LogAnimationCompression: Display: Storing compressed animation data for /Game/Cin_Anim/Anims/Octavia/Octavia_22-24.Octavia_22-24, at AnimationSequence/d7b8897221b765df8cce15b7d785f77eb2d9e382
+[2025.04.27-10.01.26:334][795]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_13
+[2025.04.27-10.01.50:989][260]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2025.04.27-10.01.50:992][260]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Cin_Anim/Levels/Cinematic_Map' took 0.019
+[2025.04.27-10.01.50:993][260]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Cin_Anim/Shots/Shot_022] ([1] browsable assets)...
+[2025.04.27-10.01.50:993][260]OBJ SavePackage: Finished generating thumbnails for package [/Game/Cin_Anim/Shots/Shot_022]
+[2025.04.27-10.01.51:004][260]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Cin_Anim/Shots/Shot_022_Auto1
+[2025.04.27-10.01.51:004][260]LogSavePackage: Moving '../../../../../../Users/emmap/Documents/GitHub/CinematicAnimation/CinematicAnimation 5.5/Saved/Shot_022_Auto1DD3E79C0443806FA3A4803A8EBC5E286.tmp' to '../../../../../../Users/emmap/Documents/GitHub/CinematicAnimation/CinematicAnimation 5.5/Saved/Autosaves/Game/Cin_Anim/Shots/Shot_022_Auto1.uasset'
+[2025.04.27-10.01.51:006][260]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Cin_Anim/Anims/Octavia/Octavia_Shot_22-24_Fixed] ([1] browsable assets)...
+[2025.04.27-10.01.51:020][260]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/Cin_Anim/Anims/Octavia/Octavia_Shot_22-24_Fixed.Octavia_Shot_22-24_Fixed]
+[2025.04.27-10.01.51:020][260]OBJ SavePackage: Finished generating thumbnails for package [/Game/Cin_Anim/Anims/Octavia/Octavia_Shot_22-24_Fixed]
+[2025.04.27-10.01.51:027][260]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Cin_Anim/Anims/Octavia/Octavia_Shot_22-24_Fixed_Auto1
+[2025.04.27-10.01.51:027][260]LogSavePackage: Moving '../../../../../../Users/emmap/Documents/GitHub/CinematicAnimation/CinematicAnimation 5.5/Saved/Octavia_Shot_22-24_Fixed_Auto130B32CE04E0E8AA9DC734695F036DEBE.tmp' to '../../../../../../Users/emmap/Documents/GitHub/CinematicAnimation/CinematicAnimation 5.5/Saved/Autosaves/Game/Cin_Anim/Anims/Octavia/Octavia_Shot_22-24_Fixed_Auto1.uasset'
+[2025.04.27-10.01.51:028][260]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Cin_Anim/Anims/Octavia/Octavia_22-24] ([1] browsable assets)...
+[2025.04.27-10.01.51:036][260]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/Cin_Anim/Anims/Octavia/Octavia_22-24.Octavia_22-24]
+[2025.04.27-10.01.51:036][260]OBJ SavePackage: Finished generating thumbnails for package [/Game/Cin_Anim/Anims/Octavia/Octavia_22-24]
+[2025.04.27-10.01.51:050][260]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Cin_Anim/Anims/Octavia/Octavia_22-24_Auto1
+[2025.04.27-10.01.51:050][260]LogSavePackage: Moving '../../../../../../Users/emmap/Documents/GitHub/CinematicAnimation/CinematicAnimation 5.5/Saved/Octavia_22-24_Auto121E8AEEC45923E0C6C3DA38A09BB7589.tmp' to '../../../../../../Users/emmap/Documents/GitHub/CinematicAnimation/CinematicAnimation 5.5/Saved/Autosaves/Game/Cin_Anim/Anims/Octavia/Octavia_22-24_Auto1.uasset'
+[2025.04.27-10.01.51:051][260]LogFileHelpers: Auto-saving content packages took 0.059
+[2025.04.27-10.01.59:427][364]LogStreaming: Display: FlushAsyncLoading(387): 1 QueuedPackages, 0 AsyncPackages
+[2025.04.27-10.01.59:468][364]LogInterchangeEngine: [Pending] Importing
+[2025.04.27-10.01.59:468][364]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/emmap/Documents/maya/projects/Octavia/assets/Celeste_22-24.fbx]
+[2025.04.27-10.02.00:969][364]LogScript: Display: Script Msg: /Game/Cin_Anim/Anims/Celeste/Celeste_22-24 : New play length is same as existing one: 440 frames
+[2025.04.27-10.02.01:129][364]LogInterchangeEngine: Display: Interchange import completed [C:/Users/emmap/Docum...jects/Octavia/assets/Celeste_22-24.fbx]
+[2025.04.27-10.02.01:129][364]Interchange: Warning: [C:/Users/emmap/Documents/maya/projects/Octavia/assets/Celeste_22-24.fbx : 'Celeste_22-24', SkeletalMesh] Imported skeletal mesh has some invalid bind poses. Skeletal mesh skinning has been rebind using the time zero pose.
+[2025.04.27-10.02.01:151][364]LogInterchangeEngine: [Pending] Importing - Operation completed.
+[2025.04.27-10.02.01:151][364]LogInterchangeEngine: [Success] Import Done
+[2025.04.27-10.04.46:920][210]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/Cin_Anim/Anims/Octavia/Octavia_22-24.Octavia_22-24
+[2025.04.27-10.04.46:920][210]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_14
+[2025.04.27-10.04.46:928][210]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_14:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.04.27-10.04.47:187][210]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_15
+[2025.04.27-10.04.47:466][210]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_16
+[2025.04.27-10.05.14:476][942]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.04.27-10.05.14:536][942]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Cin_Anim/Anims/Octavia/Octavia_22-24] ([1] browsable assets)...
+[2025.04.27-10.05.14:545][942]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/Cin_Anim/Anims/Octavia/Octavia_22-24.Octavia_22-24]
+[2025.04.27-10.05.14:545][942]OBJ SavePackage: Finished generating thumbnails for package [/Game/Cin_Anim/Anims/Octavia/Octavia_22-24]
+[2025.04.27-10.05.14:558][942]LogSavePackage: Moving output files for package: /Game/Cin_Anim/Anims/Octavia/Octavia_22-24
+[2025.04.27-10.05.14:558][942]LogSavePackage: Moving '../../../../../../Users/emmap/Documents/GitHub/CinematicAnimation/CinematicAnimation 5.5/Saved/Octavia_22-24EBC4741B432C6EA3E9073AB932FB5EE4.tmp' to '../../../../../../Users/emmap/Documents/GitHub/CinematicAnimation/CinematicAnimation 5.5/Content/Cin_Anim/Anims/Octavia/Octavia_22-24.uasset'
+[2025.04.27-10.05.14:572][942]LogFileHelpers: InternalPromptForCheckoutAndSave took 95.669 ms (total: 227.198 ms)
+[2025.04.27-10.05.14:618][942]LogContentValidation: Display: Starting to validate 1 assets
+[2025.04.27-10.05.14:618][942]LogContentValidation: Enabled validators:
+[2025.04.27-10.05.14:618][942]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.04.27-10.05.14:618][942]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.04.27-10.05.14:618][942]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.04.27-10.05.14:618][942]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.04.27-10.05.14:618][942]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.04.27-10.05.14:619][942]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.04.27-10.05.14:621][942]AssetCheck: /Game/Cin_Anim/Anims/Octavia/Octavia_22-24 Validating asset
+[2025.04.27-10.05.39:845][ 42]LogRenderer: Display: Invalidated clipmap due to WPO threshold change. This can occur due to resolution or FOV changes.
+[2025.04.27-10.06.41:582][792]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1342.360474
+[2025.04.27-10.06.42:501][879]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.04.27-10.06.42:501][879]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1343.268921, Update Interval: 356.172974
+[2025.04.27-10.07.13:271][760]Cmd: TRANSACTION UNDO
+[2025.04.27-10.07.13:271][760]LogEditorTransaction: Undo Set Location
+[2025.04.27-10.07.13:428][760]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_14:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.04.27-10.07.16:611][ 38]LogRenderer: Display: Invalidated clipmap due to WPO threshold change. This can occur due to resolution or FOV changes.
+[2025.04.27-10.07.56:529][953]Cmd: TRANSACTION UNDO
+[2025.04.27-10.07.56:529][953]LogEditorTransaction: Undo Move Elements
+[2025.04.27-10.07.56:703][953]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_14:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.04.27-10.07.57:063][959]Cmd: TRANSACTION UNDO
+[2025.04.27-10.07.57:063][959]LogEditorTransaction: Undo Move Elements
+[2025.04.27-10.07.57:212][959]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_14:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.04.27-10.07.57:713][992]Cmd: TRANSACTION UNDO
+[2025.04.27-10.07.57:713][992]LogEditorTransaction: Undo Move Elements
+[2025.04.27-10.07.57:882][992]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_14:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.04.27-10.07.58:299][ 20]Cmd: TRANSACTION UNDO
+[2025.04.27-10.07.58:299][ 20]LogEditorTransaction: Undo Move Elements
+[2025.04.27-10.07.58:469][ 20]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_14:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.04.27-10.08.22:497][621]LogActorFactory: Loading ActorFactory Class /Script/Engine.LevelInstance
+[2025.04.27-10.08.30:678][490]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.PointLight
+[2025.04.27-10.08.30:678][490]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.PointLight
+[2025.04.27-10.09.01:030][618]LogSlate: Window 'Color Picker' being destroyed
+[2025.04.27-10.09.10:776][428]LogSlate: Window 'Color Picker' being destroyed
+[2025.04.27-10.09.14:440][707]LogRenderer: Display: Invalidated clipmap due to WPO threshold change. This can occur due to resolution or FOV changes.
+[2025.04.27-10.09.55:690][623]Cmd: TRANSACTION UNDO
+[2025.04.27-10.09.55:690][623]LogEditorTransaction: Undo Move Keys or Sections
+[2025.04.27-10.09.55:837][623]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_14:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.04.27-10.10.41:002][647]LogRenderer: Display: Invalidated clipmap due to WPO threshold change. This can occur due to resolution or FOV changes.
+[2025.04.27-10.11.12:063][834]LogRenderer: Display: Invalidated clipmap due to WPO threshold change. This can occur due to resolution or FOV changes.
+[2025.04.27-10.11.19:612][541]LogRenderer: Display: Invalidated clipmap due to WPO threshold change. This can occur due to resolution or FOV changes.
+[2025.04.27-10.11.28:920][242]LogRenderer: Display: Invalidated clipmap due to WPO threshold change. This can occur due to resolution or FOV changes.
+[2025.04.27-10.12.27:124][440]LogSlate: Window 'Color Picker' being destroyed
+[2025.04.27-10.12.33:485][992]LogSlate: Window 'Color Picker' being destroyed
+[2025.04.27-10.12.54:916][932]Cmd: TRANSACTION UNDO
+[2025.04.27-10.12.54:916][932]LogEditorTransaction: Undo Move Elements
+[2025.04.27-10.12.55:066][932]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_14:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.04.27-10.12.56:529][ 36]LogRenderer: Display: Invalidated clipmap due to WPO threshold change. This can occur due to resolution or FOV changes.
+[2025.04.27-10.13.03:184][501]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1723.965698
+[2025.04.27-10.13.03:473][523]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.04.27-10.13.03:473][523]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1724.241943, Update Interval: 302.125916
+[2025.04.27-10.13.09:978][  6]LogRenderer: Display: Invalidated clipmap due to WPO threshold change. This can occur due to resolution or FOV changes.
+[2025.04.27-10.14.27:790][680]LogRenderer: Display: Invalidated clipmap due to WPO threshold change. This can occur due to resolution or FOV changes.
+[2025.04.27-10.14.28:307][722]LogRenderer: Display: Invalidated clipmap due to WPO threshold change. This can occur due to resolution or FOV changes.
+[2025.04.27-10.15.08:154][977]LogFileManager: Warning: DeleteFile was unable to delete 'C:/Users/emmap/AppData/Local/UnrealEngine/5.5/Saved/Config/WindowsEditor/EditorSettings.ini', retrying in .5s...
+[2025.04.27-10.15.08:654][977]LogFileManager: Warning: DeleteFile recovered during retry!
+[2025.04.27-10.15.18:612][868]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2025.04.27-10.15.19:961][868]LogSlate: Window 'Save Content' being destroyed
+[2025.04.27-10.15.19:968][868]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.04.27-10.15.20:068][868]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2025.04.27-10.15.20:081][868]LogSavePackage: Moving output files for package: /Game/Cin_Anim/Levels/Cinematic_Map
+[2025.04.27-10.15.20:082][868]LogSavePackage: Moving '../../../../../../Users/emmap/Documents/GitHub/CinematicAnimation/CinematicAnimation 5.5/Saved/Cinematic_Map3579932D41C9EB068CCC7BA4DB47E367.tmp' to '../../../../../../Users/emmap/Documents/GitHub/CinematicAnimation/CinematicAnimation 5.5/Content/Cin_Anim/Levels/Cinematic_Map.umap'
+[2025.04.27-10.15.20:101][868]LogFileHelpers: Saving map 'Cinematic_Map' took 0.073
+[2025.04.27-10.15.20:114][868]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2025.04.27-10.15.20:122][868]LogSavePackage: Moving output files for package: /Game/Cin_Anim/Levels/Emma
+[2025.04.27-10.15.20:123][868]LogSavePackage: Moving '../../../../../../Users/emmap/Documents/GitHub/CinematicAnimation/CinematicAnimation 5.5/Saved/EmmaF62F1AA64B7E84B5B5B90E9FEF5ECF91.tmp' to '../../../../../../Users/emmap/Documents/GitHub/CinematicAnimation/CinematicAnimation 5.5/Content/Cin_Anim/Levels/Emma.umap'
+[2025.04.27-10.15.20:132][868]LogFileHelpers: Saving map 'Emma' took 0.030
+[2025.04.27-10.15.20:132][868]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Cin_Anim/Anims/Celeste/Celeste_22-24] ([1] browsable assets)...
+[2025.04.27-10.15.20:153][868]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/Cin_Anim/Anims/Celeste/Celeste_22-24.Celeste_22-24]
+[2025.04.27-10.15.20:154][868]OBJ SavePackage: Finished generating thumbnails for package [/Game/Cin_Anim/Anims/Celeste/Celeste_22-24]
+[2025.04.27-10.15.20:167][868]LogSavePackage: Moving output files for package: /Game/Cin_Anim/Anims/Celeste/Celeste_22-24
+[2025.04.27-10.15.20:168][868]LogSavePackage: Moving '../../../../../../Users/emmap/Documents/GitHub/CinematicAnimation/CinematicAnimation 5.5/Saved/Celeste_22-24692A4BF1471C00B3817518800C3DE336.tmp' to '../../../../../../Users/emmap/Documents/GitHub/CinematicAnimation/CinematicAnimation 5.5/Content/Cin_Anim/Anims/Celeste/Celeste_22-24.uasset'
+[2025.04.27-10.15.20:170][868]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Cin_Anim/Anims/Octavia/Octavia_Shot_22-24_Fixed] ([1] browsable assets)...
+[2025.04.27-10.15.20:170][868]OBJ SavePackage: Finished generating thumbnails for package [/Game/Cin_Anim/Anims/Octavia/Octavia_Shot_22-24_Fixed]
+[2025.04.27-10.15.20:176][868]LogSavePackage: Moving output files for package: /Game/Cin_Anim/Anims/Octavia/Octavia_Shot_22-24_Fixed
+[2025.04.27-10.15.20:176][868]LogSavePackage: Moving '../../../../../../Users/emmap/Documents/GitHub/CinematicAnimation/CinematicAnimation 5.5/Saved/Octavia_Shot_22-24_FixedFD9C4490463ED94F70FB7796336B31D1.tmp' to '../../../../../../Users/emmap/Documents/GitHub/CinematicAnimation/CinematicAnimation 5.5/Content/Cin_Anim/Anims/Octavia/Octavia_Shot_22-24_Fixed.uasset'
+[2025.04.27-10.15.20:183][868]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Cin_Anim/Shots/Shot_022] ([1] browsable assets)...
+[2025.04.27-10.15.20:183][868]OBJ SavePackage: Finished generating thumbnails for package [/Game/Cin_Anim/Shots/Shot_022]
+[2025.04.27-10.15.20:197][868]LogSavePackage: Moving output files for package: /Game/Cin_Anim/Shots/Shot_022
+[2025.04.27-10.15.20:198][868]LogSavePackage: Moving '../../../../../../Users/emmap/Documents/GitHub/CinematicAnimation/CinematicAnimation 5.5/Saved/Shot_0222ECF2276426BAE13C67B349B24650C96.tmp' to '../../../../../../Users/emmap/Documents/GitHub/CinematicAnimation/CinematicAnimation 5.5/Content/Cin_Anim/Shots/Shot_022.uasset'
+[2025.04.27-10.15.20:206][868]LogFileHelpers: InternalPromptForCheckoutAndSave took 238.119 ms (total: 465.318 ms)
+[2025.04.27-10.15.20:220][868]LogTemp: Starting movie scene capture...
+[2025.04.27-10.15.20:294][868]LogContentValidation: Display: Starting to validate 5 assets
+[2025.04.27-10.15.20:294][868]LogContentValidation: Enabled validators:
+[2025.04.27-10.15.20:294][868]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.04.27-10.15.20:294][868]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.04.27-10.15.20:294][868]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.04.27-10.15.20:294][868]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.04.27-10.15.20:294][868]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.04.27-10.15.20:294][868]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.04.27-10.15.20:295][868]AssetCheck: /Game/Cin_Anim/Levels/Cinematic_Map Validating asset
+[2025.04.27-10.15.20:295][868]AssetCheck: /Game/Cin_Anim/Levels/Emma Validating asset
+[2025.04.27-10.15.20:295][868]AssetCheck: /Game/Cin_Anim/Anims/Celeste/Celeste_22-24 Validating asset
+[2025.04.27-10.15.20:295][868]AssetCheck: /Game/Cin_Anim/Anims/Octavia/Octavia_Shot_22-24_Fixed Validating asset
+[2025.04.27-10.15.20:295][868]AssetCheck: /Game/Cin_Anim/Shots/Shot_022 Validating asset
+[2025.04.27-10.15.20:312][868]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.04.27-10.15.20:312][868]LogPlayLevel: Creating play world package: /Game/Cin_Anim/Levels/UEDPIE_0_Cinematic_Map
+[2025.04.27-10.15.20:316][868]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003626s)
+[2025.04.27-10.15.20:316][868]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Cin_Anim/Levels/Cinematic_Map.Cinematic_Map to /Game/Cin_Anim/Levels/UEDPIE_0_Cinematic_Map.Cinematic_Map (0.003661s)
+[2025.04.27-10.15.20:327][868]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2025.04.27-10.15.20:328][868]LogChaosDD: Creating Chaos Debug Draw Scene for world Cinematic_Map
+[2025.04.27-10.15.20:330][868]LogPlayLevel: PIE: World Init took: (0.001527s)
+[2025.04.27-10.15.20:330][868]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2025.04.27-10.15.20:330][868]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.04.27-10.15.20:330][868]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.04.27-10.15.20:330][868]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.04.27-10.15.20:330][868]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.04.27-10.15.20:330][868]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.04.27-10.15.20:330][868]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.04.27-10.15.20:330][868]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.04.27-10.15.20:330][868]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.04.27-10.15.20:330][868]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.04.27-10.15.20:331][868]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.04.27-10.15.20:331][868]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.04.27-10.15.20:333][868]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.04.27-10.15.20:351][868]LogAudioMixer: Display: Using Audio Hardware Device Unknown
+[2025.04.27-10.15.20:351][868]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.04.27-10.15.20:351][868]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.04.27-10.15.20:351][868]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.04.27-10.15.20:352][868]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=4
+[2025.04.27-10.15.20:352][868]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=4
+[2025.04.27-10.15.20:354][868]LogAudioMixer: Display: StartRunningNullDevice() called, InstanceID=4
+[2025.04.27-10.15.20:354][868]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=4
+[2025.04.27-10.15.20:354][868]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=24832
+[2025.04.27-10.15.20:354][868]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=4
+[2025.04.27-10.15.20:354][868]LogInit: FAudioDevice initialized with ID 4.
+[2025.04.27-10.15.20:354][868]LogAudio: Display: Audio Device (ID: 4) registered with world 'Cinematic_Map'.
+[2025.04.27-10.15.20:354][868]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 4
+[2025.04.27-10.15.20:354][868]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.04.27-10.15.20:365][868]LogSkeletalMesh: USkeletalMeshComponent: Recreating Clothing Actors for 'SkeletalMeshComponent0' with 'SM_Countess'
+[2025.04.27-10.15.20:373][868]LogSkeletalMesh: USkeletalMeshComponent: Recreating Clothing Actors for 'SkeletalMeshComponent0' with 'Aurora_SpringCeremony'
+[2025.04.27-10.15.20:374][868]LogSkeletalMesh: USkeletalMeshComponent: Recreating Clothing Actors for 'SkeletalMeshComponent0' with 'SM_Countess'
+[2025.04.27-10.15.20:376][868]LogSkeletalMesh: USkeletalMeshComponent: Recreating Clothing Actors for 'SkeletalMeshComponent0' with 'Aurora_SpringCeremony'
+[2025.04.27-10.15.20:391][868]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@Cine] File [Scalability]
+[2025.04.27-10.15.20:391][868]LogConfig: Set CVar [[r.SkeletalMeshLODBias:0]]
+[2025.04.27-10.15.20:391][868]LogConfig: Set CVar [[r.ViewDistanceScale:10.0]]
+[2025.04.27-10.15.20:391][868]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@Cine] File [Scalability]
+[2025.04.27-10.15.20:391][868]LogConfig: Set CVar [[r.FXAA.Quality:5]]
+[2025.04.27-10.15.20:391][868]LogConfig: Set CVar [[r.TemporalAA.Quality:2]]
+[2025.04.27-10.15.20:391][868]LogConfig: Set CVar [[r.TSR.History.R11G11B10:0]]
+[2025.04.27-10.15.20:391][868]LogConfig: Set CVar [[r.TSR.History.ScreenPercentage:200]]
+[2025.04.27-10.15.20:391][868]LogConfig: Set CVar [[r.TSR.History.UpdateQuality:3]]
+[2025.04.27-10.15.20:391][868]LogConfig: Set CVar [[r.TSR.ShadingRejection.Flickering:1]]
+[2025.04.27-10.15.20:391][868]LogConfig: Set CVar [[r.TSR.RejectionAntiAliasingQuality:2]]
+[2025.04.27-10.15.20:391][868]LogConfig: Set CVar [[r.TSR.ReprojectionField:1]]
+[2025.04.27-10.15.20:391][868]LogConfig: Applying CVar settings from Section [ShadowQuality@Cine] File [Scalability]
+[2025.04.27-10.15.20:391][868]LogConfig: Set CVar [[r.ShadowQuality:5]]
+[2025.04.27-10.15.20:391][868]LogConfig: Set CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2025.04.27-10.15.20:391][868]LogConfig: Set CVar [[r.Shadow.MaxResolution:4096]]
+[2025.04.27-10.15.20:391][868]LogConfig: Set CVar [[r.Shadow.MaxCSMResolution:4096]]
+[2025.04.27-10.15.20:391][868]LogConfig: Set CVar [[r.Shadow.RadiusThreshold:0]]
+[2025.04.27-10.15.20:391][868]LogConfig: Set CVar [[r.Shadow.DistanceScale:1.0]]
+[2025.04.27-10.15.20:391][868]LogConfig: Set CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2025.04.27-10.15.20:391][868]LogConfig: Set CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2025.04.27-10.15.20:391][868]LogConfig: Set CVar [[r.DistanceFieldShadowing:1]]
+[2025.04.27-10.15.20:391][868]LogConfig: Set CVar [[r.VolumetricFog:1]]
+[2025.04.27-10.15.20:391][868]LogConfig: Set CVar [[r.LightMaxDrawDistanceScale:1]]
+[2025.04.27-10.15.20:391][868]LogConfig: Set CVar [[r.Shadow.Virtual.MaxPhysicalPages:8192]]
+[2025.04.27-10.15.20:391][868]LogConfig: Set CVar [[r.Shadow.Virtual.ResolutionLodBiasDirectional:-1.5]]
+[2025.04.27-10.15.20:391][868]LogConfig: Set CVar [[r.Shadow.Virtual.ResolutionLodBiasDirectionalMoving:-1.5]]
+[2025.04.27-10.15.20:391][868]LogConfig: Set CVar [[r.Shadow.Virtual.ResolutionLodBiasLocal:0.0]]
+[2025.04.27-10.15.20:391][868]LogConfig: Set CVar [[r.Shadow.Virtual.ResolutionLodBiasLocalMoving:0.0]]
+[2025.04.27-10.15.20:391][868]LogConfig: Set CVar [[r.Shadow.Virtual.SMRT.RayCountDirectional:16]]
+[2025.04.27-10.15.20:392][868]LogConfig: Set CVar [[r.Shadow.Virtual.SMRT.SamplesPerRayDirectional:8]]
+[2025.04.27-10.15.20:392][868]LogConfig: Set CVar [[r.Shadow.Virtual.SMRT.RayCountLocal:16]]
+[2025.04.27-10.15.20:392][868]LogConfig: Set CVar [[r.Shadow.Virtual.SMRT.SamplesPerRayLocal:8]]
+[2025.04.27-10.15.20:392][868]LogConfig: Applying CVar settings from Section [GlobalIlluminationQuality@Cine] File [Scalability]
+[2025.04.27-10.15.20:392][868]LogConfig: Set CVar [[r.AOQuality:2]]
+[2025.04.27-10.15.20:392][868]LogConfig: Set CVar [[r.Lumen.DiffuseIndirect.Allow:1]]
+[2025.04.27-10.15.20:392][868]LogConfig: Set CVar [[r.SkyLight.RealTimeReflectionCapture:1]]
+[2025.04.27-10.15.20:392][868]LogConfig: Set CVar [[r.RayTracing.Scene.BuildMode:1]]
+[2025.04.27-10.15.20:392][868]LogConfig: Applying CVar settings from Section [ReflectionQuality@Cine] File [Scalability]
+[2025.04.27-10.15.20:392][868]LogConfig: Set CVar [[r.SSR.Quality:4]]
+[2025.04.27-10.15.20:392][868]LogConfig: Set CVar [[r.SSR.HalfResSceneColor:0]]
+[2025.04.27-10.15.20:392][868]LogConfig: Set CVar [[r.Lumen.Reflections.Allow:1]]
+[2025.04.27-10.15.20:392][868]LogConfig: Applying CVar settings from Section [PostProcessQuality@Cine] File [Scalability]
+[2025.04.27-10.15.20:392][868]LogConfig: Set CVar [[r.MotionBlurQuality:4]]
+[2025.04.27-10.15.20:392][868]LogConfig: Set CVar [[r.MotionBlur.HalfResGather:0]]
+[2025.04.27-10.15.20:392][868]LogConfig: Set CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2025.04.27-10.15.20:392][868]LogConfig: Set CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2025.04.27-10.15.20:392][868]LogConfig: Set CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2025.04.27-10.15.20:392][868]LogConfig: Set CVar [[r.DepthOfFieldQuality:4]]
+[2025.04.27-10.15.20:392][868]LogConfig: Set CVar [[r.RenderTargetPoolMin:1000]]
+[2025.04.27-10.15.20:392][868]LogConfig: Set CVar [[r.LensFlareQuality:3]]
+[2025.04.27-10.15.20:392][868]LogConfig: Set CVar [[r.SceneColorFringeQuality:1]]
+[2025.04.27-10.15.20:392][868]LogConfig: Set CVar [[r.BloomQuality:5]]
+[2025.04.27-10.15.20:392][868]LogConfig: Set CVar [[r.Bloom.ScreenPercentage:100]]
+[2025.04.27-10.15.20:392][868]LogConfig: Set CVar [[r.FastBlurThreshold:100]]
+[2025.04.27-10.15.20:392][868]LogConfig: Set CVar [[r.Upscale.Quality:3]]
+[2025.04.27-10.15.20:392][868]LogConfig: Set CVar [[r.LightShaftQuality:1]]
+[2025.04.27-10.15.20:392][868]LogConfig: Set CVar [[r.Filter.SizeScale:1]]
+[2025.04.27-10.15.20:392][868]LogConfig: Set CVar [[r.Tonemapper.Quality:5]]
+[2025.04.27-10.15.20:392][868]LogConfig: Set CVar [[r.DOF.Gather.ResolutionDivisor:1         ; do the gathering at full resolution]]
+[2025.04.27-10.15.20:392][868]LogConfig: Set CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2025.04.27-10.15.20:392][868]LogConfig: Set CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2025.04.27-10.15.20:392][868]LogConfig: Set CVar [[r.DOF.Gather.EnableBokehSettings:1       ; bokeh simulation when gathering]]
+[2025.04.27-10.15.20:392][868]LogConfig: Set CVar [[r.DOF.Gather.RingCount:5                 ; high number of samples when gathering]]
+[2025.04.27-10.15.20:392][868]LogConfig: Set CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2025.04.27-10.15.20:392][868]LogConfig: Set CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; background scattering occlusion]]
+[2025.04.27-10.15.20:392][868]LogConfig: Set CVar [[r.DOF.Recombine.Quality:2                ; highest slight out of focus]]
+[2025.04.27-10.15.20:392][868]LogConfig: Set CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2025.04.27-10.15.20:392][868]LogConfig: Set CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2025.04.27-10.15.20:392][868]LogConfig: Set CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2025.04.27-10.15.20:392][868]LogConfig: Applying CVar settings from Section [TextureQuality@Cine] File [Scalability]
+[2025.04.27-10.15.20:392][868]LogConfig: Set CVar [[r.Streaming.MipBias:0]]
+[2025.04.27-10.15.20:392][868]LogConfig: Set CVar [[r.MaxAnisotropy:8]]
+[2025.04.27-10.15.20:392][868]LogConfig: Set CVar [[r.VT.MaxAnisotropy:8]]
+[2025.04.27-10.15.20:392][868]LogConfig: Set CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2025.04.27-10.15.20:392][868]LogConsoleManager: Warning: Setting the console variable 'r.Streaming.PoolSize' with 'SetByScalability' was ignored as it is lower priority than the previous 'SetByConsole'. Value remains '-1'
+[2025.04.27-10.15.20:392][868]LogConfig: Applying CVar settings from Section [EffectsQuality@Cine] File [Scalability]
+[2025.04.27-10.15.20:392][868]LogConfig: Set CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2025.04.27-10.15.20:392][868]LogConfig: Set CVar [[r.RefractionQuality:2]]
+[2025.04.27-10.15.20:392][868]LogConfig: Set CVar [[r.SceneColorFormat:4]]
+[2025.04.27-10.15.20:392][868]LogConfig: Set CVar [[r.DetailMode:3]]
+[2025.04.27-10.15.20:392][868]LogConfig: Set CVar [[r.TranslucencyVolumeBlur:1]]
+[2025.04.27-10.15.20:392][868]LogConfig: Set CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2025.04.27-10.15.20:392][868]LogConfig: Set CVar [[r.SSS.Scale:1]]
+[2025.04.27-10.15.20:392][868]LogConfig: Set CVar [[r.SSS.SampleSet:2]]
+[2025.04.27-10.15.20:392][868]LogConfig: Set CVar [[r.SSS.Quality:1]]
+[2025.04.27-10.15.20:392][868]LogConfig: Set CVar [[r.SSS.HalfRes:0]]
+[2025.04.27-10.15.20:392][868]LogConfig: Set CVar [[r.SSGI.Quality:4]]
+[2025.04.27-10.15.20:392][868]LogConfig: Set CVar [[r.EmitterSpawnRateScale:1.0]]
+[2025.04.27-10.15.20:392][868]LogConfig: Set CVar [[r.ParticleLightQuality:2]]
+[2025.04.27-10.15.20:392][868]LogConfig: Set CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:0]]
+[2025.04.27-10.15.20:392][868]LogConfig: Set CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:8]]
+[2025.04.27-10.15.20:392][868]LogConfig: Set CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:32.0]]
+[2025.04.27-10.15.20:392][868]LogConfig: Set CVar [[r.SkyAtmosphere.FastSkyLUT:0]]
+[2025.04.27-10.15.20:392][868]LogConfig: Set CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:256.0]]
+[2025.04.27-10.15.20:392][868]LogConfig: Set CVar [[r.SkyAtmosphere.SampleCountMin:8.0]]
+[2025.04.27-10.15.20:392][868]LogConfig: Set CVar [[r.SkyAtmosphere.SampleCountMax:256.0]]
+[2025.04.27-10.15.20:392][868]LogConfig: Set CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:30.0]]
+[2025.04.27-10.15.20:392][868]LogConfig: Set CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:20.0]]
+[2025.04.27-10.15.20:392][868]LogConfig: Set CVar [[fx.Niagara.QualityLevel:4]]
+[2025.04.27-10.15.20:392][868]LogConfig: Set CVar [[r.HeterogeneousVolumes.DownsampleFactor:1]]
+[2025.04.27-10.15.20:392][868]LogConfig: Set CVar [[r.HeterogeneousVolumes.MaxStepCount:1024]]
+[2025.04.27-10.15.20:392][868]LogConfig: Set CVar [[r.HeterogeneousVolumes.Shadows.Resolution:1024]]
+[2025.04.27-10.15.20:392][868]LogConfig: Applying CVar settings from Section [FoliageQuality@Cine] File [Scalability]
+[2025.04.27-10.15.20:392][868]LogConfig: Set CVar [[foliage.DensityScale:1.0]]
+[2025.04.27-10.15.20:392][868]LogConfig: Set CVar [[grass.DensityScale:1.0]]
+[2025.04.27-10.15.20:392][868]LogConfig: Applying CVar settings from Section [ShadingQuality@Cine] File [Scalability]
+[2025.04.27-10.15.20:392][868]LogConfig: Set CVar [[r.HairStrands.SkyLighting.IntegrationType:1]]
+[2025.04.27-10.15.20:392][868]LogConfig: Set CVar [[r.HairStrands.SkyAO.SampleCount:8]]
+[2025.04.27-10.15.20:392][868]LogConfig: Set CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:8]]
+[2025.04.27-10.15.20:392][868]LogConfig: Set CVar [[r.AnisotropicMaterials:1]]
+[2025.04.27-10.15.20:392][868]LogConfig: Applying CVar settings from Section [LandscapeQuality@Cine] File [Scalability]
+[2025.04.27-10.15.20:406][868]LogLoad: Game class is 'GameModeBase'
+[2025.04.27-10.15.20:407][868]LogSkeletalMesh: USkeletalMeshComponent: Recreating Clothing Actors for 'SkeletalMeshComponent0' with 'SM_Countess'
+[2025.04.27-10.15.20:409][868]LogSkeletalMesh: USkeletalMeshComponent: Recreating Clothing Actors for 'SkeletalMeshComponent0' with 'SM_Countess'
+[2025.04.27-10.15.20:410][868]LogWorld: Bringing World /Game/Cin_Anim/Levels/UEDPIE_0_Cinematic_Map.Cinematic_Map up for play (max tick rate 0) at 2025.04.27-20.15.20
+[2025.04.27-10.15.20:411][868]LogWorld: Bringing up level for play took: 0.004556
+[2025.04.27-10.15.20:414][868]LogOnline: OSS: Created online subsystem instance for: :Context_20
+[2025.04.27-10.15.20:414][868]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2025.04.27-10.15.20:419][868]PIE: Server logged in
+[2025.04.27-10.15.20:423][868]PIE: Play in editor total start time 0.112 seconds.
+[2025.04.27-10.15.26:448][870]LogRenderer: Display: Recreating Shadow.Virtual.PhysicalPagePool due to size or flags change. This will also drop any cached pages.
+[2025.04.27-10.15.34:200][872]LogMovieSceneCapture: [99872] Waiting for 2 shaders to finish compiling...
+[2025.04.27-10.15.39:420][872]LogMovieSceneCapture: [99872] Done waiting for shaders to finish.
+[2025.04.27-10.15.39:443][873]LogMovieSceneCapture: [99873] Waiting for 2 shaders to finish compiling...
+[2025.04.27-10.15.42:154][873]LogMovieSceneCapture: [99873] Done waiting for shaders to finish.
+[2025.04.27-10.15.45:587][875]LogMovieSceneCapture: [99875] Waiting for 2 shaders to finish compiling...
+[2025.04.27-10.15.50:240][875]LogMovieSceneCapture: [99875] Done waiting for shaders to finish.
+[2025.04.27-10.15.50:259][876]LogMovieSceneCapture: [99876] Waiting for 4 shaders to finish compiling...
+[2025.04.27-10.15.52:853][876]LogMovieSceneCapture: [99876] Done waiting for shaders to finish.
+[2025.04.27-10.15.52:872][877]LogMovieSceneCapture: [99877] Waiting for 4 shaders to finish compiling...
+[2025.04.27-10.15.57:955][877]LogMovieSceneCapture: [99877] Done waiting for shaders to finish.
+[2025.04.27-10.15.57:977][878]LogMovieScene: Starting new camera cut: 'Over Shoulder Celeste_1'
+[2025.04.27-10.15.57:979][878]LogMovieSceneCapture: [99878] Waiting for 2 shaders to finish compiling...
+[2025.04.27-10.16.00:851][878]LogMovieSceneCapture: [99878] Done waiting for shaders to finish.
+[2025.04.27-10.16.00:853][878]LogRenderer: Display: Invalidated clipmap due to WPO threshold change. This can occur due to resolution or FOV changes.
+[2025.04.27-10.16.02:490][881]LogMovieSceneCapture: [99881] Waiting for 2 shaders to finish compiling...
+[2025.04.27-10.16.02:569][881]LogMovieSceneCapture: [99881] Done waiting for shaders to finish.
+[2025.04.27-10.16.02:937][882]LogMovieSceneCapture: [99882] Waiting for 2 shaders to finish compiling...
+[2025.04.27-10.16.03:016][882]LogMovieSceneCapture: [99882] Done waiting for shaders to finish.
+[2025.04.27-10.16.05:971][889]LogMovieSceneCapture: [99889] Waiting for 2 shaders to finish compiling...
+[2025.04.27-10.16.06:033][889]LogMovieSceneCapture: [99889] Done waiting for shaders to finish.
+[2025.04.27-10.16.27:572][ 29]LogMovieScene: Starting new camera cut: 'Over Shoulder Octavia_0'
+[2025.04.27-10.16.46:050][179]LogMovieScene: Starting new camera cut: 'Over Shoulder Celeste_1'
+[2025.04.27-10.17.05:281][320]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@1] File [Scalability]
+[2025.04.27-10.17.05:281][320]LogConfig: Set CVar [[r.SkeletalMeshLODBias:1]]
+[2025.04.27-10.17.05:281][320]LogConfig: Set CVar [[r.ViewDistanceScale:0.6]]
+[2025.04.27-10.17.05:281][320]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@1] File [Scalability]
+[2025.04.27-10.17.05:281][320]LogConfig: Set CVar [[r.FXAA.Quality:1]]
+[2025.04.27-10.17.05:281][320]LogConfig: Set CVar [[r.TemporalAA.Quality:1]]
+[2025.04.27-10.17.05:281][320]LogConfig: Set CVar [[r.TSR.History.R11G11B10:1]]
+[2025.04.27-10.17.05:281][320]LogConfig: Set CVar [[r.TSR.History.ScreenPercentage:100]]
+[2025.04.27-10.17.05:281][320]LogConfig: Set CVar [[r.TSR.History.UpdateQuality:1]]
+[2025.04.27-10.17.05:281][320]LogConfig: Set CVar [[r.TSR.ShadingRejection.Flickering:0]]
+[2025.04.27-10.17.05:281][320]LogConfig: Set CVar [[r.TSR.RejectionAntiAliasingQuality:1]]
+[2025.04.27-10.17.05:281][320]LogConfig: Set CVar [[r.TSR.ReprojectionField:0]]
+[2025.04.27-10.17.05:281][320]LogConfig: Applying CVar settings from Section [ShadowQuality@1] File [Scalability]
+[2025.04.27-10.17.05:281][320]LogConfig: Set CVar [[r.ShadowQuality:3]]
+[2025.04.27-10.17.05:281][320]LogConfig: Set CVar [[r.Shadow.CSM.MaxCascades:1]]
+[2025.04.27-10.17.05:281][320]LogConfig: Set CVar [[r.Shadow.MaxResolution:1024]]
+[2025.04.27-10.17.05:281][320]LogConfig: Set CVar [[r.Shadow.MaxCSMResolution:1024]]
+[2025.04.27-10.17.05:281][320]LogConfig: Set CVar [[r.Shadow.RadiusThreshold:0.05]]
+[2025.04.27-10.17.05:281][320]LogConfig: Set CVar [[r.Shadow.DistanceScale:0.7]]
+[2025.04.27-10.17.05:281][320]LogConfig: Set CVar [[r.Shadow.CSM.TransitionScale:0.25]]
+[2025.04.27-10.17.05:281][320]LogConfig: Set CVar [[r.Shadow.PreShadowResolutionFactor:0.5]]
+[2025.04.27-10.17.05:281][320]LogConfig: Set CVar [[r.DistanceFieldShadowing:0]]
+[2025.04.27-10.17.05:281][320]LogConfig: Set CVar [[r.VolumetricFog:0]]
+[2025.04.27-10.17.05:281][320]LogConfig: Set CVar [[r.LightMaxDrawDistanceScale:0.5]]
+[2025.04.27-10.17.05:281][320]LogConfig: Set CVar [[r.Shadow.Virtual.MaxPhysicalPages:512]]
+[2025.04.27-10.17.05:281][320]LogConfig: Set CVar [[r.Shadow.Virtual.ResolutionLodBiasDirectional:0.0]]
+[2025.04.27-10.17.05:281][320]LogConfig: Set CVar [[r.Shadow.Virtual.ResolutionLodBiasDirectionalMoving:0.0]]
+[2025.04.27-10.17.05:281][320]LogConfig: Set CVar [[r.Shadow.Virtual.ResolutionLodBiasLocal:1.0]]
+[2025.04.27-10.17.05:281][320]LogConfig: Set CVar [[r.Shadow.Virtual.ResolutionLodBiasLocalMoving:2.0]]
+[2025.04.27-10.17.05:282][320]LogConfig: Set CVar [[r.Shadow.Virtual.SMRT.RayCountDirectional:4]]
+[2025.04.27-10.17.05:282][320]LogConfig: Set CVar [[r.Shadow.Virtual.SMRT.SamplesPerRayDirectional:2]]
+[2025.04.27-10.17.05:282][320]LogConfig: Set CVar [[r.Shadow.Virtual.SMRT.RayCountLocal:4]]
+[2025.04.27-10.17.05:282][320]LogConfig: Set CVar [[r.Shadow.Virtual.SMRT.SamplesPerRayLocal:2]]
+[2025.04.27-10.17.05:282][320]LogConfig: Applying CVar settings from Section [GlobalIlluminationQuality@1] File [Scalability]
+[2025.04.27-10.17.05:282][320]LogConfig: Set CVar [[r.AOQuality:1]]
+[2025.04.27-10.17.05:282][320]LogConfig: Set CVar [[r.Lumen.DiffuseIndirect.Allow:0]]
+[2025.04.27-10.17.05:282][320]LogConfig: Set CVar [[r.SkyLight.RealTimeReflectionCapture:0]]
+[2025.04.27-10.17.05:282][320]LogConfig: Set CVar [[r.RayTracing.Scene.BuildMode:0]]
+[2025.04.27-10.17.05:282][320]LogConfig: Applying CVar settings from Section [ReflectionQuality@1] File [Scalability]
+[2025.04.27-10.17.05:282][320]LogConfig: Set CVar [[r.SSR.Quality:2]]
+[2025.04.27-10.17.05:282][320]LogConfig: Set CVar [[r.SSR.HalfResSceneColor:1]]
+[2025.04.27-10.17.05:282][320]LogConfig: Set CVar [[r.Lumen.Reflections.Allow:0]]
+[2025.04.27-10.17.05:282][320]LogConfig: Applying CVar settings from Section [PostProcessQuality@1] File [Scalability]
+[2025.04.27-10.17.05:282][320]LogConfig: Set CVar [[r.MotionBlurQuality:3]]
+[2025.04.27-10.17.05:282][320]LogConfig: Set CVar [[r.MotionBlur.HalfResGather:1]]
+[2025.04.27-10.17.05:282][320]LogConfig: Set CVar [[r.AmbientOcclusionMipLevelFactor:1.0]]
+[2025.04.27-10.17.05:282][320]LogConfig: Set CVar [[r.AmbientOcclusionMaxQuality:60]]
+[2025.04.27-10.17.05:282][320]LogConfig: Set CVar [[r.AmbientOcclusionRadiusScale:1.5]]
+[2025.04.27-10.17.05:282][320]LogConfig: Set CVar [[r.DepthOfFieldQuality:1]]
+[2025.04.27-10.17.05:282][320]LogConfig: Set CVar [[r.RenderTargetPoolMin:350]]
+[2025.04.27-10.17.05:282][320]LogConfig: Set CVar [[r.LensFlareQuality:0]]
+[2025.04.27-10.17.05:282][320]LogConfig: Set CVar [[r.SceneColorFringeQuality:0]]
+[2025.04.27-10.17.05:282][320]LogConfig: Set CVar [[r.BloomQuality:4]]
+[2025.04.27-10.17.05:282][320]LogConfig: Set CVar [[r.Bloom.ScreenPercentage:35.355]]
+[2025.04.27-10.17.05:282][320]LogConfig: Set CVar [[r.FastBlurThreshold:2]]
+[2025.04.27-10.17.05:282][320]LogConfig: Set CVar [[r.Upscale.Quality:2]]
+[2025.04.27-10.17.05:282][320]LogConfig: Set CVar [[r.LightShaftQuality:0]]
+[2025.04.27-10.17.05:282][320]LogConfig: Set CVar [[r.Filter.SizeScale:0.7]]
+[2025.04.27-10.17.05:282][320]LogConfig: Set CVar [[r.Tonemapper.Quality:2]]
+[2025.04.27-10.17.05:282][320]LogConfig: Set CVar [[r.DOF.Gather.ResolutionDivisor:2         ; lower gathering resolution]]
+[2025.04.27-10.17.05:282][320]LogConfig: Set CVar [[r.DOF.Gather.AccumulatorQuality:0        ; lower gathering accumulator quality]]
+[2025.04.27-10.17.05:282][320]LogConfig: Set CVar [[r.DOF.Gather.PostfilterMethod:2          ; Max3x3 postfilering method]]
+[2025.04.27-10.17.05:282][320]LogConfig: Set CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2025.04.27-10.17.05:282][320]LogConfig: Set CVar [[r.DOF.Gather.RingCount:3                 ; low number of samples when gathering]]
+[2025.04.27-10.17.05:282][320]LogConfig: Set CVar [[r.DOF.Scatter.ForegroundCompositing:0    ; no foreground scattering]]
+[2025.04.27-10.17.05:282][320]LogConfig: Set CVar [[r.DOF.Scatter.BackgroundCompositing:0    ; no foreground scattering]]
+[2025.04.27-10.17.05:282][320]LogConfig: Set CVar [[r.DOF.Recombine.Quality:0                ; no slight out of focus]]
+[2025.04.27-10.17.05:282][320]LogConfig: Set CVar [[r.DOF.TemporalAAQuality:0                ; faster temporal accumulation]]
+[2025.04.27-10.17.05:282][320]LogConfig: Set CVar [[r.DOF.Kernel.MaxForegroundRadius:0.006   ; required because low gathering and no scattering and not looking great at 1080p]]
+[2025.04.27-10.17.05:282][320]LogConfig: Set CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.006   ; required because low gathering and no scattering and not looking great at 1080p]]
+[2025.04.27-10.17.05:282][320]LogConfig: Applying CVar settings from Section [TextureQuality@1] File [Scalability]
+[2025.04.27-10.17.05:282][320]LogConfig: Set CVar [[r.Streaming.MipBias:1]]
+[2025.04.27-10.17.05:282][320]LogConfig: Set CVar [[r.MaxAnisotropy:2]]
+[2025.04.27-10.17.05:282][320]LogConfig: Set CVar [[r.VT.MaxAnisotropy:4]]
+[2025.04.27-10.17.05:282][320]LogConfig: Set CVar [[r.Streaming.LimitPoolSizeToVRAM:1]]
+[2025.04.27-10.17.05:282][320]LogConsoleManager: Warning: Setting the console variable 'r.Streaming.PoolSize' with 'SetByScalability' was ignored as it is lower priority than the previous 'SetByConsole'. Value remains '-1'
+[2025.04.27-10.17.05:282][320]LogConfig: Applying CVar settings from Section [EffectsQuality@1] File [Scalability]
+[2025.04.27-10.17.05:282][320]LogConfig: Set CVar [[r.TranslucencyLightingVolumeDim:32]]
+[2025.04.27-10.17.05:282][320]LogConfig: Set CVar [[r.RefractionQuality:0]]
+[2025.04.27-10.17.05:282][320]LogConfig: Set CVar [[r.SceneColorFormat:3]]
+[2025.04.27-10.17.05:282][320]LogConfig: Set CVar [[r.DetailMode:1]]
+[2025.04.27-10.17.05:282][320]LogConfig: Set CVar [[r.TranslucencyVolumeBlur:0]]
+[2025.04.27-10.17.05:282][320]LogConfig: Set CVar [[r.MaterialQualityLevel:2 ; Medium quality]]
+[2025.04.27-10.17.05:282][320]LogConfig: Set CVar [[r.SSS.Scale:0.75]]
+[2025.04.27-10.17.05:282][320]LogConfig: Set CVar [[r.SSS.SampleSet:0]]
+[2025.04.27-10.17.05:282][320]LogConfig: Set CVar [[r.SSS.Quality:0]]
+[2025.04.27-10.17.05:282][320]LogConfig: Set CVar [[r.SSS.HalfRes:1]]
+[2025.04.27-10.17.05:282][320]LogConfig: Set CVar [[r.SSGI.Quality:1]]
+[2025.04.27-10.17.05:282][320]LogConfig: Set CVar [[r.EmitterSpawnRateScale:0.25]]
+[2025.04.27-10.17.05:282][320]LogConfig: Set CVar [[r.ParticleLightQuality:0]]
+[2025.04.27-10.17.05:282][320]LogConfig: Set CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2025.04.27-10.17.05:282][320]LogConfig: Set CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:1]]
+[2025.04.27-10.17.05:282][320]LogConfig: Set CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2025.04.27-10.17.05:282][320]LogConfig: Set CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2025.04.27-10.17.05:282][320]LogConfig: Set CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2025.04.27-10.17.05:282][320]LogConfig: Set CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2025.04.27-10.17.05:282][320]LogConfig: Set CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2025.04.27-10.17.05:282][320]LogConfig: Set CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2025.04.27-10.17.05:282][320]LogConfig: Set CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2025.04.27-10.17.05:282][320]LogConfig: Set CVar [[fx.Niagara.QualityLevel:1]]
+[2025.04.27-10.17.05:282][320]LogConfig: Set CVar [[r.HeterogeneousVolumes.DownsampleFactor:4]]
+[2025.04.27-10.17.05:282][320]LogConfig: Set CVar [[r.HeterogeneousVolumes.MaxStepCount:256]]
+[2025.04.27-10.17.05:282][320]LogConfig: Set CVar [[r.HeterogeneousVolumes.Shadows.Resolution:128]]
+[2025.04.27-10.17.05:282][320]LogConfig: Applying CVar settings from Section [FoliageQuality@1] File [Scalability]
+[2025.04.27-10.17.05:282][320]LogConfig: Set CVar [[foliage.DensityScale:0.4]]
+[2025.04.27-10.17.05:282][320]LogConfig: Set CVar [[grass.DensityScale:0.4]]
+[2025.04.27-10.17.05:282][320]LogConfig: Applying CVar settings from Section [ShadingQuality@1] File [Scalability]
+[2025.04.27-10.17.05:282][320]LogConfig: Set CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2025.04.27-10.17.05:282][320]LogConfig: Set CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2025.04.27-10.17.05:282][320]LogConfig: Set CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:1]]
+[2025.04.27-10.17.05:282][320]LogConfig: Set CVar [[r.AnisotropicMaterials:0]]
+[2025.04.27-10.17.05:282][320]LogConfig: Applying CVar settings from Section [LandscapeQuality@1] File [Scalability]
+[2025.04.27-10.17.05:314][320]LogRenderer: Display: Recreating Shadow.Virtual.PhysicalPagePool due to size or flags change. This will also drop any cached pages.
+[2025.04.27-10.17.05:470][320]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.04.27-10.17.05:471][320]LogWorld: BeginTearingDown for /Game/Cin_Anim/Levels/UEDPIE_0_Cinematic_Map
+[2025.04.27-10.17.05:471][320]LogSlate: Window 'Movie Render - Preview' being destroyed
+[2025.04.27-10.17.05:547][320]LogWorld: UWorld::CleanupWorld for Cinematic_Map, bSessionEnded=true, bCleanupResources=true
+[2025.04.27-10.17.05:547][320]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.27-10.17.05:551][320]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.04.27-10.17.05:562][320]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.27-10.17.05:574][320]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.04.27-10.17.05:574][320]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 4
+[2025.04.27-10.17.05:574][320]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2025.04.27-10.17.05:577][320]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2025.04.27-10.17.05:577][320]LogAudioMixer: Display: StopRunningNullDevice() called, InstanceID=4
+[2025.04.27-10.17.05:582][320]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2025.04.27-10.17.05:661][320]LogTemp: Movie Capture finished. Success: 1
+[2025.04.27-10.17.05:806][321]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2025.04.27-10.17.05:862][322]LogRenderer: Display: Recreating Shadow.Virtual.PhysicalPagePool due to size or flags change. This will also drop any cached pages.
+[2025.04.27-10.17.05:871][323]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2025.04.27-10.18.36:169][180]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2056.956299
+[2025.04.27-10.18.37:169][183]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.04.27-10.18.37:169][183]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2057.624023, Update Interval: 338.409363
