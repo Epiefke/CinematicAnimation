@@ -3677,3 +3677,674 @@ Script Stack (0 frames) :
 [2025.04.27-08.13.49:586][100]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
 [2025.04.27-08.13.49:671][101]LogRenderer: Display: Recreating Shadow.Virtual.PhysicalPagePool due to size or flags change. This will also drop any cached pages.
 [2025.04.27-08.13.49:681][102]LogPlayLevel: Display: Destroying online subsystem :Context_46
+[2025.04.27-08.15.07:727][604]LogSlate: Window 'Render Movie Settings' being destroyed
+[2025.04.27-08.15.15:470][972]LogStreaming: Display: FlushAsyncLoading(438): 1 QueuedPackages, 0 AsyncPackages
+[2025.04.27-08.15.15:471][972]LogAssetEditorSubsystem: Opening Asset editor for LevelSequence /Game/Cin_Anim/Shots/Shot_015.Shot_015
+[2025.04.27-08.15.20:017][359]LogAssetEditorSubsystem: Opening Asset editor for LevelSequence /Game/Cin_Anim/Niamh/Shot_15.Shot_15
+[2025.04.27-08.16.56:352][344]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5098.995117
+[2025.04.27-08.16.57:379][347]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.04.27-08.16.57:380][347]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5099.679688, Update Interval: 315.970947
+[2025.04.27-08.20.56:892][519]LogStreaming: Display: FlushAsyncLoading(439): 1 QueuedPackages, 0 AsyncPackages
+[2025.04.27-08.20.56:896][519]LogAssetEditorSubsystem: Opening Asset editor for LevelSequence /Game/Cin_Anim/Shots/Shot_016.Shot_016
+[2025.04.27-08.21.20:105][466]LogActorFactory: Actor Factory attempting to spawn AnimSequence /Game/Cin_Anim/Anims/Celeste/Celeste_16-19.Celeste_16-19
+[2025.04.27-08.21.20:105][466]LogActorFactory: Actor Factory attempting to spawn AnimSequence /Game/Cin_Anim/Anims/Celeste/Celeste_16-19.Celeste_16-19
+[2025.04.27-08.21.20:106][466]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/Cin_Anim/Anims/Celeste/TPose/Celeste_TPose.Celeste_TPose as actor: SkeletalMeshActor /Game/Cin_Anim/Levels/Cinematic_Map.Cinematic_Map:PersistentLevel.SkeletalMeshActor_38
+[2025.04.27-08.21.20:107][466]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/Cin_Anim/Anims/Celeste/TPose/Celeste_TPose.Celeste_TPose as actor: SkeletalMeshActor /Game/Cin_Anim/Levels/Cinematic_Map.Cinematic_Map:PersistentLevel.SkeletalMeshActor_38
+[2025.04.27-08.21.20:497][488]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2025.04.27-08.21.20:501][488]LogEditorActor: Deleted 0 Actors (0.096 secs)
+[2025.04.27-08.21.22:837][768]LogActorFactory: Actor Factory attempting to spawn AnimSequence /Game/Cin_Anim/Anims/Celeste/Celeste_16-19.Celeste_16-19
+[2025.04.27-08.21.22:838][768]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/Cin_Anim/Anims/Celeste/TPose/Celeste_TPose.Celeste_TPose as actor: SkeletalMeshActor /Game/Cin_Anim/Levels/Cinematic_Map.Cinematic_Map:PersistentLevel.Celeste_16-19_0
+[2025.04.27-08.22.46:683][805]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5449.301270
+[2025.04.27-08.22.46:965][826]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.04.27-08.22.46:965][826]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5449.574219, Update Interval: 345.420685
+[2025.04.27-08.26.51:850][829]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2025.04.27-08.26.53:742][829]LogSlate: Window 'Save Content' being destroyed
+[2025.04.27-08.26.53:748][829]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.04.27-08.26.53:818][829]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2025.04.27-08.26.53:827][829]LogSavePackage: Moving output files for package: /Game/Cin_Anim/Levels/Emma
+[2025.04.27-08.26.53:828][829]LogSavePackage: Moving '../../../../../../Users/emmap/Documents/GitHub/CinematicAnimation/CinematicAnimation 5.5/Saved/EmmaB1FA50B5471CD70EC41B24A4BA59CA71.tmp' to '../../../../../../Users/emmap/Documents/GitHub/CinematicAnimation/CinematicAnimation 5.5/Content/Cin_Anim/Levels/Emma.umap'
+[2025.04.27-08.26.53:837][829]LogFileHelpers: Saving map 'Emma' took 0.030
+[2025.04.27-08.26.53:837][829]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Cin_Anim/Shots/Shot_016] ([1] browsable assets)...
+[2025.04.27-08.26.53:837][829]OBJ SavePackage: Finished generating thumbnails for package [/Game/Cin_Anim/Shots/Shot_016]
+[2025.04.27-08.26.53:851][829]LogSavePackage: Moving output files for package: /Game/Cin_Anim/Shots/Shot_016
+[2025.04.27-08.26.53:852][829]LogSavePackage: Moving '../../../../../../Users/emmap/Documents/GitHub/CinematicAnimation/CinematicAnimation 5.5/Saved/Shot_016B06FCD3D414708ECA14FD0A6E000982A.tmp' to '../../../../../../Users/emmap/Documents/GitHub/CinematicAnimation/CinematicAnimation 5.5/Content/Cin_Anim/Shots/Shot_016.uasset'
+[2025.04.27-08.26.53:861][829]LogFileHelpers: InternalPromptForCheckoutAndSave took 113.694 ms (total: 1.19 sec)
+[2025.04.27-08.26.53:877][829]LogTemp: Starting movie scene capture...
+[2025.04.27-08.26.53:940][829]LogContentValidation: Display: Starting to validate 2 assets
+[2025.04.27-08.26.53:940][829]LogContentValidation: Enabled validators:
+[2025.04.27-08.26.53:940][829]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.04.27-08.26.53:940][829]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.04.27-08.26.53:940][829]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.04.27-08.26.53:940][829]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.04.27-08.26.53:940][829]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.04.27-08.26.53:940][829]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.04.27-08.26.53:941][829]AssetCheck: /Game/Cin_Anim/Levels/Emma Validating asset
+[2025.04.27-08.26.53:941][829]AssetCheck: /Game/Cin_Anim/Shots/Shot_016 Validating asset
+[2025.04.27-08.26.53:957][829]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.04.27-08.26.53:957][829]LogPlayLevel: Creating play world package: /Game/Cin_Anim/Levels/UEDPIE_0_Cinematic_Map
+[2025.04.27-08.26.53:961][829]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003633s)
+[2025.04.27-08.26.53:961][829]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Cin_Anim/Levels/Cinematic_Map.Cinematic_Map to /Game/Cin_Anim/Levels/UEDPIE_0_Cinematic_Map.Cinematic_Map (0.003667s)
+[2025.04.27-08.26.53:972][829]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2025.04.27-08.26.53:973][829]LogChaosDD: Creating Chaos Debug Draw Scene for world Cinematic_Map
+[2025.04.27-08.26.53:975][829]LogPlayLevel: PIE: World Init took: (0.001468s)
+[2025.04.27-08.26.53:975][829]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2025.04.27-08.26.53:975][829]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.04.27-08.26.53:976][829]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.04.27-08.26.53:976][829]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.04.27-08.26.53:976][829]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.04.27-08.26.53:976][829]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.04.27-08.26.53:976][829]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.04.27-08.26.53:976][829]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.04.27-08.26.53:976][829]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.04.27-08.26.53:976][829]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.04.27-08.26.53:976][829]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.04.27-08.26.53:976][829]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.04.27-08.26.53:979][829]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.04.27-08.26.53:997][829]LogAudioMixer: Display: Using Audio Hardware Device Unknown
+[2025.04.27-08.26.53:997][829]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.04.27-08.26.53:997][829]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.04.27-08.26.53:997][829]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.04.27-08.26.53:997][829]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=7
+[2025.04.27-08.26.53:997][829]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=7
+[2025.04.27-08.26.54:000][829]LogAudioMixer: Display: StartRunningNullDevice() called, InstanceID=7
+[2025.04.27-08.26.54:000][829]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=7
+[2025.04.27-08.26.54:000][829]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=7580
+[2025.04.27-08.26.54:000][829]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=7
+[2025.04.27-08.26.54:000][829]LogInit: FAudioDevice initialized with ID 7.
+[2025.04.27-08.26.54:001][829]LogAudio: Display: Audio Device (ID: 7) registered with world 'Cinematic_Map'.
+[2025.04.27-08.26.54:001][829]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 7
+[2025.04.27-08.26.54:001][829]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.04.27-08.26.54:023][829]LogSkeletalMesh: USkeletalMeshComponent: Recreating Clothing Actors for 'SkeletalMeshComponent0' with 'Aurora_SpringCeremony'
+[2025.04.27-08.26.54:025][829]LogSkeletalMesh: USkeletalMeshComponent: Recreating Clothing Actors for 'SkeletalMeshComponent0' with 'SM_Countess'
+[2025.04.27-08.26.54:026][829]LogSkeletalMesh: USkeletalMeshComponent: Recreating Clothing Actors for 'SkeletalMeshComponent0' with 'Aurora_SpringCeremony'
+[2025.04.27-08.26.54:033][829]LogSkeletalMesh: USkeletalMeshComponent: Recreating Clothing Actors for 'SkeletalMeshComponent0' with 'SM_Countess'
+[2025.04.27-08.26.54:039][829]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@Cine] File [Scalability]
+[2025.04.27-08.26.54:039][829]LogConfig: Set CVar [[r.SkeletalMeshLODBias:0]]
+[2025.04.27-08.26.54:039][829]LogConfig: Set CVar [[r.ViewDistanceScale:10.0]]
+[2025.04.27-08.26.54:039][829]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@Cine] File [Scalability]
+[2025.04.27-08.26.54:039][829]LogConfig: Set CVar [[r.FXAA.Quality:5]]
+[2025.04.27-08.26.54:039][829]LogConfig: Set CVar [[r.TemporalAA.Quality:2]]
+[2025.04.27-08.26.54:040][829]LogConfig: Set CVar [[r.TSR.History.R11G11B10:0]]
+[2025.04.27-08.26.54:040][829]LogConfig: Set CVar [[r.TSR.History.ScreenPercentage:200]]
+[2025.04.27-08.26.54:040][829]LogConfig: Set CVar [[r.TSR.History.UpdateQuality:3]]
+[2025.04.27-08.26.54:040][829]LogConfig: Set CVar [[r.TSR.ShadingRejection.Flickering:1]]
+[2025.04.27-08.26.54:040][829]LogConfig: Set CVar [[r.TSR.RejectionAntiAliasingQuality:2]]
+[2025.04.27-08.26.54:040][829]LogConfig: Set CVar [[r.TSR.ReprojectionField:1]]
+[2025.04.27-08.26.54:040][829]LogConfig: Applying CVar settings from Section [ShadowQuality@Cine] File [Scalability]
+[2025.04.27-08.26.54:040][829]LogConfig: Set CVar [[r.ShadowQuality:5]]
+[2025.04.27-08.26.54:040][829]LogConfig: Set CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2025.04.27-08.26.54:040][829]LogConfig: Set CVar [[r.Shadow.MaxResolution:4096]]
+[2025.04.27-08.26.54:040][829]LogConfig: Set CVar [[r.Shadow.MaxCSMResolution:4096]]
+[2025.04.27-08.26.54:040][829]LogConfig: Set CVar [[r.Shadow.RadiusThreshold:0]]
+[2025.04.27-08.26.54:040][829]LogConfig: Set CVar [[r.Shadow.DistanceScale:1.0]]
+[2025.04.27-08.26.54:040][829]LogConfig: Set CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2025.04.27-08.26.54:040][829]LogConfig: Set CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2025.04.27-08.26.54:040][829]LogConfig: Set CVar [[r.DistanceFieldShadowing:1]]
+[2025.04.27-08.26.54:040][829]LogConfig: Set CVar [[r.VolumetricFog:1]]
+[2025.04.27-08.26.54:040][829]LogConfig: Set CVar [[r.LightMaxDrawDistanceScale:1]]
+[2025.04.27-08.26.54:040][829]LogConfig: Set CVar [[r.Shadow.Virtual.MaxPhysicalPages:8192]]
+[2025.04.27-08.26.54:040][829]LogConfig: Set CVar [[r.Shadow.Virtual.ResolutionLodBiasDirectional:-1.5]]
+[2025.04.27-08.26.54:040][829]LogConfig: Set CVar [[r.Shadow.Virtual.ResolutionLodBiasDirectionalMoving:-1.5]]
+[2025.04.27-08.26.54:040][829]LogConfig: Set CVar [[r.Shadow.Virtual.ResolutionLodBiasLocal:0.0]]
+[2025.04.27-08.26.54:040][829]LogConfig: Set CVar [[r.Shadow.Virtual.ResolutionLodBiasLocalMoving:0.0]]
+[2025.04.27-08.26.54:040][829]LogConfig: Set CVar [[r.Shadow.Virtual.SMRT.RayCountDirectional:16]]
+[2025.04.27-08.26.54:040][829]LogConfig: Set CVar [[r.Shadow.Virtual.SMRT.SamplesPerRayDirectional:8]]
+[2025.04.27-08.26.54:040][829]LogConfig: Set CVar [[r.Shadow.Virtual.SMRT.RayCountLocal:16]]
+[2025.04.27-08.26.54:040][829]LogConfig: Set CVar [[r.Shadow.Virtual.SMRT.SamplesPerRayLocal:8]]
+[2025.04.27-08.26.54:040][829]LogConfig: Applying CVar settings from Section [GlobalIlluminationQuality@Cine] File [Scalability]
+[2025.04.27-08.26.54:040][829]LogConfig: Set CVar [[r.AOQuality:2]]
+[2025.04.27-08.26.54:040][829]LogConfig: Set CVar [[r.Lumen.DiffuseIndirect.Allow:1]]
+[2025.04.27-08.26.54:040][829]LogConfig: Set CVar [[r.SkyLight.RealTimeReflectionCapture:1]]
+[2025.04.27-08.26.54:040][829]LogConfig: Set CVar [[r.RayTracing.Scene.BuildMode:1]]
+[2025.04.27-08.26.54:040][829]LogConfig: Applying CVar settings from Section [ReflectionQuality@Cine] File [Scalability]
+[2025.04.27-08.26.54:040][829]LogConfig: Set CVar [[r.SSR.Quality:4]]
+[2025.04.27-08.26.54:040][829]LogConfig: Set CVar [[r.SSR.HalfResSceneColor:0]]
+[2025.04.27-08.26.54:040][829]LogConfig: Set CVar [[r.Lumen.Reflections.Allow:1]]
+[2025.04.27-08.26.54:040][829]LogConfig: Applying CVar settings from Section [PostProcessQuality@Cine] File [Scalability]
+[2025.04.27-08.26.54:040][829]LogConfig: Set CVar [[r.MotionBlurQuality:4]]
+[2025.04.27-08.26.54:040][829]LogConfig: Set CVar [[r.MotionBlur.HalfResGather:0]]
+[2025.04.27-08.26.54:040][829]LogConfig: Set CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2025.04.27-08.26.54:040][829]LogConfig: Set CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2025.04.27-08.26.54:040][829]LogConfig: Set CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2025.04.27-08.26.54:040][829]LogConfig: Set CVar [[r.DepthOfFieldQuality:4]]
+[2025.04.27-08.26.54:040][829]LogConfig: Set CVar [[r.RenderTargetPoolMin:1000]]
+[2025.04.27-08.26.54:040][829]LogConfig: Set CVar [[r.LensFlareQuality:3]]
+[2025.04.27-08.26.54:040][829]LogConfig: Set CVar [[r.SceneColorFringeQuality:1]]
+[2025.04.27-08.26.54:040][829]LogConfig: Set CVar [[r.BloomQuality:5]]
+[2025.04.27-08.26.54:040][829]LogConfig: Set CVar [[r.Bloom.ScreenPercentage:100]]
+[2025.04.27-08.26.54:040][829]LogConfig: Set CVar [[r.FastBlurThreshold:100]]
+[2025.04.27-08.26.54:040][829]LogConfig: Set CVar [[r.Upscale.Quality:3]]
+[2025.04.27-08.26.54:040][829]LogConfig: Set CVar [[r.LightShaftQuality:1]]
+[2025.04.27-08.26.54:040][829]LogConfig: Set CVar [[r.Filter.SizeScale:1]]
+[2025.04.27-08.26.54:040][829]LogConfig: Set CVar [[r.Tonemapper.Quality:5]]
+[2025.04.27-08.26.54:040][829]LogConfig: Set CVar [[r.DOF.Gather.ResolutionDivisor:1         ; do the gathering at full resolution]]
+[2025.04.27-08.26.54:040][829]LogConfig: Set CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2025.04.27-08.26.54:040][829]LogConfig: Set CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2025.04.27-08.26.54:040][829]LogConfig: Set CVar [[r.DOF.Gather.EnableBokehSettings:1       ; bokeh simulation when gathering]]
+[2025.04.27-08.26.54:040][829]LogConfig: Set CVar [[r.DOF.Gather.RingCount:5                 ; high number of samples when gathering]]
+[2025.04.27-08.26.54:040][829]LogConfig: Set CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2025.04.27-08.26.54:040][829]LogConfig: Set CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; background scattering occlusion]]
+[2025.04.27-08.26.54:040][829]LogConfig: Set CVar [[r.DOF.Recombine.Quality:2                ; highest slight out of focus]]
+[2025.04.27-08.26.54:040][829]LogConfig: Set CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2025.04.27-08.26.54:040][829]LogConfig: Set CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2025.04.27-08.26.54:040][829]LogConfig: Set CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2025.04.27-08.26.54:040][829]LogConfig: Applying CVar settings from Section [TextureQuality@Cine] File [Scalability]
+[2025.04.27-08.26.54:040][829]LogConfig: Set CVar [[r.Streaming.MipBias:0]]
+[2025.04.27-08.26.54:040][829]LogConfig: Set CVar [[r.MaxAnisotropy:8]]
+[2025.04.27-08.26.54:040][829]LogConfig: Set CVar [[r.VT.MaxAnisotropy:8]]
+[2025.04.27-08.26.54:040][829]LogConfig: Set CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2025.04.27-08.26.54:040][829]LogConsoleManager: Warning: Setting the console variable 'r.Streaming.PoolSize' with 'SetByScalability' was ignored as it is lower priority than the previous 'SetByConsole'. Value remains '-1'
+[2025.04.27-08.26.54:040][829]LogConfig: Applying CVar settings from Section [EffectsQuality@Cine] File [Scalability]
+[2025.04.27-08.26.54:040][829]LogConfig: Set CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2025.04.27-08.26.54:040][829]LogConfig: Set CVar [[r.RefractionQuality:2]]
+[2025.04.27-08.26.54:040][829]LogConfig: Set CVar [[r.SceneColorFormat:4]]
+[2025.04.27-08.26.54:040][829]LogConfig: Set CVar [[r.DetailMode:3]]
+[2025.04.27-08.26.54:040][829]LogConfig: Set CVar [[r.TranslucencyVolumeBlur:1]]
+[2025.04.27-08.26.54:040][829]LogConfig: Set CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2025.04.27-08.26.54:040][829]LogConfig: Set CVar [[r.SSS.Scale:1]]
+[2025.04.27-08.26.54:040][829]LogConfig: Set CVar [[r.SSS.SampleSet:2]]
+[2025.04.27-08.26.54:040][829]LogConfig: Set CVar [[r.SSS.Quality:1]]
+[2025.04.27-08.26.54:040][829]LogConfig: Set CVar [[r.SSS.HalfRes:0]]
+[2025.04.27-08.26.54:040][829]LogConfig: Set CVar [[r.SSGI.Quality:4]]
+[2025.04.27-08.26.54:040][829]LogConfig: Set CVar [[r.EmitterSpawnRateScale:1.0]]
+[2025.04.27-08.26.54:040][829]LogConfig: Set CVar [[r.ParticleLightQuality:2]]
+[2025.04.27-08.26.54:040][829]LogConfig: Set CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:0]]
+[2025.04.27-08.26.54:040][829]LogConfig: Set CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:8]]
+[2025.04.27-08.26.54:040][829]LogConfig: Set CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:32.0]]
+[2025.04.27-08.26.54:040][829]LogConfig: Set CVar [[r.SkyAtmosphere.FastSkyLUT:0]]
+[2025.04.27-08.26.54:040][829]LogConfig: Set CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:256.0]]
+[2025.04.27-08.26.54:040][829]LogConfig: Set CVar [[r.SkyAtmosphere.SampleCountMin:8.0]]
+[2025.04.27-08.26.54:040][829]LogConfig: Set CVar [[r.SkyAtmosphere.SampleCountMax:256.0]]
+[2025.04.27-08.26.54:040][829]LogConfig: Set CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:30.0]]
+[2025.04.27-08.26.54:040][829]LogConfig: Set CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:20.0]]
+[2025.04.27-08.26.54:040][829]LogConfig: Set CVar [[fx.Niagara.QualityLevel:4]]
+[2025.04.27-08.26.54:040][829]LogConfig: Set CVar [[r.HeterogeneousVolumes.DownsampleFactor:1]]
+[2025.04.27-08.26.54:040][829]LogConfig: Set CVar [[r.HeterogeneousVolumes.MaxStepCount:1024]]
+[2025.04.27-08.26.54:040][829]LogConfig: Set CVar [[r.HeterogeneousVolumes.Shadows.Resolution:1024]]
+[2025.04.27-08.26.54:040][829]LogConfig: Applying CVar settings from Section [FoliageQuality@Cine] File [Scalability]
+[2025.04.27-08.26.54:040][829]LogConfig: Set CVar [[foliage.DensityScale:1.0]]
+[2025.04.27-08.26.54:040][829]LogConfig: Set CVar [[grass.DensityScale:1.0]]
+[2025.04.27-08.26.54:040][829]LogConfig: Applying CVar settings from Section [ShadingQuality@Cine] File [Scalability]
+[2025.04.27-08.26.54:040][829]LogConfig: Set CVar [[r.HairStrands.SkyLighting.IntegrationType:1]]
+[2025.04.27-08.26.54:040][829]LogConfig: Set CVar [[r.HairStrands.SkyAO.SampleCount:8]]
+[2025.04.27-08.26.54:040][829]LogConfig: Set CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:8]]
+[2025.04.27-08.26.54:040][829]LogConfig: Set CVar [[r.AnisotropicMaterials:1]]
+[2025.04.27-08.26.54:040][829]LogConfig: Applying CVar settings from Section [LandscapeQuality@Cine] File [Scalability]
+[2025.04.27-08.26.54:052][829]LogLoad: Game class is 'GameModeBase'
+[2025.04.27-08.26.54:053][829]LogSkeletalMesh: USkeletalMeshComponent: Recreating Clothing Actors for 'SkeletalMeshComponent0' with 'SM_Countess'
+[2025.04.27-08.26.54:055][829]LogSkeletalMesh: USkeletalMeshComponent: Recreating Clothing Actors for 'SkeletalMeshComponent0' with 'SM_Countess'
+[2025.04.27-08.26.54:057][829]LogWorld: Bringing World /Game/Cin_Anim/Levels/UEDPIE_0_Cinematic_Map.Cinematic_Map up for play (max tick rate 0) at 2025.04.27-18.26.54
+[2025.04.27-08.26.54:058][829]LogWorld: Bringing up level for play took: 0.004884
+[2025.04.27-08.26.54:060][829]LogOnline: OSS: Created online subsystem instance for: :Context_47
+[2025.04.27-08.26.54:060][829]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2025.04.27-08.26.54:065][829]PIE: Server logged in
+[2025.04.27-08.26.54:069][829]PIE: Play in editor total start time 0.113 seconds.
+[2025.04.27-08.26.55:355][831]LogRenderer: Display: Recreating Shadow.Virtual.PhysicalPagePool due to size or flags change. This will also drop any cached pages.
+[2025.04.27-08.29.09:741][883]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5832.333984
+[2025.04.27-08.29.17:000][886]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.04.27-08.29.17:000][886]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5837.162109, Update Interval: 330.086975
+[2025.04.27-08.31.59:621][951]LogMovieScene: Starting new camera cut: 'Celeste Closeup Camera_0'
+[2025.04.27-08.32.02:052][952]LogRenderer: Display: Invalidated clipmap due to WPO threshold change. This can occur due to resolution or FOV changes.
+[2025.04.27-08.32.21:203][103]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@1] File [Scalability]
+[2025.04.27-08.32.21:203][103]LogConfig: Set CVar [[r.SkeletalMeshLODBias:1]]
+[2025.04.27-08.32.21:203][103]LogConfig: Set CVar [[r.ViewDistanceScale:0.6]]
+[2025.04.27-08.32.21:203][103]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@1] File [Scalability]
+[2025.04.27-08.32.21:203][103]LogConfig: Set CVar [[r.FXAA.Quality:1]]
+[2025.04.27-08.32.21:203][103]LogConfig: Set CVar [[r.TemporalAA.Quality:1]]
+[2025.04.27-08.32.21:203][103]LogConfig: Set CVar [[r.TSR.History.R11G11B10:1]]
+[2025.04.27-08.32.21:203][103]LogConfig: Set CVar [[r.TSR.History.ScreenPercentage:100]]
+[2025.04.27-08.32.21:203][103]LogConfig: Set CVar [[r.TSR.History.UpdateQuality:1]]
+[2025.04.27-08.32.21:203][103]LogConfig: Set CVar [[r.TSR.ShadingRejection.Flickering:0]]
+[2025.04.27-08.32.21:203][103]LogConfig: Set CVar [[r.TSR.RejectionAntiAliasingQuality:1]]
+[2025.04.27-08.32.21:203][103]LogConfig: Set CVar [[r.TSR.ReprojectionField:0]]
+[2025.04.27-08.32.21:203][103]LogConfig: Applying CVar settings from Section [ShadowQuality@1] File [Scalability]
+[2025.04.27-08.32.21:203][103]LogConfig: Set CVar [[r.ShadowQuality:3]]
+[2025.04.27-08.32.21:203][103]LogConfig: Set CVar [[r.Shadow.CSM.MaxCascades:1]]
+[2025.04.27-08.32.21:203][103]LogConfig: Set CVar [[r.Shadow.MaxResolution:1024]]
+[2025.04.27-08.32.21:203][103]LogConfig: Set CVar [[r.Shadow.MaxCSMResolution:1024]]
+[2025.04.27-08.32.21:203][103]LogConfig: Set CVar [[r.Shadow.RadiusThreshold:0.05]]
+[2025.04.27-08.32.21:203][103]LogConfig: Set CVar [[r.Shadow.DistanceScale:0.7]]
+[2025.04.27-08.32.21:203][103]LogConfig: Set CVar [[r.Shadow.CSM.TransitionScale:0.25]]
+[2025.04.27-08.32.21:203][103]LogConfig: Set CVar [[r.Shadow.PreShadowResolutionFactor:0.5]]
+[2025.04.27-08.32.21:203][103]LogConfig: Set CVar [[r.DistanceFieldShadowing:0]]
+[2025.04.27-08.32.21:203][103]LogConfig: Set CVar [[r.VolumetricFog:0]]
+[2025.04.27-08.32.21:203][103]LogConfig: Set CVar [[r.LightMaxDrawDistanceScale:0.5]]
+[2025.04.27-08.32.21:203][103]LogConfig: Set CVar [[r.Shadow.Virtual.MaxPhysicalPages:512]]
+[2025.04.27-08.32.21:203][103]LogConfig: Set CVar [[r.Shadow.Virtual.ResolutionLodBiasDirectional:0.0]]
+[2025.04.27-08.32.21:203][103]LogConfig: Set CVar [[r.Shadow.Virtual.ResolutionLodBiasDirectionalMoving:0.0]]
+[2025.04.27-08.32.21:203][103]LogConfig: Set CVar [[r.Shadow.Virtual.ResolutionLodBiasLocal:1.0]]
+[2025.04.27-08.32.21:203][103]LogConfig: Set CVar [[r.Shadow.Virtual.ResolutionLodBiasLocalMoving:2.0]]
+[2025.04.27-08.32.21:203][103]LogConfig: Set CVar [[r.Shadow.Virtual.SMRT.RayCountDirectional:4]]
+[2025.04.27-08.32.21:203][103]LogConfig: Set CVar [[r.Shadow.Virtual.SMRT.SamplesPerRayDirectional:2]]
+[2025.04.27-08.32.21:203][103]LogConfig: Set CVar [[r.Shadow.Virtual.SMRT.RayCountLocal:4]]
+[2025.04.27-08.32.21:203][103]LogConfig: Set CVar [[r.Shadow.Virtual.SMRT.SamplesPerRayLocal:2]]
+[2025.04.27-08.32.21:203][103]LogConfig: Applying CVar settings from Section [GlobalIlluminationQuality@1] File [Scalability]
+[2025.04.27-08.32.21:203][103]LogConfig: Set CVar [[r.AOQuality:1]]
+[2025.04.27-08.32.21:203][103]LogConfig: Set CVar [[r.Lumen.DiffuseIndirect.Allow:0]]
+[2025.04.27-08.32.21:203][103]LogConfig: Set CVar [[r.SkyLight.RealTimeReflectionCapture:0]]
+[2025.04.27-08.32.21:203][103]LogConfig: Set CVar [[r.RayTracing.Scene.BuildMode:0]]
+[2025.04.27-08.32.21:203][103]LogConfig: Applying CVar settings from Section [ReflectionQuality@1] File [Scalability]
+[2025.04.27-08.32.21:203][103]LogConfig: Set CVar [[r.SSR.Quality:2]]
+[2025.04.27-08.32.21:203][103]LogConfig: Set CVar [[r.SSR.HalfResSceneColor:1]]
+[2025.04.27-08.32.21:203][103]LogConfig: Set CVar [[r.Lumen.Reflections.Allow:0]]
+[2025.04.27-08.32.21:203][103]LogConfig: Applying CVar settings from Section [PostProcessQuality@1] File [Scalability]
+[2025.04.27-08.32.21:203][103]LogConfig: Set CVar [[r.MotionBlurQuality:3]]
+[2025.04.27-08.32.21:203][103]LogConfig: Set CVar [[r.MotionBlur.HalfResGather:1]]
+[2025.04.27-08.32.21:203][103]LogConfig: Set CVar [[r.AmbientOcclusionMipLevelFactor:1.0]]
+[2025.04.27-08.32.21:203][103]LogConfig: Set CVar [[r.AmbientOcclusionMaxQuality:60]]
+[2025.04.27-08.32.21:203][103]LogConfig: Set CVar [[r.AmbientOcclusionRadiusScale:1.5]]
+[2025.04.27-08.32.21:203][103]LogConfig: Set CVar [[r.DepthOfFieldQuality:1]]
+[2025.04.27-08.32.21:203][103]LogConfig: Set CVar [[r.RenderTargetPoolMin:350]]
+[2025.04.27-08.32.21:203][103]LogConfig: Set CVar [[r.LensFlareQuality:0]]
+[2025.04.27-08.32.21:203][103]LogConfig: Set CVar [[r.SceneColorFringeQuality:0]]
+[2025.04.27-08.32.21:203][103]LogConfig: Set CVar [[r.BloomQuality:4]]
+[2025.04.27-08.32.21:203][103]LogConfig: Set CVar [[r.Bloom.ScreenPercentage:35.355]]
+[2025.04.27-08.32.21:203][103]LogConfig: Set CVar [[r.FastBlurThreshold:2]]
+[2025.04.27-08.32.21:203][103]LogConfig: Set CVar [[r.Upscale.Quality:2]]
+[2025.04.27-08.32.21:203][103]LogConfig: Set CVar [[r.LightShaftQuality:0]]
+[2025.04.27-08.32.21:203][103]LogConfig: Set CVar [[r.Filter.SizeScale:0.7]]
+[2025.04.27-08.32.21:203][103]LogConfig: Set CVar [[r.Tonemapper.Quality:2]]
+[2025.04.27-08.32.21:203][103]LogConfig: Set CVar [[r.DOF.Gather.ResolutionDivisor:2         ; lower gathering resolution]]
+[2025.04.27-08.32.21:203][103]LogConfig: Set CVar [[r.DOF.Gather.AccumulatorQuality:0        ; lower gathering accumulator quality]]
+[2025.04.27-08.32.21:203][103]LogConfig: Set CVar [[r.DOF.Gather.PostfilterMethod:2          ; Max3x3 postfilering method]]
+[2025.04.27-08.32.21:203][103]LogConfig: Set CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2025.04.27-08.32.21:203][103]LogConfig: Set CVar [[r.DOF.Gather.RingCount:3                 ; low number of samples when gathering]]
+[2025.04.27-08.32.21:203][103]LogConfig: Set CVar [[r.DOF.Scatter.ForegroundCompositing:0    ; no foreground scattering]]
+[2025.04.27-08.32.21:204][103]LogConfig: Set CVar [[r.DOF.Scatter.BackgroundCompositing:0    ; no foreground scattering]]
+[2025.04.27-08.32.21:204][103]LogConfig: Set CVar [[r.DOF.Recombine.Quality:0                ; no slight out of focus]]
+[2025.04.27-08.32.21:204][103]LogConfig: Set CVar [[r.DOF.TemporalAAQuality:0                ; faster temporal accumulation]]
+[2025.04.27-08.32.21:204][103]LogConfig: Set CVar [[r.DOF.Kernel.MaxForegroundRadius:0.006   ; required because low gathering and no scattering and not looking great at 1080p]]
+[2025.04.27-08.32.21:204][103]LogConfig: Set CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.006   ; required because low gathering and no scattering and not looking great at 1080p]]
+[2025.04.27-08.32.21:204][103]LogConfig: Applying CVar settings from Section [TextureQuality@1] File [Scalability]
+[2025.04.27-08.32.21:204][103]LogConfig: Set CVar [[r.Streaming.MipBias:1]]
+[2025.04.27-08.32.21:204][103]LogConfig: Set CVar [[r.MaxAnisotropy:2]]
+[2025.04.27-08.32.21:204][103]LogConfig: Set CVar [[r.VT.MaxAnisotropy:4]]
+[2025.04.27-08.32.21:204][103]LogConfig: Set CVar [[r.Streaming.LimitPoolSizeToVRAM:1]]
+[2025.04.27-08.32.21:204][103]LogConsoleManager: Warning: Setting the console variable 'r.Streaming.PoolSize' with 'SetByScalability' was ignored as it is lower priority than the previous 'SetByConsole'. Value remains '-1'
+[2025.04.27-08.32.21:204][103]LogConfig: Applying CVar settings from Section [EffectsQuality@1] File [Scalability]
+[2025.04.27-08.32.21:204][103]LogConfig: Set CVar [[r.TranslucencyLightingVolumeDim:32]]
+[2025.04.27-08.32.21:204][103]LogConfig: Set CVar [[r.RefractionQuality:0]]
+[2025.04.27-08.32.21:204][103]LogConfig: Set CVar [[r.SceneColorFormat:3]]
+[2025.04.27-08.32.21:204][103]LogConfig: Set CVar [[r.DetailMode:1]]
+[2025.04.27-08.32.21:204][103]LogConfig: Set CVar [[r.TranslucencyVolumeBlur:0]]
+[2025.04.27-08.32.21:204][103]LogConfig: Set CVar [[r.MaterialQualityLevel:2 ; Medium quality]]
+[2025.04.27-08.32.21:204][103]LogConfig: Set CVar [[r.SSS.Scale:0.75]]
+[2025.04.27-08.32.21:204][103]LogConfig: Set CVar [[r.SSS.SampleSet:0]]
+[2025.04.27-08.32.21:204][103]LogConfig: Set CVar [[r.SSS.Quality:0]]
+[2025.04.27-08.32.21:204][103]LogConfig: Set CVar [[r.SSS.HalfRes:1]]
+[2025.04.27-08.32.21:204][103]LogConfig: Set CVar [[r.SSGI.Quality:1]]
+[2025.04.27-08.32.21:204][103]LogConfig: Set CVar [[r.EmitterSpawnRateScale:0.25]]
+[2025.04.27-08.32.21:204][103]LogConfig: Set CVar [[r.ParticleLightQuality:0]]
+[2025.04.27-08.32.21:204][103]LogConfig: Set CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2025.04.27-08.32.21:204][103]LogConfig: Set CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:1]]
+[2025.04.27-08.32.21:204][103]LogConfig: Set CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2025.04.27-08.32.21:204][103]LogConfig: Set CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2025.04.27-08.32.21:204][103]LogConfig: Set CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2025.04.27-08.32.21:204][103]LogConfig: Set CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2025.04.27-08.32.21:204][103]LogConfig: Set CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2025.04.27-08.32.21:204][103]LogConfig: Set CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2025.04.27-08.32.21:204][103]LogConfig: Set CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2025.04.27-08.32.21:204][103]LogConfig: Set CVar [[fx.Niagara.QualityLevel:1]]
+[2025.04.27-08.32.21:204][103]LogConfig: Set CVar [[r.HeterogeneousVolumes.DownsampleFactor:4]]
+[2025.04.27-08.32.21:204][103]LogConfig: Set CVar [[r.HeterogeneousVolumes.MaxStepCount:256]]
+[2025.04.27-08.32.21:204][103]LogConfig: Set CVar [[r.HeterogeneousVolumes.Shadows.Resolution:128]]
+[2025.04.27-08.32.21:204][103]LogConfig: Applying CVar settings from Section [FoliageQuality@1] File [Scalability]
+[2025.04.27-08.32.21:204][103]LogConfig: Set CVar [[foliage.DensityScale:0.4]]
+[2025.04.27-08.32.21:204][103]LogConfig: Set CVar [[grass.DensityScale:0.4]]
+[2025.04.27-08.32.21:204][103]LogConfig: Applying CVar settings from Section [ShadingQuality@1] File [Scalability]
+[2025.04.27-08.32.21:204][103]LogConfig: Set CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2025.04.27-08.32.21:204][103]LogConfig: Set CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2025.04.27-08.32.21:204][103]LogConfig: Set CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:1]]
+[2025.04.27-08.32.21:204][103]LogConfig: Set CVar [[r.AnisotropicMaterials:0]]
+[2025.04.27-08.32.21:204][103]LogConfig: Applying CVar settings from Section [LandscapeQuality@1] File [Scalability]
+[2025.04.27-08.32.21:236][103]LogRenderer: Display: Recreating Shadow.Virtual.PhysicalPagePool due to size or flags change. This will also drop any cached pages.
+[2025.04.27-08.32.21:346][103]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.04.27-08.32.21:346][103]LogWorld: BeginTearingDown for /Game/Cin_Anim/Levels/UEDPIE_0_Cinematic_Map
+[2025.04.27-08.32.21:346][103]LogSlate: Window 'Movie Render - Preview' being destroyed
+[2025.04.27-08.32.21:434][103]LogWorld: UWorld::CleanupWorld for Cinematic_Map, bSessionEnded=true, bCleanupResources=true
+[2025.04.27-08.32.21:434][103]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.27-08.32.21:437][103]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.04.27-08.32.21:448][103]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.27-08.32.21:460][103]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 7
+[2025.04.27-08.32.21:460][103]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2025.04.27-08.32.21:463][103]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2025.04.27-08.32.21:463][103]LogAudioMixer: Display: StopRunningNullDevice() called, InstanceID=7
+[2025.04.27-08.32.21:469][103]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2025.04.27-08.32.21:564][103]LogTemp: Movie Capture finished. Success: 1
+[2025.04.27-08.32.21:760][104]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2025.04.27-08.32.21:849][105]LogRenderer: Display: Recreating Shadow.Virtual.PhysicalPagePool due to size or flags change. This will also drop any cached pages.
+[2025.04.27-08.32.21:855][106]LogPlayLevel: Display: Destroying online subsystem :Context_47
+[2025.04.27-08.32.58:643][917]LogSlate: Window 'Render Movie Settings' being destroyed
+[2025.04.27-08.33.22:183][837]LogStreaming: Display: FlushAsyncLoading(440): 1 QueuedPackages, 0 AsyncPackages
+[2025.04.27-08.33.22:186][837]LogAssetEditorSubsystem: Opening Asset editor for LevelSequence /Game/Cin_Anim/Shots/Shot_019.Shot_019
+[2025.04.27-08.34.36:554][758]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2025.04.27-08.34.38:675][758]LogSlate: Window 'Save Content' being destroyed
+[2025.04.27-08.34.38:685][758]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.04.27-08.34.38:757][758]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2025.04.27-08.34.38:765][758]LogSavePackage: Moving output files for package: /Game/Cin_Anim/Levels/Emma
+[2025.04.27-08.34.38:766][758]LogSavePackage: Moving '../../../../../../Users/emmap/Documents/GitHub/CinematicAnimation/CinematicAnimation 5.5/Saved/Emma686C0C114F6BD37E606037B6BA32CD68.tmp' to '../../../../../../Users/emmap/Documents/GitHub/CinematicAnimation/CinematicAnimation 5.5/Content/Cin_Anim/Levels/Emma.umap'
+[2025.04.27-08.34.38:774][758]LogFileHelpers: Saving map 'Emma' took 0.031
+[2025.04.27-08.34.38:774][758]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Cin_Anim/Shots/Shot_019] ([1] browsable assets)...
+[2025.04.27-08.34.38:774][758]OBJ SavePackage: Finished generating thumbnails for package [/Game/Cin_Anim/Shots/Shot_019]
+[2025.04.27-08.34.38:786][758]LogSavePackage: Moving output files for package: /Game/Cin_Anim/Shots/Shot_019
+[2025.04.27-08.34.38:787][758]LogSavePackage: Moving '../../../../../../Users/emmap/Documents/GitHub/CinematicAnimation/CinematicAnimation 5.5/Saved/Shot_0198E4001A4424EC44327BAEA8B7E4E1F5F.tmp' to '../../../../../../Users/emmap/Documents/GitHub/CinematicAnimation/CinematicAnimation 5.5/Content/Cin_Anim/Shots/Shot_019.uasset'
+[2025.04.27-08.34.38:796][758]LogFileHelpers: InternalPromptForCheckoutAndSave took 110.803 ms (total: 1.30 sec)
+[2025.04.27-08.34.38:811][758]LogTemp: Starting movie scene capture...
+[2025.04.27-08.34.38:885][758]LogContentValidation: Display: Starting to validate 2 assets
+[2025.04.27-08.34.38:885][758]LogContentValidation: Enabled validators:
+[2025.04.27-08.34.38:885][758]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.04.27-08.34.38:885][758]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.04.27-08.34.38:885][758]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.04.27-08.34.38:885][758]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.04.27-08.34.38:885][758]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.04.27-08.34.38:885][758]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.04.27-08.34.38:886][758]AssetCheck: /Game/Cin_Anim/Levels/Emma Validating asset
+[2025.04.27-08.34.38:886][758]AssetCheck: /Game/Cin_Anim/Shots/Shot_019 Validating asset
+[2025.04.27-08.34.38:900][758]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.04.27-08.34.38:901][758]LogPlayLevel: Creating play world package: /Game/Cin_Anim/Levels/UEDPIE_0_Cinematic_Map
+[2025.04.27-08.34.38:904][758]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003725s)
+[2025.04.27-08.34.38:904][758]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Cin_Anim/Levels/Cinematic_Map.Cinematic_Map to /Game/Cin_Anim/Levels/UEDPIE_0_Cinematic_Map.Cinematic_Map (0.003760s)
+[2025.04.27-08.34.38:919][758]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2025.04.27-08.34.38:920][758]LogChaosDD: Creating Chaos Debug Draw Scene for world Cinematic_Map
+[2025.04.27-08.34.38:921][758]LogPlayLevel: PIE: World Init took: (0.001566s)
+[2025.04.27-08.34.38:922][758]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2025.04.27-08.34.38:922][758]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.04.27-08.34.38:922][758]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.04.27-08.34.38:922][758]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.04.27-08.34.38:922][758]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.04.27-08.34.38:922][758]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.04.27-08.34.38:922][758]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.04.27-08.34.38:922][758]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.04.27-08.34.38:922][758]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.04.27-08.34.38:922][758]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.04.27-08.34.38:922][758]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.04.27-08.34.38:922][758]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.04.27-08.34.38:925][758]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.04.27-08.34.38:944][758]LogAudioMixer: Display: Using Audio Hardware Device Unknown
+[2025.04.27-08.34.38:944][758]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.04.27-08.34.38:944][758]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.04.27-08.34.38:944][758]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.04.27-08.34.38:945][758]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=8
+[2025.04.27-08.34.38:945][758]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=8
+[2025.04.27-08.34.38:947][758]LogAudioMixer: Display: StartRunningNullDevice() called, InstanceID=8
+[2025.04.27-08.34.38:947][758]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=8
+[2025.04.27-08.34.38:947][758]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=9844
+[2025.04.27-08.34.38:947][758]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=8
+[2025.04.27-08.34.38:947][758]LogInit: FAudioDevice initialized with ID 8.
+[2025.04.27-08.34.38:947][758]LogAudio: Display: Audio Device (ID: 8) registered with world 'Cinematic_Map'.
+[2025.04.27-08.34.38:947][758]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 8
+[2025.04.27-08.34.38:947][758]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.04.27-08.34.38:969][758]LogSkeletalMesh: USkeletalMeshComponent: Recreating Clothing Actors for 'SkeletalMeshComponent0' with 'SM_Countess'
+[2025.04.27-08.34.38:974][758]LogSkeletalMesh: USkeletalMeshComponent: Recreating Clothing Actors for 'SkeletalMeshComponent0' with 'Aurora_SpringCeremony'
+[2025.04.27-08.34.38:976][758]LogSkeletalMesh: USkeletalMeshComponent: Recreating Clothing Actors for 'SkeletalMeshComponent0' with 'SM_Countess'
+[2025.04.27-08.34.38:978][758]LogSkeletalMesh: USkeletalMeshComponent: Recreating Clothing Actors for 'SkeletalMeshComponent0' with 'Aurora_SpringCeremony'
+[2025.04.27-08.34.38:985][758]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@Cine] File [Scalability]
+[2025.04.27-08.34.38:985][758]LogConfig: Set CVar [[r.SkeletalMeshLODBias:0]]
+[2025.04.27-08.34.38:985][758]LogConfig: Set CVar [[r.ViewDistanceScale:10.0]]
+[2025.04.27-08.34.38:985][758]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@Cine] File [Scalability]
+[2025.04.27-08.34.38:985][758]LogConfig: Set CVar [[r.FXAA.Quality:5]]
+[2025.04.27-08.34.38:985][758]LogConfig: Set CVar [[r.TemporalAA.Quality:2]]
+[2025.04.27-08.34.38:985][758]LogConfig: Set CVar [[r.TSR.History.R11G11B10:0]]
+[2025.04.27-08.34.38:985][758]LogConfig: Set CVar [[r.TSR.History.ScreenPercentage:200]]
+[2025.04.27-08.34.38:985][758]LogConfig: Set CVar [[r.TSR.History.UpdateQuality:3]]
+[2025.04.27-08.34.38:985][758]LogConfig: Set CVar [[r.TSR.ShadingRejection.Flickering:1]]
+[2025.04.27-08.34.38:985][758]LogConfig: Set CVar [[r.TSR.RejectionAntiAliasingQuality:2]]
+[2025.04.27-08.34.38:985][758]LogConfig: Set CVar [[r.TSR.ReprojectionField:1]]
+[2025.04.27-08.34.38:985][758]LogConfig: Applying CVar settings from Section [ShadowQuality@Cine] File [Scalability]
+[2025.04.27-08.34.38:985][758]LogConfig: Set CVar [[r.ShadowQuality:5]]
+[2025.04.27-08.34.38:985][758]LogConfig: Set CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2025.04.27-08.34.38:985][758]LogConfig: Set CVar [[r.Shadow.MaxResolution:4096]]
+[2025.04.27-08.34.38:985][758]LogConfig: Set CVar [[r.Shadow.MaxCSMResolution:4096]]
+[2025.04.27-08.34.38:985][758]LogConfig: Set CVar [[r.Shadow.RadiusThreshold:0]]
+[2025.04.27-08.34.38:985][758]LogConfig: Set CVar [[r.Shadow.DistanceScale:1.0]]
+[2025.04.27-08.34.38:985][758]LogConfig: Set CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2025.04.27-08.34.38:985][758]LogConfig: Set CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2025.04.27-08.34.38:985][758]LogConfig: Set CVar [[r.DistanceFieldShadowing:1]]
+[2025.04.27-08.34.38:985][758]LogConfig: Set CVar [[r.VolumetricFog:1]]
+[2025.04.27-08.34.38:985][758]LogConfig: Set CVar [[r.LightMaxDrawDistanceScale:1]]
+[2025.04.27-08.34.38:985][758]LogConfig: Set CVar [[r.Shadow.Virtual.MaxPhysicalPages:8192]]
+[2025.04.27-08.34.38:985][758]LogConfig: Set CVar [[r.Shadow.Virtual.ResolutionLodBiasDirectional:-1.5]]
+[2025.04.27-08.34.38:985][758]LogConfig: Set CVar [[r.Shadow.Virtual.ResolutionLodBiasDirectionalMoving:-1.5]]
+[2025.04.27-08.34.38:985][758]LogConfig: Set CVar [[r.Shadow.Virtual.ResolutionLodBiasLocal:0.0]]
+[2025.04.27-08.34.38:985][758]LogConfig: Set CVar [[r.Shadow.Virtual.ResolutionLodBiasLocalMoving:0.0]]
+[2025.04.27-08.34.38:985][758]LogConfig: Set CVar [[r.Shadow.Virtual.SMRT.RayCountDirectional:16]]
+[2025.04.27-08.34.38:985][758]LogConfig: Set CVar [[r.Shadow.Virtual.SMRT.SamplesPerRayDirectional:8]]
+[2025.04.27-08.34.38:985][758]LogConfig: Set CVar [[r.Shadow.Virtual.SMRT.RayCountLocal:16]]
+[2025.04.27-08.34.38:985][758]LogConfig: Set CVar [[r.Shadow.Virtual.SMRT.SamplesPerRayLocal:8]]
+[2025.04.27-08.34.38:985][758]LogConfig: Applying CVar settings from Section [GlobalIlluminationQuality@Cine] File [Scalability]
+[2025.04.27-08.34.38:985][758]LogConfig: Set CVar [[r.AOQuality:2]]
+[2025.04.27-08.34.38:985][758]LogConfig: Set CVar [[r.Lumen.DiffuseIndirect.Allow:1]]
+[2025.04.27-08.34.38:985][758]LogConfig: Set CVar [[r.SkyLight.RealTimeReflectionCapture:1]]
+[2025.04.27-08.34.38:985][758]LogConfig: Set CVar [[r.RayTracing.Scene.BuildMode:1]]
+[2025.04.27-08.34.38:985][758]LogConfig: Applying CVar settings from Section [ReflectionQuality@Cine] File [Scalability]
+[2025.04.27-08.34.38:985][758]LogConfig: Set CVar [[r.SSR.Quality:4]]
+[2025.04.27-08.34.38:985][758]LogConfig: Set CVar [[r.SSR.HalfResSceneColor:0]]
+[2025.04.27-08.34.38:985][758]LogConfig: Set CVar [[r.Lumen.Reflections.Allow:1]]
+[2025.04.27-08.34.38:985][758]LogConfig: Applying CVar settings from Section [PostProcessQuality@Cine] File [Scalability]
+[2025.04.27-08.34.38:985][758]LogConfig: Set CVar [[r.MotionBlurQuality:4]]
+[2025.04.27-08.34.38:985][758]LogConfig: Set CVar [[r.MotionBlur.HalfResGather:0]]
+[2025.04.27-08.34.38:985][758]LogConfig: Set CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2025.04.27-08.34.38:985][758]LogConfig: Set CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2025.04.27-08.34.38:985][758]LogConfig: Set CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2025.04.27-08.34.38:985][758]LogConfig: Set CVar [[r.DepthOfFieldQuality:4]]
+[2025.04.27-08.34.38:985][758]LogConfig: Set CVar [[r.RenderTargetPoolMin:1000]]
+[2025.04.27-08.34.38:985][758]LogConfig: Set CVar [[r.LensFlareQuality:3]]
+[2025.04.27-08.34.38:985][758]LogConfig: Set CVar [[r.SceneColorFringeQuality:1]]
+[2025.04.27-08.34.38:985][758]LogConfig: Set CVar [[r.BloomQuality:5]]
+[2025.04.27-08.34.38:985][758]LogConfig: Set CVar [[r.Bloom.ScreenPercentage:100]]
+[2025.04.27-08.34.38:985][758]LogConfig: Set CVar [[r.FastBlurThreshold:100]]
+[2025.04.27-08.34.38:985][758]LogConfig: Set CVar [[r.Upscale.Quality:3]]
+[2025.04.27-08.34.38:985][758]LogConfig: Set CVar [[r.LightShaftQuality:1]]
+[2025.04.27-08.34.38:985][758]LogConfig: Set CVar [[r.Filter.SizeScale:1]]
+[2025.04.27-08.34.38:985][758]LogConfig: Set CVar [[r.Tonemapper.Quality:5]]
+[2025.04.27-08.34.38:985][758]LogConfig: Set CVar [[r.DOF.Gather.ResolutionDivisor:1         ; do the gathering at full resolution]]
+[2025.04.27-08.34.38:985][758]LogConfig: Set CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2025.04.27-08.34.38:985][758]LogConfig: Set CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2025.04.27-08.34.38:985][758]LogConfig: Set CVar [[r.DOF.Gather.EnableBokehSettings:1       ; bokeh simulation when gathering]]
+[2025.04.27-08.34.38:985][758]LogConfig: Set CVar [[r.DOF.Gather.RingCount:5                 ; high number of samples when gathering]]
+[2025.04.27-08.34.38:985][758]LogConfig: Set CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2025.04.27-08.34.38:985][758]LogConfig: Set CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; background scattering occlusion]]
+[2025.04.27-08.34.38:985][758]LogConfig: Set CVar [[r.DOF.Recombine.Quality:2                ; highest slight out of focus]]
+[2025.04.27-08.34.38:985][758]LogConfig: Set CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2025.04.27-08.34.38:985][758]LogConfig: Set CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2025.04.27-08.34.38:985][758]LogConfig: Set CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2025.04.27-08.34.38:985][758]LogConfig: Applying CVar settings from Section [TextureQuality@Cine] File [Scalability]
+[2025.04.27-08.34.38:985][758]LogConfig: Set CVar [[r.Streaming.MipBias:0]]
+[2025.04.27-08.34.38:985][758]LogConfig: Set CVar [[r.MaxAnisotropy:8]]
+[2025.04.27-08.34.38:985][758]LogConfig: Set CVar [[r.VT.MaxAnisotropy:8]]
+[2025.04.27-08.34.38:985][758]LogConfig: Set CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2025.04.27-08.34.38:985][758]LogConsoleManager: Warning: Setting the console variable 'r.Streaming.PoolSize' with 'SetByScalability' was ignored as it is lower priority than the previous 'SetByConsole'. Value remains '-1'
+[2025.04.27-08.34.38:985][758]LogConfig: Applying CVar settings from Section [EffectsQuality@Cine] File [Scalability]
+[2025.04.27-08.34.38:985][758]LogConfig: Set CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2025.04.27-08.34.38:985][758]LogConfig: Set CVar [[r.RefractionQuality:2]]
+[2025.04.27-08.34.38:985][758]LogConfig: Set CVar [[r.SceneColorFormat:4]]
+[2025.04.27-08.34.38:985][758]LogConfig: Set CVar [[r.DetailMode:3]]
+[2025.04.27-08.34.38:985][758]LogConfig: Set CVar [[r.TranslucencyVolumeBlur:1]]
+[2025.04.27-08.34.38:985][758]LogConfig: Set CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2025.04.27-08.34.38:985][758]LogConfig: Set CVar [[r.SSS.Scale:1]]
+[2025.04.27-08.34.38:985][758]LogConfig: Set CVar [[r.SSS.SampleSet:2]]
+[2025.04.27-08.34.38:985][758]LogConfig: Set CVar [[r.SSS.Quality:1]]
+[2025.04.27-08.34.38:985][758]LogConfig: Set CVar [[r.SSS.HalfRes:0]]
+[2025.04.27-08.34.38:985][758]LogConfig: Set CVar [[r.SSGI.Quality:4]]
+[2025.04.27-08.34.38:985][758]LogConfig: Set CVar [[r.EmitterSpawnRateScale:1.0]]
+[2025.04.27-08.34.38:986][758]LogConfig: Set CVar [[r.ParticleLightQuality:2]]
+[2025.04.27-08.34.38:986][758]LogConfig: Set CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:0]]
+[2025.04.27-08.34.38:986][758]LogConfig: Set CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:8]]
+[2025.04.27-08.34.38:986][758]LogConfig: Set CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:32.0]]
+[2025.04.27-08.34.38:986][758]LogConfig: Set CVar [[r.SkyAtmosphere.FastSkyLUT:0]]
+[2025.04.27-08.34.38:986][758]LogConfig: Set CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:256.0]]
+[2025.04.27-08.34.38:986][758]LogConfig: Set CVar [[r.SkyAtmosphere.SampleCountMin:8.0]]
+[2025.04.27-08.34.38:986][758]LogConfig: Set CVar [[r.SkyAtmosphere.SampleCountMax:256.0]]
+[2025.04.27-08.34.38:986][758]LogConfig: Set CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:30.0]]
+[2025.04.27-08.34.38:986][758]LogConfig: Set CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:20.0]]
+[2025.04.27-08.34.38:986][758]LogConfig: Set CVar [[fx.Niagara.QualityLevel:4]]
+[2025.04.27-08.34.38:986][758]LogConfig: Set CVar [[r.HeterogeneousVolumes.DownsampleFactor:1]]
+[2025.04.27-08.34.38:986][758]LogConfig: Set CVar [[r.HeterogeneousVolumes.MaxStepCount:1024]]
+[2025.04.27-08.34.38:986][758]LogConfig: Set CVar [[r.HeterogeneousVolumes.Shadows.Resolution:1024]]
+[2025.04.27-08.34.38:986][758]LogConfig: Applying CVar settings from Section [FoliageQuality@Cine] File [Scalability]
+[2025.04.27-08.34.38:986][758]LogConfig: Set CVar [[foliage.DensityScale:1.0]]
+[2025.04.27-08.34.38:986][758]LogConfig: Set CVar [[grass.DensityScale:1.0]]
+[2025.04.27-08.34.38:986][758]LogConfig: Applying CVar settings from Section [ShadingQuality@Cine] File [Scalability]
+[2025.04.27-08.34.38:986][758]LogConfig: Set CVar [[r.HairStrands.SkyLighting.IntegrationType:1]]
+[2025.04.27-08.34.38:986][758]LogConfig: Set CVar [[r.HairStrands.SkyAO.SampleCount:8]]
+[2025.04.27-08.34.38:986][758]LogConfig: Set CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:8]]
+[2025.04.27-08.34.38:986][758]LogConfig: Set CVar [[r.AnisotropicMaterials:1]]
+[2025.04.27-08.34.38:986][758]LogConfig: Applying CVar settings from Section [LandscapeQuality@Cine] File [Scalability]
+[2025.04.27-08.34.38:995][758]LogLoad: Game class is 'GameModeBase'
+[2025.04.27-08.34.38:996][758]LogSkeletalMesh: USkeletalMeshComponent: Recreating Clothing Actors for 'SkeletalMeshComponent0' with 'SM_Countess'
+[2025.04.27-08.34.38:998][758]LogSkeletalMesh: USkeletalMeshComponent: Recreating Clothing Actors for 'SkeletalMeshComponent0' with 'SM_Countess'
+[2025.04.27-08.34.38:999][758]LogWorld: Bringing World /Game/Cin_Anim/Levels/UEDPIE_0_Cinematic_Map.Cinematic_Map up for play (max tick rate 0) at 2025.04.27-18.34.38
+[2025.04.27-08.34.39:000][758]LogWorld: Bringing up level for play took: 0.004698
+[2025.04.27-08.34.39:003][758]LogOnline: OSS: Created online subsystem instance for: :Context_48
+[2025.04.27-08.34.39:003][758]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2025.04.27-08.34.39:008][758]PIE: Server logged in
+[2025.04.27-08.34.39:012][758]PIE: Play in editor total start time 0.113 seconds.
+[2025.04.27-08.34.40:188][760]LogRenderer: Display: Recreating Shadow.Virtual.PhysicalPagePool due to size or flags change. This will also drop any cached pages.
+[2025.04.27-08.35.39:920][826]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6222.525391
+[2025.04.27-08.35.41:847][829]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.04.27-08.35.41:847][829]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6223.828613, Update Interval: 334.604340
+[2025.04.27-08.36.13:243][879]LogMovieScene: Starting new camera cut: 'Celeste Closeup Camera_0'
+[2025.04.27-08.36.13:857][880]LogRenderer: Display: Invalidated clipmap due to WPO threshold change. This can occur due to resolution or FOV changes.
+[2025.04.27-08.36.33:747][ 31]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@1] File [Scalability]
+[2025.04.27-08.36.33:747][ 31]LogConfig: Set CVar [[r.SkeletalMeshLODBias:1]]
+[2025.04.27-08.36.33:747][ 31]LogConfig: Set CVar [[r.ViewDistanceScale:0.6]]
+[2025.04.27-08.36.33:747][ 31]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@1] File [Scalability]
+[2025.04.27-08.36.33:747][ 31]LogConfig: Set CVar [[r.FXAA.Quality:1]]
+[2025.04.27-08.36.33:747][ 31]LogConfig: Set CVar [[r.TemporalAA.Quality:1]]
+[2025.04.27-08.36.33:747][ 31]LogConfig: Set CVar [[r.TSR.History.R11G11B10:1]]
+[2025.04.27-08.36.33:747][ 31]LogConfig: Set CVar [[r.TSR.History.ScreenPercentage:100]]
+[2025.04.27-08.36.33:747][ 31]LogConfig: Set CVar [[r.TSR.History.UpdateQuality:1]]
+[2025.04.27-08.36.33:747][ 31]LogConfig: Set CVar [[r.TSR.ShadingRejection.Flickering:0]]
+[2025.04.27-08.36.33:747][ 31]LogConfig: Set CVar [[r.TSR.RejectionAntiAliasingQuality:1]]
+[2025.04.27-08.36.33:747][ 31]LogConfig: Set CVar [[r.TSR.ReprojectionField:0]]
+[2025.04.27-08.36.33:747][ 31]LogConfig: Applying CVar settings from Section [ShadowQuality@1] File [Scalability]
+[2025.04.27-08.36.33:747][ 31]LogConfig: Set CVar [[r.ShadowQuality:3]]
+[2025.04.27-08.36.33:747][ 31]LogConfig: Set CVar [[r.Shadow.CSM.MaxCascades:1]]
+[2025.04.27-08.36.33:747][ 31]LogConfig: Set CVar [[r.Shadow.MaxResolution:1024]]
+[2025.04.27-08.36.33:747][ 31]LogConfig: Set CVar [[r.Shadow.MaxCSMResolution:1024]]
+[2025.04.27-08.36.33:747][ 31]LogConfig: Set CVar [[r.Shadow.RadiusThreshold:0.05]]
+[2025.04.27-08.36.33:747][ 31]LogConfig: Set CVar [[r.Shadow.DistanceScale:0.7]]
+[2025.04.27-08.36.33:747][ 31]LogConfig: Set CVar [[r.Shadow.CSM.TransitionScale:0.25]]
+[2025.04.27-08.36.33:747][ 31]LogConfig: Set CVar [[r.Shadow.PreShadowResolutionFactor:0.5]]
+[2025.04.27-08.36.33:747][ 31]LogConfig: Set CVar [[r.DistanceFieldShadowing:0]]
+[2025.04.27-08.36.33:747][ 31]LogConfig: Set CVar [[r.VolumetricFog:0]]
+[2025.04.27-08.36.33:747][ 31]LogConfig: Set CVar [[r.LightMaxDrawDistanceScale:0.5]]
+[2025.04.27-08.36.33:747][ 31]LogConfig: Set CVar [[r.Shadow.Virtual.MaxPhysicalPages:512]]
+[2025.04.27-08.36.33:747][ 31]LogConfig: Set CVar [[r.Shadow.Virtual.ResolutionLodBiasDirectional:0.0]]
+[2025.04.27-08.36.33:747][ 31]LogConfig: Set CVar [[r.Shadow.Virtual.ResolutionLodBiasDirectionalMoving:0.0]]
+[2025.04.27-08.36.33:747][ 31]LogConfig: Set CVar [[r.Shadow.Virtual.ResolutionLodBiasLocal:1.0]]
+[2025.04.27-08.36.33:747][ 31]LogConfig: Set CVar [[r.Shadow.Virtual.ResolutionLodBiasLocalMoving:2.0]]
+[2025.04.27-08.36.33:747][ 31]LogConfig: Set CVar [[r.Shadow.Virtual.SMRT.RayCountDirectional:4]]
+[2025.04.27-08.36.33:748][ 31]LogConfig: Set CVar [[r.Shadow.Virtual.SMRT.SamplesPerRayDirectional:2]]
+[2025.04.27-08.36.33:748][ 31]LogConfig: Set CVar [[r.Shadow.Virtual.SMRT.RayCountLocal:4]]
+[2025.04.27-08.36.33:748][ 31]LogConfig: Set CVar [[r.Shadow.Virtual.SMRT.SamplesPerRayLocal:2]]
+[2025.04.27-08.36.33:748][ 31]LogConfig: Applying CVar settings from Section [GlobalIlluminationQuality@1] File [Scalability]
+[2025.04.27-08.36.33:748][ 31]LogConfig: Set CVar [[r.AOQuality:1]]
+[2025.04.27-08.36.33:748][ 31]LogConfig: Set CVar [[r.Lumen.DiffuseIndirect.Allow:0]]
+[2025.04.27-08.36.33:748][ 31]LogConfig: Set CVar [[r.SkyLight.RealTimeReflectionCapture:0]]
+[2025.04.27-08.36.33:748][ 31]LogConfig: Set CVar [[r.RayTracing.Scene.BuildMode:0]]
+[2025.04.27-08.36.33:748][ 31]LogConfig: Applying CVar settings from Section [ReflectionQuality@1] File [Scalability]
+[2025.04.27-08.36.33:748][ 31]LogConfig: Set CVar [[r.SSR.Quality:2]]
+[2025.04.27-08.36.33:748][ 31]LogConfig: Set CVar [[r.SSR.HalfResSceneColor:1]]
+[2025.04.27-08.36.33:748][ 31]LogConfig: Set CVar [[r.Lumen.Reflections.Allow:0]]
+[2025.04.27-08.36.33:748][ 31]LogConfig: Applying CVar settings from Section [PostProcessQuality@1] File [Scalability]
+[2025.04.27-08.36.33:748][ 31]LogConfig: Set CVar [[r.MotionBlurQuality:3]]
+[2025.04.27-08.36.33:748][ 31]LogConfig: Set CVar [[r.MotionBlur.HalfResGather:1]]
+[2025.04.27-08.36.33:748][ 31]LogConfig: Set CVar [[r.AmbientOcclusionMipLevelFactor:1.0]]
+[2025.04.27-08.36.33:748][ 31]LogConfig: Set CVar [[r.AmbientOcclusionMaxQuality:60]]
+[2025.04.27-08.36.33:748][ 31]LogConfig: Set CVar [[r.AmbientOcclusionRadiusScale:1.5]]
+[2025.04.27-08.36.33:748][ 31]LogConfig: Set CVar [[r.DepthOfFieldQuality:1]]
+[2025.04.27-08.36.33:748][ 31]LogConfig: Set CVar [[r.RenderTargetPoolMin:350]]
+[2025.04.27-08.36.33:748][ 31]LogConfig: Set CVar [[r.LensFlareQuality:0]]
+[2025.04.27-08.36.33:748][ 31]LogConfig: Set CVar [[r.SceneColorFringeQuality:0]]
+[2025.04.27-08.36.33:748][ 31]LogConfig: Set CVar [[r.BloomQuality:4]]
+[2025.04.27-08.36.33:748][ 31]LogConfig: Set CVar [[r.Bloom.ScreenPercentage:35.355]]
+[2025.04.27-08.36.33:748][ 31]LogConfig: Set CVar [[r.FastBlurThreshold:2]]
+[2025.04.27-08.36.33:748][ 31]LogConfig: Set CVar [[r.Upscale.Quality:2]]
+[2025.04.27-08.36.33:748][ 31]LogConfig: Set CVar [[r.LightShaftQuality:0]]
+[2025.04.27-08.36.33:748][ 31]LogConfig: Set CVar [[r.Filter.SizeScale:0.7]]
+[2025.04.27-08.36.33:748][ 31]LogConfig: Set CVar [[r.Tonemapper.Quality:2]]
+[2025.04.27-08.36.33:748][ 31]LogConfig: Set CVar [[r.DOF.Gather.ResolutionDivisor:2         ; lower gathering resolution]]
+[2025.04.27-08.36.33:748][ 31]LogConfig: Set CVar [[r.DOF.Gather.AccumulatorQuality:0        ; lower gathering accumulator quality]]
+[2025.04.27-08.36.33:748][ 31]LogConfig: Set CVar [[r.DOF.Gather.PostfilterMethod:2          ; Max3x3 postfilering method]]
+[2025.04.27-08.36.33:748][ 31]LogConfig: Set CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2025.04.27-08.36.33:748][ 31]LogConfig: Set CVar [[r.DOF.Gather.RingCount:3                 ; low number of samples when gathering]]
+[2025.04.27-08.36.33:748][ 31]LogConfig: Set CVar [[r.DOF.Scatter.ForegroundCompositing:0    ; no foreground scattering]]
+[2025.04.27-08.36.33:748][ 31]LogConfig: Set CVar [[r.DOF.Scatter.BackgroundCompositing:0    ; no foreground scattering]]
+[2025.04.27-08.36.33:748][ 31]LogConfig: Set CVar [[r.DOF.Recombine.Quality:0                ; no slight out of focus]]
+[2025.04.27-08.36.33:748][ 31]LogConfig: Set CVar [[r.DOF.TemporalAAQuality:0                ; faster temporal accumulation]]
+[2025.04.27-08.36.33:748][ 31]LogConfig: Set CVar [[r.DOF.Kernel.MaxForegroundRadius:0.006   ; required because low gathering and no scattering and not looking great at 1080p]]
+[2025.04.27-08.36.33:748][ 31]LogConfig: Set CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.006   ; required because low gathering and no scattering and not looking great at 1080p]]
+[2025.04.27-08.36.33:748][ 31]LogConfig: Applying CVar settings from Section [TextureQuality@1] File [Scalability]
+[2025.04.27-08.36.33:748][ 31]LogConfig: Set CVar [[r.Streaming.MipBias:1]]
+[2025.04.27-08.36.33:748][ 31]LogConfig: Set CVar [[r.MaxAnisotropy:2]]
+[2025.04.27-08.36.33:748][ 31]LogConfig: Set CVar [[r.VT.MaxAnisotropy:4]]
+[2025.04.27-08.36.33:748][ 31]LogConfig: Set CVar [[r.Streaming.LimitPoolSizeToVRAM:1]]
+[2025.04.27-08.36.33:748][ 31]LogConsoleManager: Warning: Setting the console variable 'r.Streaming.PoolSize' with 'SetByScalability' was ignored as it is lower priority than the previous 'SetByConsole'. Value remains '-1'
+[2025.04.27-08.36.33:748][ 31]LogConfig: Applying CVar settings from Section [EffectsQuality@1] File [Scalability]
+[2025.04.27-08.36.33:748][ 31]LogConfig: Set CVar [[r.TranslucencyLightingVolumeDim:32]]
+[2025.04.27-08.36.33:748][ 31]LogConfig: Set CVar [[r.RefractionQuality:0]]
+[2025.04.27-08.36.33:748][ 31]LogConfig: Set CVar [[r.SceneColorFormat:3]]
+[2025.04.27-08.36.33:748][ 31]LogConfig: Set CVar [[r.DetailMode:1]]
+[2025.04.27-08.36.33:748][ 31]LogConfig: Set CVar [[r.TranslucencyVolumeBlur:0]]
+[2025.04.27-08.36.33:748][ 31]LogConfig: Set CVar [[r.MaterialQualityLevel:2 ; Medium quality]]
+[2025.04.27-08.36.33:748][ 31]LogConfig: Set CVar [[r.SSS.Scale:0.75]]
+[2025.04.27-08.36.33:748][ 31]LogConfig: Set CVar [[r.SSS.SampleSet:0]]
+[2025.04.27-08.36.33:748][ 31]LogConfig: Set CVar [[r.SSS.Quality:0]]
+[2025.04.27-08.36.33:748][ 31]LogConfig: Set CVar [[r.SSS.HalfRes:1]]
+[2025.04.27-08.36.33:748][ 31]LogConfig: Set CVar [[r.SSGI.Quality:1]]
+[2025.04.27-08.36.33:748][ 31]LogConfig: Set CVar [[r.EmitterSpawnRateScale:0.25]]
+[2025.04.27-08.36.33:748][ 31]LogConfig: Set CVar [[r.ParticleLightQuality:0]]
+[2025.04.27-08.36.33:748][ 31]LogConfig: Set CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2025.04.27-08.36.33:748][ 31]LogConfig: Set CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:1]]
+[2025.04.27-08.36.33:748][ 31]LogConfig: Set CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2025.04.27-08.36.33:748][ 31]LogConfig: Set CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2025.04.27-08.36.33:748][ 31]LogConfig: Set CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2025.04.27-08.36.33:748][ 31]LogConfig: Set CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2025.04.27-08.36.33:748][ 31]LogConfig: Set CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2025.04.27-08.36.33:748][ 31]LogConfig: Set CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2025.04.27-08.36.33:748][ 31]LogConfig: Set CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2025.04.27-08.36.33:748][ 31]LogConfig: Set CVar [[fx.Niagara.QualityLevel:1]]
+[2025.04.27-08.36.33:748][ 31]LogConfig: Set CVar [[r.HeterogeneousVolumes.DownsampleFactor:4]]
+[2025.04.27-08.36.33:748][ 31]LogConfig: Set CVar [[r.HeterogeneousVolumes.MaxStepCount:256]]
+[2025.04.27-08.36.33:748][ 31]LogConfig: Set CVar [[r.HeterogeneousVolumes.Shadows.Resolution:128]]
+[2025.04.27-08.36.33:748][ 31]LogConfig: Applying CVar settings from Section [FoliageQuality@1] File [Scalability]
+[2025.04.27-08.36.33:748][ 31]LogConfig: Set CVar [[foliage.DensityScale:0.4]]
+[2025.04.27-08.36.33:748][ 31]LogConfig: Set CVar [[grass.DensityScale:0.4]]
+[2025.04.27-08.36.33:748][ 31]LogConfig: Applying CVar settings from Section [ShadingQuality@1] File [Scalability]
+[2025.04.27-08.36.33:748][ 31]LogConfig: Set CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2025.04.27-08.36.33:748][ 31]LogConfig: Set CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2025.04.27-08.36.33:748][ 31]LogConfig: Set CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:1]]
+[2025.04.27-08.36.33:748][ 31]LogConfig: Set CVar [[r.AnisotropicMaterials:0]]
+[2025.04.27-08.36.33:748][ 31]LogConfig: Applying CVar settings from Section [LandscapeQuality@1] File [Scalability]
+[2025.04.27-08.36.33:781][ 31]LogRenderer: Display: Recreating Shadow.Virtual.PhysicalPagePool due to size or flags change. This will also drop any cached pages.
+[2025.04.27-08.36.33:898][ 31]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.04.27-08.36.33:898][ 31]LogWorld: BeginTearingDown for /Game/Cin_Anim/Levels/UEDPIE_0_Cinematic_Map
+[2025.04.27-08.36.33:898][ 31]LogSlate: Window 'Movie Render - Preview' being destroyed
+[2025.04.27-08.36.34:023][ 31]LogWorld: UWorld::CleanupWorld for Cinematic_Map, bSessionEnded=true, bCleanupResources=true
+[2025.04.27-08.36.34:024][ 31]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.27-08.36.34:029][ 31]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.04.27-08.36.34:038][ 31]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.27-08.36.34:049][ 31]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 8
+[2025.04.27-08.36.34:049][ 31]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8
+[2025.04.27-08.36.34:051][ 31]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8
+[2025.04.27-08.36.34:051][ 31]LogAudioMixer: Display: StopRunningNullDevice() called, InstanceID=8
+[2025.04.27-08.36.34:057][ 31]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2025.04.27-08.36.34:125][ 31]LogTemp: Movie Capture finished. Success: 1
+[2025.04.27-08.36.34:281][ 32]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2025.04.27-08.36.34:358][ 33]LogRenderer: Display: Recreating Shadow.Virtual.PhysicalPagePool due to size or flags change. This will also drop any cached pages.
+[2025.04.27-08.36.34:368][ 34]LogPlayLevel: Display: Destroying online subsystem :Context_48
+[2025.04.27-08.41.47:657][508]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6590.243164
+[2025.04.27-08.41.47:950][534]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.04.27-08.41.47:950][534]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6590.526367, Update Interval: 336.917023
+[2025.04.27-08.48.00:929][677]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6963.524414
+[2025.04.27-08.48.01:216][703]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.04.27-08.48.01:217][703]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6963.800781, Update Interval: 355.079803
+[2025.04.27-08.50.33:994][503]LogEOSSDK: LogEOSAuth: Refreshing authentication session. AccessTokenExpired: No RefreshRequired: Yes VerifyRequired: No UserId: 628...bbf
+[2025.04.27-08.50.33:994][503]LogEOSSDK: LogEOSAuth: Refresh authentication session. AuthState: 1 AccessExpires: 100 RefreshExpires: 1.549e+07
+[2025.04.27-08.50.34:315][532]LogEOSSDK: LogEOSAuth: UpdateUserAuthToken: User ClientId: xyz...459 AccountId: 628...bbf Access[Expires: 2025.04.27-10.50.34 Remaining: 7200.07] Refresh[Expires: 2025-10-23T15:10:58.659Z Remaining: 15488424.66] State: Valid
+[2025.04.27-08.53.46:218][866]LogDerivedDataCache: C:/Users/emmap/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.04.27-08.54.03:265][374]LogSlate: Window 'Render Movie Settings' being destroyed
+[2025.04.27-08.54.54:018][870]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 7376.697754
+[2025.04.27-08.54.55:016][873]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.04.27-08.54.55:016][873]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7377.363281, Update Interval: 342.789398
